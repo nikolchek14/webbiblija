@@ -1,0 +1,58 @@
+body {
+  text-align: justify;
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+h1 {
+  font-size: x-large;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-size: large;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: left;
+  padding-left: 3em;
+}
+h4.podnaslovReferenca {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-style: italic;
+  font-weight: normal;
+}
+sup {
+  color: #8B0000;
+  font-size: 0.75em;
+  font-style: italic;
+  padding: 0;
+  margin-right: -0.2pc;
+  margin-left: -0.1pc;
+}
+.glava span.glava_broj {
+  padding-left: 2pc;
+}
+.glava_broj {
+  font-weight: bold;
+  font-size: 1.4em;
+}
+span {
+  font-family: "Times New Roman";
+  font-size: 1em;
+  line-height: 1.27;
+  text-align: justify;
+  margin: 2em 0;
+}
+p {
+  margin: 0.2em;
+}
+.voved {
+  text-indent: 3pc;
+}

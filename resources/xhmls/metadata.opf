@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="3.0" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id-1">Sveto Pismo - Biblija</dc:title>
+    <dc:creator id="id-2">MPC-OA</dc:creator>
+    <dc:identifier id="calibre_id">calibre:452f66ec-706d-418d-882e-cc02109fc3f2</dc:identifier>
+    <dc:identifier id="uuid_id">uuid:06bc9390-c975-40ee-87e8-5af41e6192a7</dc:identifier>
+    <dc:contributor id="id-3">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>mkd</dc:language>
+    <meta refines="#id-1" property="title-type">main</meta>
+    <meta property="role" refines="#id-2" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id-2">Unknown</meta>
+    <meta property="role" refines="#id-3" scheme="marc:relators">bkp</meta>
+    <meta property="file-as" refines="#id-3">calibre</meta>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2020-02-05T18:54:22Z</meta>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" properties="svg calibre:title-page"/>
+    <item href="page_styles.css" id="id78" media-type="text/css"/>
+    <item href="stylesheet.css" id="id79" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg" properties="cover-image"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="StarZavet.xhtml" id="id80" media-type="application/xhtml+xml"/>
+    <item href="NovZavet.xhtml" id="id81" media-type="application/xhtml+xml"/>
+    <item href="Kniga1_1Mojs.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Kniga2_2Mojs.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Kniga3_3Mojs.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Kniga4_4Mojs.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Kniga5_5Mojs.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Kniga6_IsN.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Kniga7_Sud.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Kniga8_Ruta.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Kniga9_1Car.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Kniga10_2Car.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Kniga11_3Car.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Kniga12_4Car.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Kniga13_1Let.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Kniga14_2Let.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Kniga15_1Ezd.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Kniga16_2Ezd.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Kniga17_3Ezd.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Kniga18_Neem.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Kniga19_Tov.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Kniga20_Judita.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Kniga21_Est.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Kniga22_1Mak.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Kniga23_2Mak.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Kniga24_3Mak.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Kniga25_Ps.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Kniga26_Jov.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Kniga27_Izreki.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Kniga28_Prop.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Kniga29_Pesna.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Kniga30_Mudr.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Kniga31_Sir.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="Kniga32_Is.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="Kniga33_Er.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="Kniga34_Plach.xhtml" id="id33" media-type="application/xhtml+xml"/>
+    <item href="Kniga35_Posl.xhtml" id="id34" media-type="application/xhtml+xml"/>
+    <item href="Kniga36_Varuh.xhtml" id="id35" media-type="application/xhtml+xml"/>
+    <item href="Kniga37_Ez.xhtml" id="id36" media-type="application/xhtml+xml"/>
+    <item href="Kniga38_Dan.xhtml" id="id37" media-type="application/xhtml+xml"/>
+    <item href="Kniga39_Os.xhtml" id="id38" media-type="application/xhtml+xml"/>
+    <item href="Kniga40_Joil.xhtml" id="id39" media-type="application/xhtml+xml"/>
+    <item href="Kniga41_Amos.xhtml" id="id40" media-type="application/xhtml+xml"/>
+    <item href="Kniga42_Avd.xhtml" id="id41" media-type="application/xhtml+xml"/>
+    <item href="Kniga43_Jona.xhtml" id="id42" media-type="application/xhtml+xml"/>
+    <item href="Kniga44_Mih.xhtml" id="id43" media-type="application/xhtml+xml"/>
+    <item href="Kniga45_Naum.xhtml" id="id44" media-type="application/xhtml+xml"/>
+    <item href="Kniga46_Avak.xhtml" id="id45" media-type="application/xhtml+xml"/>
+    <item href="Kniga47_Sof.xhtml" id="id46" media-type="application/xhtml+xml"/>
+    <item href="Kniga48_Agej.xhtml" id="id47" media-type="application/xhtml+xml"/>
+    <item href="Kniga49_Zah.xhtml" id="id48" media-type="application/xhtml+xml"/>
+    <item href="Kniga50_Mal.xhtml" id="id49" media-type="application/xhtml+xml"/>
+    <item href="Kniga51_Mt.xhtml" id="id50" media-type="application/xhtml+xml"/>
+    <item href="Kniga52_Mk.xhtml" id="id51" media-type="application/xhtml+xml"/>
+    <item href="Kniga53_Lk.xhtml" id="id52" media-type="application/xhtml+xml"/>
+    <item href="Kniga54_Jn.xhtml" id="id53" media-type="application/xhtml+xml"/>
+    <item href="Kniga55_Dela.xhtml" id="id54" media-type="application/xhtml+xml"/>
+    <item href="Kniga56_Rim.xhtml" id="id55" media-type="application/xhtml+xml"/>
+    <item href="Kniga57_1Kor.xhtml" id="id56" media-type="application/xhtml+xml"/>
+    <item href="Kniga58_2Kor.xhtml" id="id57" media-type="application/xhtml+xml"/>
+    <item href="Kniga59_Gal.xhtml" id="id58" media-type="application/xhtml+xml"/>
+    <item href="Kniga60_Efes.xhtml" id="id59" media-type="application/xhtml+xml"/>
+    <item href="Kniga61_Fil.xhtml" id="id60" media-type="application/xhtml+xml"/>
+    <item href="Kniga62_Kol.xhtml" id="id61" media-type="application/xhtml+xml"/>
+    <item href="Kniga63_1Sol.xhtml" id="id62" media-type="application/xhtml+xml"/>
+    <item href="Kniga64_2Sol.xhtml" id="id63" media-type="application/xhtml+xml"/>
+    <item href="Kniga65_1Tim.xhtml" id="id64" media-type="application/xhtml+xml"/>
+    <item href="Kniga66_2Tim.xhtml" id="id65" media-type="application/xhtml+xml"/>
+    <item href="Kniga67_Tit.xhtml" id="id66" media-type="application/xhtml+xml"/>
+    <item href="Kniga68_Flmn.xhtml" id="id67" media-type="application/xhtml+xml"/>
+    <item href="Kniga69_Evr.xhtml" id="id68" media-type="application/xhtml+xml"/>
+    <item href="Kniga70_Jk.xhtml" id="id69" media-type="application/xhtml+xml"/>
+    <item href="Kniga71_1Ptr.xhtml" id="id70" media-type="application/xhtml+xml"/>
+    <item href="Kniga72_2Ptr.xhtml" id="id71" media-type="application/xhtml+xml"/>
+    <item href="Kniga73_1Jn.xhtml" id="id72" media-type="application/xhtml+xml"/>
+    <item href="Kniga74_2Jn.xhtml" id="id73" media-type="application/xhtml+xml"/>
+    <item href="Kniga75_3Jn.xhtml" id="id74" media-type="application/xhtml+xml"/>
+    <item href="Kniga76_Juda.xhtml" id="id75" media-type="application/xhtml+xml"/>
+    <item href="Kniga77_Otkr.xhtml" id="id76" media-type="application/xhtml+xml"/>
+    <item href="Futnoti.xhtml" id="id77" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="titlepage"/>
+    <itemref idref="id80"/>
+    <itemref idref="id"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id81"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+    <itemref idref="id57"/>
+    <itemref idref="id58"/>
+    <itemref idref="id59"/>
+    <itemref idref="id60"/>
+    <itemref idref="id61"/>
+    <itemref idref="id62"/>
+    <itemref idref="id63"/>
+    <itemref idref="id64"/>
+    <itemref idref="id65"/>
+    <itemref idref="id66"/>
+    <itemref idref="id67"/>
+    <itemref idref="id68"/>
+    <itemref idref="id69"/>
+    <itemref idref="id70"/>
+    <itemref idref="id71"/>
+    <itemref idref="id72"/>
+    <itemref idref="id73"/>
+    <itemref idref="id74"/>
+    <itemref idref="id75"/>
+    <itemref idref="id76"/>
+    <itemref idref="id77"/>
+  </spine>
+  <guide>
+  </guide>
+  </package>
