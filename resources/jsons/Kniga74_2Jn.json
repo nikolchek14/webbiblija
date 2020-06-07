@@ -1,0 +1,456 @@
+{
+    "voved": [
+        "Писателот едноставно се означува како „старешина“, односно ,,свештеник“. Начинот на кој тој се изразува, покажува дека да има одреден авторитет пред своите приврзаници. Тој се обраќа до „избраната од Бога госпоѓа и нејзините чеда“, израз кој веројатно означува некоја локална црква и нејзините членови(ст.1).",
+        "Тој ги охрабрува своите читатели да живеат во вистината и во љубовта(ст.1-6). Нив ги спротивставува на луѓето кои ги шират идеите аналогни на оние кои ги побива Првото послание на Јован (ст.7-11). Тој завршува со најава за неговото доаѓање и пренесување на поздравите од сестринската црква(ст.12).",
+        "Како и Првото послание на Јован, така и ова ги повикува читателите да бидат постојано будни и да бидат истрајни во вистинската вера."
+    ],
+    "glavi": [
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Поздрав",
+                    "r_br": 1,
+                    "tekst": "Од свештеникот – до избраната госпоѓа и нејзините чеда, кои ги љубам во вистината, – и не само јас, туку и сите што ја познаа вистината;",
+                    "referenci": [
+                        {
+                            "referenca": "Јн 8,32",
+                            "meta_link": "Kniga54_Jn.xhtml#g8s32"
+                        },
+                        {
+                            "referenca": "Ефес 4,15",
+                            "meta_link": "Kniga60_Efes.xhtml#g4s15"
+                        },
+                        {
+                            "referenca": "1 Птр 5,13",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s13"
+                        },
+                        {
+                            "referenca": "1 Јн 2,21",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s21"
+                        },
+                        {
+                            "referenca": "1 Јн 3,18",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s18"
+                        },
+                        {
+                            "referenca": "3 Јн 1,1",
+                            "meta_link": "Kniga75_3Jn.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "2 Јн 1,1",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "Дела 12,17",
+                            "meta_link": "Kniga55_Dela.xhtml#g12s17"
+                        },
+                        {
+                            "referenca": "Јк 1,1",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "поради вистината, која пребива во нас и ќе биде со нас до века.",
+                    "referenci": [
+                        {
+                            "referenca": "Јн 14,16-17",
+                            "meta_link": "Kniga54_Jn.xhtml#g14s16"
+                        },
+                        {
+                            "referenca": "3 Птр 1,2",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g1s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Да биде со нас благодатта, милосрдието, мирот од Бог Отецот и од Господ Исус Христос, Синот на Отецот во вистина и љубов!",
+                    "referenci": [
+                        {
+                            "referenca": "1 Тим 1,2",
+                            "meta_link": "Kniga65_1Tim.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "2 Тим 1,2",
+                            "meta_link": "Kniga66_2Tim.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "Фил 1,5",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s5"
+                        },
+                        {
+                            "referenca": "1 Јн 3,19",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s19"
+                        },
+                        {
+                            "referenca": "Дела 9,13",
+                            "meta_link": "Kniga55_Dela.xhtml#g9s13"
+                        },
+                        {
+                            "referenca": "Гал 2,4",
+                            "meta_link": "Kniga59_Gal.xhtml#g2s4"
+                        },
+                        {
+                            "referenca": "1 Птр 2,11",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s11"
+                        },
+                        {
+                            "referenca": "3 Птр 2,21",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s21"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Заповед на љубовта",
+                    "r_br": "4",
+                    "tekst": "Многу се зарадував, зашто најдов некои од твоите чеда во вистина, онака како што добивме заповед од Отецот.",
+                    "referenci": [
+                        {
+                            "referenca": "Јн 13,34",
+                            "meta_link": "Kniga54_Jn.xhtml#g13s34"
+                        },
+                        {
+                            "referenca": "Фил 1,7",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s7"
+                        },
+                        {
+                            "referenca": "1 Јн 3,19",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s19"
+                        },
+                        {
+                            "referenca": "3 Јн 1,3",
+                            "meta_link": "Kniga75_3Jn.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "2 Јн 1,4",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s4"
+                        },
+                        {
+                            "referenca": "Гал 5,13",
+                            "meta_link": "Kniga59_Gal.xhtml#g5s13"
+                        },
+                        {
+                            "referenca": "1 Птр 2,16",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s16"
+                        },
+                        {
+                            "referenca": "3 Птр 2,1",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s1"
+                        },
+                        {
+                            "referenca": "1 Јн 4,1",
+                            "meta_link": "Kniga73_1Jn.xhtml#g4s1"
+                        },
+                        {
+                            "referenca": "2 Јн 1,10",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "И сега те молам, госпоѓо, не како да ти пишувам нова заповед, но онаа што ја имаме од почетокот, да се љубиме едни со други.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Птр 4,8",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g4s8"
+                        },
+                        {
+                            "referenca": "1 Јн 2,7-11",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s7"
+                        },
+                        {
+                            "referenca": "Мт 10,41-42",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s41"
+                        },
+                        {
+                            "referenca": "4 Мојс 14,35",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g14s35"
+                        },
+                        {
+                            "referenca": "1 Кор 10,5",
+                            "meta_link": "Kniga57_1Kor.xhtml#g10s5"
+                        },
+                        {
+                            "referenca": "3 Птр 1,12",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g1s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "А љубовта се состои во тоа, да постапуваме по Неговите заповеди. Тоа е заповедта, што ја чувте во почетокот, за да постапувате според неа;",
+                    "referenci": [
+                        {
+                            "referenca": "1 Јн 3,23",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s23"
+                        },
+                        {
+                            "referenca": "1 Јн 5,3",
+                            "meta_link": "Kniga73_1Jn.xhtml#g5s3"
+                        },
+                        {
+                            "referenca": "Рим 15,24",
+                            "meta_link": "Kniga56_Rim.xhtml#g15s24"
+                        },
+                        {
+                            "referenca": "Тит 3,13",
+                            "meta_link": "Kniga67_Tit.xhtml#g3s13"
+                        },
+                        {
+                            "referenca": "1 Мојс 6,1-2",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g6s1"
+                        },
+                        {
+                            "referenca": "3 Птр 2,4",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s4"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Антихристи",
+                    "r_br": "7",
+                    "tekst": "бидејќи во светот влегоа мнозина измамници, кои не исповедаат дека Исус Христос дошол во тело; таков човек е измамник, Антихрист.",
+                    "referenci": [
+                        {
+                            "referenca": "3 Птр 2,1",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s1"
+                        },
+                        {
+                            "referenca": "1 Јн 2,18.22",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s18"
+                        },
+                        {
+                            "referenca": "1 Јн 4,1-3",
+                            "meta_link": "Kniga73_1Jn.xhtml#g4s1"
+                        },
+                        {
+                            "referenca": "1 Мојс 19",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g19"
+                        },
+                        {
+                            "referenca": "Мт 10,15",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s15"
+                        },
+                        {
+                            "referenca": "3 Птр 2,6-9",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Пазете се за да не го изгубите она за кое сте се труделе, туку да добиете полна награда.",
+                    "referenci": [
+                        {
+                            "referenca": "Рута 2,18",
+                            "meta_link": "Kniga8_Ruta.xhtml#g2s18"
+                        },
+                        {
+                            "referenca": "Мт 10,42",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s42"
+                        },
+                        {
+                            "referenca": "Мт 18,5",
+                            "meta_link": "Kniga51_Mt.xhtml#g18s5"
+                        },
+                        {
+                            "referenca": "Рим 12,13",
+                            "meta_link": "Kniga56_Rim.xhtml#g12s13"
+                        },
+                        {
+                            "referenca": "Евр 13,2",
+                            "meta_link": "Kniga69_Evr.xhtml#g13s2"
+                        },
+                        {
+                            "referenca": "1 Птр 4,9",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g4s9"
+                        },
+                        {
+                            "referenca": "3 Птр 2,10",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Секој, кој оди предалеку и не останува во Христовото учење, Го нема Бога; кој останува во Христовото учење, тој Го има и Отецот и Синот.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Јн 2,23-24",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s23"
+                        },
+                        {
+                            "referenca": "Мт 20,27",
+                            "meta_link": "Kniga51_Mt.xhtml#g20s27"
+                        },
+                        {
+                            "referenca": "Фил 2,3",
+                            "meta_link": "Kniga61_Fil.xhtml#g2s3"
+                        },
+                        {
+                            "referenca": "Зах 3,2",
+                            "meta_link": "Kniga49_Zah.xhtml#g3s2"
+                        },
+                        {
+                            "referenca": "Дан 10,13.21",
+                            "meta_link": "Kniga38_Dan.xhtml#g10s13"
+                        },
+                        {
+                            "referenca": "Дан 12,1",
+                            "meta_link": "Kniga38_Dan.xhtml#g12s1"
+                        },
+                        {
+                            "referenca": "Откр 12,7",
+                            "meta_link": "Kniga77_Otkr.xhtml#g12s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Кој доаѓа кај вас и не го носи тоа учење, него не го примајте во вашиот дом и не поздравувајте го;",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 10,14",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s14"
+                        },
+                        {
+                            "referenca": "Рим 16,17",
+                            "meta_link": "Kniga56_Rim.xhtml#g16s17"
+                        },
+                        {
+                            "referenca": "Тит 3,10",
+                            "meta_link": "Kniga67_Tit.xhtml#g3s10"
+                        },
+                        {
+                            "referenca": "1 Кор 4,18-21",
+                            "meta_link": "Kniga57_1Kor.xhtml#g4s18"
+                        },
+                        {
+                            "referenca": "1 Птр 5,3",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s3"
+                        },
+                        {
+                            "referenca": "3 Птр 2,12",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "зашто, кој го поздравува, учествува во неговите лоши дела.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Тим 5,22",
+                            "meta_link": "Kniga65_1Tim.xhtml#g5s22"
+                        },
+                        {
+                            "referenca": "Откр 18,4",
+                            "meta_link": "Kniga77_Otkr.xhtml#g18s4"
+                        },
+                        {
+                            "referenca": "1 Птр 3,11",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g3s11"
+                        },
+                        {
+                            "referenca": "1 Јн 3,6",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s6"
+                        },
+                        {
+                            "referenca": "1 Мојс 4,8",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g4s8"
+                        },
+                        {
+                            "referenca": "4 Мојс 22,2",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g22s2"
+                        },
+                        {
+                            "referenca": "4 Мојс 31,16",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g31s16"
+                        },
+                        {
+                            "referenca": "Неем 13,2",
+                            "meta_link": "Kniga18_Neem.xhtml#g13s2"
+                        },
+                        {
+                            "referenca": "3 Птр 2,15",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s15"
+                        },
+                        {
+                            "referenca": "1 Јн 3,12",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s12"
+                        },
+                        {
+                            "referenca": "Откр 2,14",
+                            "meta_link": "Kniga77_Otkr.xhtml#g2s14"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Поздрави",
+                    "r_br": "12",
+                    "tekst": "Вистина, имав многу да ви пишувам, но не сакав на книга и со мастило, зашто се надевам дека ќе дојдам кај вас и од устата да ви зборувам, та радоста",
+                    "referenci": [
+                        {
+                            "referenca": "1 Јн 1,4",
+                            "meta_link": "Kniga73_1Jn.xhtml#g1s4"
+                        },
+                        {
+                            "referenca": "3 Јн 1,13-14",
+                            "meta_link": "Kniga75_3Jn.xhtml#g1s13"
+                        },
+                        {
+                            "referenca": "Изреки 22,1",
+                            "meta_link": "Kniga27_Izreki.xhtml#g22s1"
+                        },
+                        {
+                            "referenca": "Јн 19,35",
+                            "meta_link": "Kniga54_Jn.xhtml#g19s35"
+                        },
+                        {
+                            "referenca": "Јн 21,24",
+                            "meta_link": "Kniga54_Jn.xhtml#g21s24"
+                        },
+                        {
+                            "referenca": "1 Птр 2,12",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s12"
+                        },
+                        {
+                            "referenca": "1 Јн 5,6",
+                            "meta_link": "Kniga73_1Jn.xhtml#g5s6"
+                        },
+                        {
+                            "referenca": "Ис 34,8",
+                            "meta_link": "Kniga32_Is.xhtml#g34s8"
+                        },
+                        {
+                            "referenca": "Изреки 25,14",
+                            "meta_link": "Kniga27_Izreki.xhtml#g25s14"
+                        },
+                        {
+                            "referenca": "3 Птр 2,13.17",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s13"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "ваша да ви биде полна. Ве поздравуваат чедата на избраната твоја сестра. Амин!",
+                    "referenci": [
+                        {
+                            "referenca": "2 Јн 1,12",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s12"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "1"
+        }
+    ],
+    "kratko_ime": "2 Јован",
+    "celo_ime": "Второ послание на апостол Јован",
+    "kratenka": "2 Јн",
+    "naslov": "ВТОРО ПОСЛАНИЕ НА АПОСТОЛ ЈОВАН"
+}

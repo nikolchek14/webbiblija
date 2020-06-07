@@ -12,7 +12,7 @@
     <meta property="file-as" refines="#id-2">Unknown</meta>
     <meta property="role" refines="#id-3" scheme="marc:relators">bkp</meta>
     <meta property="file-as" refines="#id-3">calibre</meta>
-    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2020-02-05T18:54:22Z</meta>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2020-06-06T19:56:33Z</meta>
   </metadata>
   <manifest>
     <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" properties="svg calibre:title-page"/>
