@@ -145,6 +145,7 @@ for key, value in metaKnigi.items():
             if(link.find(elem.tag) == elem):
                 referenca['meta_link'] = link.attrib.get('href')
 
+    kniga['meta_fajl'] = key[:key.find('.xhtml')]
     knigi.append(kniga);
     with open('../resources/jsons/'+key[:key.find('.xhtml')]+'.json', 'w', encoding='utf-8') as outfile:
         json.dump(kniga, outfile, ensure_ascii=False, indent=4)
