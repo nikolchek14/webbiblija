@@ -1,0 +1,483 @@
+{
+    "voved": [
+        "Ова послание, исто така напишано од „старешината“, односно,,свештеникот“ (ст.1; 2 Јн. ст.1.), е упатено до некој си Гај. Ние ништо не знаме за овој човек, освен дека тој останал верен на вистината. Неговиот став е спротивен на Диотрефовиот, влијателен член на заедницата кој го клевети„старешината“ и му го откажува гостопримството.",
+        "Писателот го пофалува Гај поради неговата верност и неговите услуги што им ги направил на христијаните (ст.1-8).",
+        "Ќе се забележи, судејќи според ова послание, дека гостопримството, дочекот резервиран за браќата, е форма на љубов и на верност во вистината."
+    ],
+    "glavi": [
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Поздрав",
+                    "r_br": 1,
+                    "tekst": "Свештеникот – до возљубениот Гај, кого го љубам во вистината.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Јн 1,1",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "Јн 8,32",
+                            "meta_link": "Kniga54_Jn.xhtml#g8s32"
+                        },
+                        {
+                            "referenca": "Ефес 4,15",
+                            "meta_link": "Kniga60_Efes.xhtml#g4s15"
+                        },
+                        {
+                            "referenca": "1 Птр 5,13",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s13"
+                        },
+                        {
+                            "referenca": "1 Јн 2,21",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s21"
+                        },
+                        {
+                            "referenca": "1 Јн 3,18",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s18"
+                        },
+                        {
+                            "referenca": "3 Јн 1,1",
+                            "meta_link": "Kniga75_3Jn.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "Дела 12,17",
+                            "meta_link": "Kniga55_Dela.xhtml#g12s17"
+                        },
+                        {
+                            "referenca": "Јк 1,1",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Возљубен, се молам да бидеш здрав и во сѐ да ти биде добро, како што ѝ е добро на душата твоја.",
+                    "referenci": [
+                        {
+                            "referenca": "Јн 14,16-17",
+                            "meta_link": "Kniga54_Jn.xhtml#g14s16"
+                        },
+                        {
+                            "referenca": "3 Птр 1,2",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g1s2"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Пофалба за добродетелството",
+                    "r_br": "3",
+                    "tekst": "Многу се зарадував кога дојдоа браќата и посведочија за твојата вистина – односно како ти одиш во вистината.",
+                    "referenci": [
+                        {
+                            "referenca": "Фил 1,5",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s5"
+                        },
+                        {
+                            "referenca": "1 Јн 3,19",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s19"
+                        },
+                        {
+                            "referenca": "1 Тим 1,2",
+                            "meta_link": "Kniga65_1Tim.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "2 Тим 1,2",
+                            "meta_link": "Kniga66_2Tim.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "Дела 9,13",
+                            "meta_link": "Kniga55_Dela.xhtml#g9s13"
+                        },
+                        {
+                            "referenca": "Гал 2,4",
+                            "meta_link": "Kniga59_Gal.xhtml#g2s4"
+                        },
+                        {
+                            "referenca": "1 Птр 2,11",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s11"
+                        },
+                        {
+                            "referenca": "3 Птр 2,21",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s21"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "За мене нема поголема радост од тоа – да слушнам дека моите чеда одат во вистината.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Јн 1,4",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s4"
+                        },
+                        {
+                            "referenca": "Јн 13,34",
+                            "meta_link": "Kniga54_Jn.xhtml#g13s34"
+                        },
+                        {
+                            "referenca": "Фил 1,7",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s7"
+                        },
+                        {
+                            "referenca": "1 Јн 3,19",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s19"
+                        },
+                        {
+                            "referenca": "3 Јн 1,3",
+                            "meta_link": "Kniga75_3Jn.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "Гал 5,13",
+                            "meta_link": "Kniga59_Gal.xhtml#g5s13"
+                        },
+                        {
+                            "referenca": "1 Птр 2,16",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s16"
+                        },
+                        {
+                            "referenca": "3 Птр 2,1",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s1"
+                        },
+                        {
+                            "referenca": "1 Јн 4,1",
+                            "meta_link": "Kniga73_1Jn.xhtml#g4s1"
+                        },
+                        {
+                            "referenca": "2 Јн 1,10",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Возљубен, ти постапуваш верно во сѐ што го правиш за браќата и гостите.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 10,41-42",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s41"
+                        },
+                        {
+                            "referenca": "1 Птр 4,8",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g4s8"
+                        },
+                        {
+                            "referenca": "1 Јн 2,7-11",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s7"
+                        },
+                        {
+                            "referenca": "4 Мојс 14,35",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g14s35"
+                        },
+                        {
+                            "referenca": "1 Кор 10,5",
+                            "meta_link": "Kniga57_1Kor.xhtml#g10s5"
+                        },
+                        {
+                            "referenca": "3 Птр 1,12",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g1s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Тие ја посведочија твојата љубов пред Црквата. Добро ќе направиш ако ги приготвиш пред Бога како што треба.",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 15,24",
+                            "meta_link": "Kniga56_Rim.xhtml#g15s24"
+                        },
+                        {
+                            "referenca": "Тит 3,13",
+                            "meta_link": "Kniga67_Tit.xhtml#g3s13"
+                        },
+                        {
+                            "referenca": "1 Јн 3,23",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s23"
+                        },
+                        {
+                            "referenca": "1 Јн 5,3",
+                            "meta_link": "Kniga73_1Jn.xhtml#g5s3"
+                        },
+                        {
+                            "referenca": "1 Мојс 6,1-2",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g6s1"
+                        },
+                        {
+                            "referenca": "3 Птр 2,4",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s4"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Бидејќи поради Неговото име тргнаа, не земајќи ништо од незнабошците.",
+                    "referenci": [
+                        {
+                            "referenca": "3 Птр 2,1",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s1"
+                        },
+                        {
+                            "referenca": "1 Јн 2,18.22",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s18"
+                        },
+                        {
+                            "referenca": "1 Јн 4,1-3",
+                            "meta_link": "Kniga73_1Jn.xhtml#g4s1"
+                        },
+                        {
+                            "referenca": "1 Мојс 19",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g19"
+                        },
+                        {
+                            "referenca": "Мт 10,15",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s15"
+                        },
+                        {
+                            "referenca": "3 Птр 2,6-9",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Ние сме, пак, должни да примаме такви, за да станеме соработници со вистината.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 18,5",
+                            "meta_link": "Kniga51_Mt.xhtml#g18s5"
+                        },
+                        {
+                            "referenca": "Рим 12,13",
+                            "meta_link": "Kniga56_Rim.xhtml#g12s13"
+                        },
+                        {
+                            "referenca": "Евр 13,2",
+                            "meta_link": "Kniga69_Evr.xhtml#g13s2"
+                        },
+                        {
+                            "referenca": "1 Птр 4,9",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g4s9"
+                        },
+                        {
+                            "referenca": "Рута 2,18",
+                            "meta_link": "Kniga8_Ruta.xhtml#g2s18"
+                        },
+                        {
+                            "referenca": "Мт 10,42",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s42"
+                        },
+                        {
+                            "referenca": "3 Птр 2,10",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s10"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Властољубието на Диотреф",
+                    "r_br": "9",
+                    "tekst": "Јас напишав неколку збора до Црквата, но Диотреф, кој сака да биде прв меѓу нив, не нѐ прими нас.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 20,27",
+                            "meta_link": "Kniga51_Mt.xhtml#g20s27"
+                        },
+                        {
+                            "referenca": "Фил 2,3",
+                            "meta_link": "Kniga61_Fil.xhtml#g2s3"
+                        },
+                        {
+                            "referenca": "1 Јн 2,23-24",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s23"
+                        },
+                        {
+                            "referenca": "Зах 3,2",
+                            "meta_link": "Kniga49_Zah.xhtml#g3s2"
+                        },
+                        {
+                            "referenca": "Дан 10,13.21",
+                            "meta_link": "Kniga38_Dan.xhtml#g10s13"
+                        },
+                        {
+                            "referenca": "Дан 12,1",
+                            "meta_link": "Kniga38_Dan.xhtml#g12s1"
+                        },
+                        {
+                            "referenca": "Откр 12,7",
+                            "meta_link": "Kniga77_Otkr.xhtml#g12s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Затоа, ако дојдам, ќе му спомнам за делата негови што ги прави, напаѓајќи нѐ со лоши зборови; и тоа не му е доволно, туку браќата сам не ги прима, а им забранува да ги примаат и оние кои сакаат да ги примат, и ги гони од Црквата.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Кор 4,18-21",
+                            "meta_link": "Kniga57_1Kor.xhtml#g4s18"
+                        },
+                        {
+                            "referenca": "1 Птр 5,3",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s3"
+                        },
+                        {
+                            "referenca": "Мт 10,14",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s14"
+                        },
+                        {
+                            "referenca": "Рим 16,17",
+                            "meta_link": "Kniga56_Rim.xhtml#g16s17"
+                        },
+                        {
+                            "referenca": "Тит 3,10",
+                            "meta_link": "Kniga67_Tit.xhtml#g3s10"
+                        },
+                        {
+                            "referenca": "3 Птр 2,12",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Возљубени, не угледувајте се на злото, туку на доброто. Кој добро чини, од Бога е; а кој прави зло, не Го видел Бога.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Птр 3,11",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g3s11"
+                        },
+                        {
+                            "referenca": "1 Јн 3,6",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s6"
+                        },
+                        {
+                            "referenca": "1 Тим 5,22",
+                            "meta_link": "Kniga65_1Tim.xhtml#g5s22"
+                        },
+                        {
+                            "referenca": "Откр 18,4",
+                            "meta_link": "Kniga77_Otkr.xhtml#g18s4"
+                        },
+                        {
+                            "referenca": "1 Мојс 4,8",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g4s8"
+                        },
+                        {
+                            "referenca": "4 Мојс 22,2",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g22s2"
+                        },
+                        {
+                            "referenca": "4 Мојс 31,16",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g31s16"
+                        },
+                        {
+                            "referenca": "Неем 13,2",
+                            "meta_link": "Kniga18_Neem.xhtml#g13s2"
+                        },
+                        {
+                            "referenca": "3 Птр 2,15",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s15"
+                        },
+                        {
+                            "referenca": "1 Јн 3,12",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s12"
+                        },
+                        {
+                            "referenca": "Откр 2,14",
+                            "meta_link": "Kniga77_Otkr.xhtml#g2s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "За Димитриј посведочија сите, па и самата вистина; а сведочиме, исто така, и ние; а вие знаете дека сведоштвото наше е вистинско.",
+                    "referenci": [
+                        {
+                            "referenca": "Изреки 22,1",
+                            "meta_link": "Kniga27_Izreki.xhtml#g22s1"
+                        },
+                        {
+                            "referenca": "Јн 19,35",
+                            "meta_link": "Kniga54_Jn.xhtml#g19s35"
+                        },
+                        {
+                            "referenca": "Јн 21,24",
+                            "meta_link": "Kniga54_Jn.xhtml#g21s24"
+                        },
+                        {
+                            "referenca": "1 Птр 2,12",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s12"
+                        },
+                        {
+                            "referenca": "1 Јн 5,6",
+                            "meta_link": "Kniga73_1Jn.xhtml#g5s6"
+                        },
+                        {
+                            "referenca": "1 Јн 1,4",
+                            "meta_link": "Kniga73_1Jn.xhtml#g1s4"
+                        },
+                        {
+                            "referenca": "3 Јн 1,13-14",
+                            "meta_link": "Kniga75_3Jn.xhtml#g1s13"
+                        },
+                        {
+                            "referenca": "Ис 34,8",
+                            "meta_link": "Kniga32_Is.xhtml#g34s8"
+                        },
+                        {
+                            "referenca": "Изреки 25,14",
+                            "meta_link": "Kniga27_Izreki.xhtml#g25s14"
+                        },
+                        {
+                            "referenca": "3 Птр 2,13.17",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s13"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Завршни поздрави",
+                    "r_br": "13",
+                    "tekst": "Многу имав да ти пишувам, но не сакав да ти напишам со мастило и перо,",
+                    "referenci": [
+                        {
+                            "referenca": "2 Јн 1,12",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s12"
+                        },
+                        {
+                            "referenca": "Ис 57,20",
+                            "meta_link": "Kniga32_Is.xhtml#g57s20"
+                        },
+                        {
+                            "referenca": "3 Птр 2,17",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "туку се надевам дека наскоро ќе те видам, и дека ќе позборуваме лице в лице.",
+                    "referenci": [
+                        {
+                            "referenca": "Зах 14,5",
+                            "meta_link": "Kniga49_Zah.xhtml#g14s5"
+                        },
+                        {
+                            "referenca": "Дан 7,10",
+                            "meta_link": "Kniga38_Dan.xhtml#g7s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Мир за тебе! Те поздравуваат пријателите. Поздрави ги пријателите по име. Амин!"
+                }
+            ],
+            "r_br": "1"
+        }
+    ],
+    "kratko_ime": "3 Јован",
+    "celo_ime": "Трето послание на апостол Јован",
+    "kratenka": "3 Јн",
+    "naslov": "ТРЕТО ПОСЛАНИЕ НА АПОСТОЛ ЈОВАН",
+    "meta_fajl": "Kniga75_3Jn"
+}

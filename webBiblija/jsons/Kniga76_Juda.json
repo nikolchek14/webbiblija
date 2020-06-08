@@ -1,0 +1,790 @@
+{
+    "voved": [
+        "Посланието на Јуда не е упатено до некоја посебна заедница, туку до христијаните воопшто. Неговата порака е мошне блиска на онаа која се наоѓа во Второто Петрово послание (види посебно 2 Птр. 2): и едната и другата се борат против грешните учења и против оние кои се истакнуваат со нивниот разврат.",
+        "По воведот (ст.1-2), писателот жестоко ги напаѓа пропагаторите на лажните учења, кои се вовлекле во Црквата, и најавува осуда што ќе ги погоди сите (ст.3-16). Од своја страна, верниците се повикани да останат цврсти во верата (ст.17-23). Посланието завршува со завршен збор упатен до Единствениот Бог, нашиот Спасител Исус Христос, нашиот Господ(ст.24-25).",
+        "Ако ова послание ја открива застрашувачката сила на лагата, многу повеќе ја подвлекува потпората и надежта што ја поседуваат христијаните во Бога, во Христос Исус и во Светиот Дух."
+    ],
+    "glavi": [
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Поздрав",
+                    "r_br": 1,
+                    "tekst": "Јуда, слуга на Исус Христос, а брат на Јаков – до повиканите, возљубени во Бог Отецот и зачувани за Исус Христос.",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 12,17",
+                            "meta_link": "Kniga55_Dela.xhtml#g12s17"
+                        },
+                        {
+                            "referenca": "Јк 1,1",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "2 Јн 1,1",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "Јуда 1,19",
+                            "meta_link": "Kniga76_Juda.xhtml#g1s19"
+                        },
+                        {
+                            "referenca": "Јуда 22,6",
+                            "meta_link": "Kniga76_Juda.xhtml#g22s6"
+                        },
+                        {
+                            "referenca": "Дан 2,28-29",
+                            "meta_link": "Kniga38_Dan.xhtml#g2s28"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Милост, мир и љубов да ви се множат!",
+                    "referenci": [
+                        {
+                            "referenca": "3 Птр 1,2",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "Јуда 1,9",
+                            "meta_link": "Kniga76_Juda.xhtml#g1s9"
+                        },
+                        {
+                            "referenca": "Јуда 6,9",
+                            "meta_link": "Kniga76_Juda.xhtml#g6s9"
+                        },
+                        {
+                            "referenca": "Јуда 19,10",
+                            "meta_link": "Kniga76_Juda.xhtml#g19s10"
+                        },
+                        {
+                            "referenca": "Јуда 20,4",
+                            "meta_link": "Kniga76_Juda.xhtml#g20s4"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Лажни учења",
+                    "podnaslov_referenca": "(2 Птр 2,1-17)",
+                    "r_br": "3",
+                    "tekst": "Возљубени, грижејќи се постојано, да ви пишувам за нашето општо спасение, сметав дека е неопходно да ви напишам и да ве замолам – да се борите за вистинската вера, која им е дадена на светиите еднаш засекогаш,",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 9,13",
+                            "meta_link": "Kniga55_Dela.xhtml#g9s13"
+                        },
+                        {
+                            "referenca": "Гал 2,4",
+                            "meta_link": "Kniga59_Gal.xhtml#g2s4"
+                        },
+                        {
+                            "referenca": "1 Птр 2,11",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s11"
+                        },
+                        {
+                            "referenca": "3 Птр 2,21",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s21"
+                        },
+                        {
+                            "referenca": "Фил 1,5",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s5"
+                        },
+                        {
+                            "referenca": "1 Јн 3,19",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s19"
+                        },
+                        {
+                            "referenca": "Јуда 22,7.10",
+                            "meta_link": "Kniga76_Juda.xhtml#g22s7"
+                        },
+                        {
+                            "referenca": "2 Кор 6,2",
+                            "meta_link": "Kniga58_2Kor.xhtml#g6s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "зашто се вовлекоа некои луѓе, чија осуда е одамна определена, безбожници, што ја превртуваат благодатта Божја во нечистотија и се одрекуваат од Единиот Господар Бог и Господ наш Исус Христос.",
+                    "referenci": [
+                        {
+                            "referenca": "Гал 5,13",
+                            "meta_link": "Kniga59_Gal.xhtml#g5s13"
+                        },
+                        {
+                            "referenca": "1 Птр 2,16",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s16"
+                        },
+                        {
+                            "referenca": "3 Птр 2,1",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s1"
+                        },
+                        {
+                            "referenca": "1 Јн 4,1",
+                            "meta_link": "Kniga73_1Jn.xhtml#g4s1"
+                        },
+                        {
+                            "referenca": "2 Јн 1,10",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s10"
+                        },
+                        {
+                            "referenca": "2 Јн 1,4",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s4"
+                        },
+                        {
+                            "referenca": "Јуда 1,8",
+                            "meta_link": "Kniga76_Juda.xhtml#g1s8"
+                        },
+                        {
+                            "referenca": "Јуда 3,1",
+                            "meta_link": "Kniga76_Juda.xhtml#g3s1"
+                        },
+                        {
+                            "referenca": "Јуда 4,5.8",
+                            "meta_link": "Kniga76_Juda.xhtml#g4s5"
+                        },
+                        {
+                            "referenca": "Јуда 11,17",
+                            "meta_link": "Kniga76_Juda.xhtml#g11s17"
+                        },
+                        {
+                            "referenca": "Јуда 16,5",
+                            "meta_link": "Kniga76_Juda.xhtml#g16s5"
+                        },
+                        {
+                            "referenca": "2 Мојс 3,14",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g3s14"
+                        },
+                        {
+                            "referenca": "Ис 11,2",
+                            "meta_link": "Kniga32_Is.xhtml#g11s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Сакам да ви напомнам, иако ова веќе го знаете, дека Господ, откако го избави народот од египетската земја, ги погуби потоа оние што не веруваа;",
+                    "referenci": [
+                        {
+                            "referenca": "4 Мојс 14,35",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g14s35"
+                        },
+                        {
+                            "referenca": "1 Кор 10,5",
+                            "meta_link": "Kniga57_1Kor.xhtml#g10s5"
+                        },
+                        {
+                            "referenca": "3 Птр 1,12",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g1s12"
+                        },
+                        {
+                            "referenca": "Мт 10,41-42",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s41"
+                        },
+                        {
+                            "referenca": "Јуда 3,14",
+                            "meta_link": "Kniga76_Juda.xhtml#g3s14"
+                        },
+                        {
+                            "referenca": "Ис 55,4",
+                            "meta_link": "Kniga32_Is.xhtml#g55s4"
+                        },
+                        {
+                            "referenca": "Пс 89,26-27.37",
+                            "meta_link": "Kniga25_Ps.xhtml#g89s26"
+                        },
+                        {
+                            "referenca": "Кол 1,18",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "ангелите, пак, што не се покоруваа на своето началство, и го напуштија живеалиштето, ги стави во вечни окови, во мрак за суд на големиот ден.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 6,1-2",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g6s1"
+                        },
+                        {
+                            "referenca": "3 Птр 2,4",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s4"
+                        },
+                        {
+                            "referenca": "Рим 15,24",
+                            "meta_link": "Kniga56_Rim.xhtml#g15s24"
+                        },
+                        {
+                            "referenca": "Тит 3,13",
+                            "meta_link": "Kniga67_Tit.xhtml#g3s13"
+                        },
+                        {
+                            "referenca": "Јуда 5,10",
+                            "meta_link": "Kniga76_Juda.xhtml#g5s10"
+                        },
+                        {
+                            "referenca": "Јуда 20,6",
+                            "meta_link": "Kniga76_Juda.xhtml#g20s6"
+                        },
+                        {
+                            "referenca": "2 Мојс 19,6",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g19s6"
+                        },
+                        {
+                            "referenca": "Ис 61,6",
+                            "meta_link": "Kniga32_Is.xhtml#g61s6"
+                        },
+                        {
+                            "referenca": "1 Птр 2,5.9",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Како што Содом и Гомора и околните градови, што блудствуваа, а на ист начин како и тие, одеа по друго тело, станаа пример со тоа што беа накажани со вечен оган.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 19",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g19"
+                        },
+                        {
+                            "referenca": "Мт 10,15",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s15"
+                        },
+                        {
+                            "referenca": "3 Птр 2,6-9",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s6"
+                        },
+                        {
+                            "referenca": "Јуда 14,14",
+                            "meta_link": "Kniga76_Juda.xhtml#g14s14"
+                        },
+                        {
+                            "referenca": "Зах 12,10",
+                            "meta_link": "Kniga49_Zah.xhtml#g12s10"
+                        },
+                        {
+                            "referenca": "Дан 7,13",
+                            "meta_link": "Kniga38_Dan.xhtml#g7s13"
+                        },
+                        {
+                            "referenca": "Мт 24,30",
+                            "meta_link": "Kniga51_Mt.xhtml#g24s30"
+                        },
+                        {
+                            "referenca": "Мк 13,26",
+                            "meta_link": "Kniga52_Mk.xhtml#g13s26"
+                        },
+                        {
+                            "referenca": "Лк 21,27",
+                            "meta_link": "Kniga53_Lk.xhtml#g21s27"
+                        },
+                        {
+                            "referenca": "Јн 19,37",
+                            "meta_link": "Kniga54_Jn.xhtml#g19s37"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Истото ќе се случи и со оние кои го осквернуваат телото, ја презираат власта и хулат на Славата.",
+                    "referenci": [
+                        {
+                            "referenca": "3 Птр 2,10",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s10"
+                        },
+                        {
+                            "referenca": "Мт 18,5",
+                            "meta_link": "Kniga51_Mt.xhtml#g18s5"
+                        },
+                        {
+                            "referenca": "Рим 12,13",
+                            "meta_link": "Kniga56_Rim.xhtml#g12s13"
+                        },
+                        {
+                            "referenca": "Евр 13,2",
+                            "meta_link": "Kniga69_Evr.xhtml#g13s2"
+                        },
+                        {
+                            "referenca": "1 Птр 4,9",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g4s9"
+                        },
+                        {
+                            "referenca": "Јуда 1,4",
+                            "meta_link": "Kniga76_Juda.xhtml#g1s4"
+                        },
+                        {
+                            "referenca": "Јуда 4,8",
+                            "meta_link": "Kniga76_Juda.xhtml#g4s8"
+                        },
+                        {
+                            "referenca": "Јуда 11,17",
+                            "meta_link": "Kniga76_Juda.xhtml#g11s17"
+                        },
+                        {
+                            "referenca": "Јуда 15,3",
+                            "meta_link": "Kniga76_Juda.xhtml#g15s3"
+                        },
+                        {
+                            "referenca": "Јуда 16,7.14",
+                            "meta_link": "Kniga76_Juda.xhtml#g16s7"
+                        },
+                        {
+                            "referenca": "Јуда 19,6.15",
+                            "meta_link": "Kniga76_Juda.xhtml#g19s6"
+                        },
+                        {
+                            "referenca": "Јуда 21,22",
+                            "meta_link": "Kniga76_Juda.xhtml#g21s22"
+                        },
+                        {
+                            "referenca": "Јуда 22,13",
+                            "meta_link": "Kniga76_Juda.xhtml#g22s13"
+                        },
+                        {
+                            "referenca": "2 Мојс 3,14",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g3s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "А Архангел Михаил, кога се препираше со ѓаволот за Мојсеевото тело, не се осмели да изрече хулна пресуда, туку рече: „Господ да те спречи!“",
+                    "referenci": [
+                        {
+                            "referenca": "Зах 3,2",
+                            "meta_link": "Kniga49_Zah.xhtml#g3s2"
+                        },
+                        {
+                            "referenca": "Дан 10,13.21",
+                            "meta_link": "Kniga38_Dan.xhtml#g10s13"
+                        },
+                        {
+                            "referenca": "Дан 12,1",
+                            "meta_link": "Kniga38_Dan.xhtml#g12s1"
+                        },
+                        {
+                            "referenca": "Откр 12,7",
+                            "meta_link": "Kniga77_Otkr.xhtml#g12s7"
+                        },
+                        {
+                            "referenca": "Мт 20,27",
+                            "meta_link": "Kniga51_Mt.xhtml#g20s27"
+                        },
+                        {
+                            "referenca": "Фил 2,3",
+                            "meta_link": "Kniga61_Fil.xhtml#g2s3"
+                        },
+                        {
+                            "referenca": "2 Тим 2,12",
+                            "meta_link": "Kniga66_2Tim.xhtml#g2s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "А овие хулат на она што не го знаат, а во она што го знаат по природа како неразумно животно, во тоа се распаѓаат.",
+                    "referenci": [
+                        {
+                            "referenca": "3 Птр 2,12",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s12"
+                        },
+                        {
+                            "referenca": "1 Кор 4,18-21",
+                            "meta_link": "Kniga57_1Kor.xhtml#g4s18"
+                        },
+                        {
+                            "referenca": "1 Птр 5,3",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s3"
+                        },
+                        {
+                            "referenca": "Дела 20,7",
+                            "meta_link": "Kniga55_Dela.xhtml#g20s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Тешко ним, зашто тргнаа по Каиновиот пат, се фрлија во заблудата на Валаам заради печалба и загинаа во бунтот Кореев.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 4,8",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g4s8"
+                        },
+                        {
+                            "referenca": "4 Мојс 22,2",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g22s2"
+                        },
+                        {
+                            "referenca": "4 Мојс 31,16",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g31s16"
+                        },
+                        {
+                            "referenca": "Неем 13,2",
+                            "meta_link": "Kniga18_Neem.xhtml#g13s2"
+                        },
+                        {
+                            "referenca": "3 Птр 2,15",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s15"
+                        },
+                        {
+                            "referenca": "1 Јн 3,12",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s12"
+                        },
+                        {
+                            "referenca": "Откр 2,14",
+                            "meta_link": "Kniga77_Otkr.xhtml#g2s14"
+                        },
+                        {
+                            "referenca": "1 Птр 3,11",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g3s11"
+                        },
+                        {
+                            "referenca": "1 Јн 3,6",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Тоа се оние што ги поганат вашите трпези на љубовта, јадејќи со вас без страв и напасувајќи се. Тие се безводни облаци што ветровите ги пренесуваат, есенски неродни дрвја, двапати исушени и искорнати;",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 34,8",
+                            "meta_link": "Kniga32_Is.xhtml#g34s8"
+                        },
+                        {
+                            "referenca": "Изреки 25,14",
+                            "meta_link": "Kniga27_Izreki.xhtml#g25s14"
+                        },
+                        {
+                            "referenca": "3 Птр 2,13.17",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s13"
+                        },
+                        {
+                            "referenca": "Изреки 22,1",
+                            "meta_link": "Kniga27_Izreki.xhtml#g22s1"
+                        },
+                        {
+                            "referenca": "Јн 19,35",
+                            "meta_link": "Kniga54_Jn.xhtml#g19s35"
+                        },
+                        {
+                            "referenca": "Јн 21,24",
+                            "meta_link": "Kniga54_Jn.xhtml#g21s24"
+                        },
+                        {
+                            "referenca": "1 Птр 2,12",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s12"
+                        },
+                        {
+                            "referenca": "1 Јн 5,6",
+                            "meta_link": "Kniga73_1Jn.xhtml#g5s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "свирепи морски бранови, што како пена ги испуштаат своите срамни дела; ѕвезди лажни, за кои се чува мракот на темнината засекогаш.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 57,20",
+                            "meta_link": "Kniga32_Is.xhtml#g57s20"
+                        },
+                        {
+                            "referenca": "3 Птр 2,17",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s17"
+                        },
+                        {
+                            "referenca": "Јуда 14,14",
+                            "meta_link": "Kniga76_Juda.xhtml#g14s14"
+                        },
+                        {
+                            "referenca": "Дан 7,9.13",
+                            "meta_link": "Kniga38_Dan.xhtml#g7s9"
+                        },
+                        {
+                            "referenca": "Дан 10,5-6",
+                            "meta_link": "Kniga38_Dan.xhtml#g10s5"
+                        },
+                        {
+                            "referenca": "Ез 9,2.11",
+                            "meta_link": "Kniga37_Ez.xhtml#g9s2"
+                        },
+                        {
+                            "referenca": "Мт 8,20",
+                            "meta_link": "Kniga51_Mt.xhtml#g8s20"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "А за овие пророкуваше и Енох, седмиот од Адам, зборувајќи: „Ете, доаѓа Господ со илјадници Свои свети ангели,",
+                    "referenci": [
+                        {
+                            "referenca": "Зах 14,5",
+                            "meta_link": "Kniga49_Zah.xhtml#g14s5"
+                        },
+                        {
+                            "referenca": "Дан 7,10",
+                            "meta_link": "Kniga38_Dan.xhtml#g7s10"
+                        },
+                        {
+                            "referenca": "Јуда 2,18",
+                            "meta_link": "Kniga76_Juda.xhtml#g2s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "за да изврши суд над сите и за да ги разобличи сите безбожници за сите нивни нечисти дела, што ги беа направиле со своето беззаконие, и за сите лоши зборови, што ги изрекле за Него безбожните грешници.“",
+                    "referenci": [
+                        {
+                            "referenca": "Јуда 14,2",
+                            "meta_link": "Kniga76_Juda.xhtml#g14s2"
+                        },
+                        {
+                            "referenca": "Ез 1,24",
+                            "meta_link": "Kniga37_Ez.xhtml#g1s24"
+                        },
+                        {
+                            "referenca": "Ез 43,2",
+                            "meta_link": "Kniga37_Ez.xhtml#g43s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "Тие се незадоволни викачи, кои живеат според своите желби, а устата нивна произнесува горди зборови, и за корист стануваат умилкувачи.",
+                    "referenci": [
+                        {
+                            "referenca": "3 Мојс 19,15",
+                            "meta_link": "Kniga3_3Mojs.xhtml#g19s15"
+                        },
+                        {
+                            "referenca": "Дан 7,8.20",
+                            "meta_link": "Kniga38_Dan.xhtml#g7s8"
+                        },
+                        {
+                            "referenca": "3 Птр 2,18",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s18"
+                        },
+                        {
+                            "referenca": "Јуда 1,20",
+                            "meta_link": "Kniga76_Juda.xhtml#g1s20"
+                        },
+                        {
+                            "referenca": "Јуда 3,1",
+                            "meta_link": "Kniga76_Juda.xhtml#g3s1"
+                        },
+                        {
+                            "referenca": "2 Мојс 34,29",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g34s29"
+                        },
+                        {
+                            "referenca": "Ис 49,2",
+                            "meta_link": "Kniga32_Is.xhtml#g49s2"
+                        },
+                        {
+                            "referenca": "Евр 4,12",
+                            "meta_link": "Kniga69_Evr.xhtml#g4s12"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Обраќање и препораки",
+                    "r_br": "17",
+                    "tekst": "Но вие, возљубени, спомнете си ги зборовите што ги кажаа апостолите на нашиот Господ Исус Христос;",
+                    "referenci": [
+                        {
+                            "referenca": "3 Птр 3,2",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g3s2"
+                        },
+                        {
+                            "referenca": "Јуда 1,8",
+                            "meta_link": "Kniga76_Juda.xhtml#g1s8"
+                        },
+                        {
+                            "referenca": "Јуда 2,8",
+                            "meta_link": "Kniga76_Juda.xhtml#g2s8"
+                        },
+                        {
+                            "referenca": "Јуда 22,13",
+                            "meta_link": "Kniga76_Juda.xhtml#g22s13"
+                        },
+                        {
+                            "referenca": "Ис 44,6",
+                            "meta_link": "Kniga32_Is.xhtml#g44s6"
+                        },
+                        {
+                            "referenca": "Ис 48,12",
+                            "meta_link": "Kniga32_Is.xhtml#g48s12"
+                        },
+                        {
+                            "referenca": "Ез 1,28",
+                            "meta_link": "Kniga37_Ez.xhtml#g1s28"
+                        },
+                        {
+                            "referenca": "Дан 8,18",
+                            "meta_link": "Kniga38_Dan.xhtml#g8s18"
+                        },
+                        {
+                            "referenca": "Дан 10,15.19",
+                            "meta_link": "Kniga38_Dan.xhtml#g10s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "18",
+                    "tekst": "тие ви зборуваа дека во последно време ќе се појават подигрувачи, кои ќе постапуваат според своите безбожнички желби.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Тим 4,1",
+                            "meta_link": "Kniga65_1Tim.xhtml#g4s1"
+                        },
+                        {
+                            "referenca": "3 Птр 3,3",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g3s3"
+                        },
+                        {
+                            "referenca": "Јуда 2,8",
+                            "meta_link": "Kniga76_Juda.xhtml#g2s8"
+                        },
+                        {
+                            "referenca": "Јн 5,26-28",
+                            "meta_link": "Kniga54_Jn.xhtml#g5s26"
+                        },
+                        {
+                            "referenca": "Јн 11,25-26",
+                            "meta_link": "Kniga54_Jn.xhtml#g11s25"
+                        },
+                        {
+                            "referenca": "Евр 7,25",
+                            "meta_link": "Kniga69_Evr.xhtml#g7s25"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "19",
+                    "tekst": "Тоа се луѓе што се одделуваат од единството на верата; тие се телесни – и немаат Дух.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Кор 2,14",
+                            "meta_link": "Kniga57_1Kor.xhtml#g2s14"
+                        },
+                        {
+                            "referenca": "Јуда 1,1",
+                            "meta_link": "Kniga76_Juda.xhtml#g1s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "20",
+                    "tekst": "А вие, возљубени, изградувајќи се во пресветата ваша вера и молејќи се преку Светиот Дух,",
+                    "referenci": [
+                        {
+                            "referenca": "1 Кор 3,9-17",
+                            "meta_link": "Kniga57_1Kor.xhtml#g3s9"
+                        },
+                        {
+                            "referenca": "1 Кор 14,15-16",
+                            "meta_link": "Kniga57_1Kor.xhtml#g14s15"
+                        },
+                        {
+                            "referenca": "Ефес 2,20-22",
+                            "meta_link": "Kniga60_Efes.xhtml#g2s20"
+                        },
+                        {
+                            "referenca": "Ефес 6,18",
+                            "meta_link": "Kniga60_Efes.xhtml#g6s18"
+                        },
+                        {
+                            "referenca": "Кол 2,7",
+                            "meta_link": "Kniga62_Kol.xhtml#g2s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "21",
+                    "tekst": "запазете се во љубовта Божја, очекувајќи милост од нашиот Господ Исус Христос, за вечен живот.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Кор 13,13",
+                            "meta_link": "Kniga58_2Kor.xhtml#g13s13"
+                        },
+                        {
+                            "referenca": "2 Тим 1,18",
+                            "meta_link": "Kniga66_2Tim.xhtml#g1s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "22",
+                    "tekst": "И така разликувајќи ги, едни милувајте,",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 5,19",
+                            "meta_link": "Kniga70_Jk.xhtml#g5s19"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "23",
+                    "tekst": "а други со страв спасувајте, истргнувајќи ги од оган и изобличувајќи ги со страв, и гнасејќи се од облеката, испоганета од телото.",
+                    "referenci": [
+                        {
+                            "referenca": "Амос 4,11",
+                            "meta_link": "Kniga41_Amos.xhtml#g4s11"
+                        },
+                        {
+                            "referenca": "Зах 3,2",
+                            "meta_link": "Kniga49_Zah.xhtml#g3s2"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Завршен збор",
+                    "r_br": "24",
+                    "tekst": "А на Оној, Кој може да ве запази да останете безгрешни и без порок, и да ве постави пред славата Своја во радост – ",
+                    "referenci": [
+                        {
+                            "referenca": "Фил 1,10",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s10"
+                        },
+                        {
+                            "referenca": "1 Сол 5,23",
+                            "meta_link": "Kniga63_1Sol.xhtml#g5s23"
+                        },
+                        {
+                            "referenca": "3 Птр 3,14",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g3s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "25",
+                    "tekst": "на Единиот премудар Бог, нашиот Спасител преку Исус Христос, нашиот Господ, слава и величие, сила и власт преку сите векови, сега и во сите времиња. Амин!",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 16,27",
+                            "meta_link": "Kniga56_Rim.xhtml#g16s27"
+                        },
+                        {
+                            "referenca": "Откр 5,13",
+                            "meta_link": "Kniga77_Otkr.xhtml#g5s13"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "1"
+        }
+    ],
+    "kratko_ime": "Јуда",
+    "celo_ime": "Послание на апостол Јуда",
+    "kratenka": "Јуда",
+    "naslov": "ПОСЛАНИЕ НА ЈУДА",
+    "meta_fajl": "Kniga76_Juda"
+}

@@ -1,0 +1,495 @@
+{
+    "voved": [
+        "Филимон бил значајна личност меѓу првите христијани и без сомнение член на црквата во Колоси. Бил пријател на апостол Павле (ст.1). Тој имал роб по име Онисим, кој избегал од кај него. Онисим стапува во контакт со Павле, кој во тоа време бил во затвор. Тој станува христијанин, а Павле одлучува да го прати повторно кај неговиот господар, на кого му ја пишува оваа белешка, за да го замоли да не го дочекува повеќе како роб (робот бегалец бил изложуван на најсурови казнувања), туку како брат во својата вера. Откако го поздравува Филимон и луѓето во неговиот дом (1-3), Павле Му заблагодарува на Бога за љубовта и ревноста на Филимон (4-7). Потоа искажува молба за заштита на Онисим, кој треба да пристигне кај својот господар ( 8-22). Во поздравите со кои завршува ова кратко послание се наоѓаат имињата на повеќе личности подеднакво споменати и во Посланието до Колосјаните (4,10;12;14). Можно е Онисим да ги донел во Колоси двете посланија, до Колосјаните и до Филимон.",
+        "Забележлива е нежноста со која Павле му пишува на својот пријател Филимон. Тој не му дава никаква заповед, ништо не му наметнува, не ги порекнува ниту неговите права над Онисим, туку му раскажува, исто онака како и на сите оние кои го читаат ова послание, како Христовата љубов осветлува еден нов ден и ги преобразува сите човечки односи."
+    ],
+    "glavi": [
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Вовед и поздрави",
+                    "r_br": 1,
+                    "tekst": "Павле, затвореник на Исус Христос, и братот Тимотеј, до возљубениот Филимон, нашиот сотрудник,",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 16,1",
+                            "meta_link": "Kniga55_Dela.xhtml#g16s1"
+                        },
+                        {
+                            "referenca": "Рим 1,1",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "Ефес 3,1",
+                            "meta_link": "Kniga60_Efes.xhtml#g3s1"
+                        },
+                        {
+                            "referenca": "Фил 1,7.13-17",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s7"
+                        },
+                        {
+                            "referenca": "Флмн 2,2; 12,25",
+                            "meta_link": "Kniga68_Flmn.xhtml#g2"
+                        },
+                        {
+                            "referenca": "3 Мојс 12,6",
+                            "meta_link": "Kniga3_3Mojs.xhtml#g12s6"
+                        },
+                        {
+                            "referenca": "Ос 12,11",
+                            "meta_link": "Kniga39_Os.xhtml#g12s11"
+                        },
+                        {
+                            "referenca": "Лк 1,55.70",
+                            "meta_link": "Kniga53_Lk.xhtml#g1s55"
+                        },
+                        {
+                            "referenca": "Јн 9,29",
+                            "meta_link": "Kniga54_Jn.xhtml#g9s29"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "и до Апфија, возљубената сестра, и до Архип, нашиот соборец, и до твојата домашна црква.",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 16,5",
+                            "meta_link": "Kniga56_Rim.xhtml#g16s5"
+                        },
+                        {
+                            "referenca": "1 Кор 16,19",
+                            "meta_link": "Kniga57_1Kor.xhtml#g16s19"
+                        },
+                        {
+                            "referenca": "Кол 4,15-17",
+                            "meta_link": "Kniga62_Kol.xhtml#g4s15"
+                        },
+                        {
+                            "referenca": "2 Тим 2,3",
+                            "meta_link": "Kniga66_2Tim.xhtml#g2s3"
+                        },
+                        {
+                            "referenca": "Флмн 2,8; 3,6",
+                            "meta_link": "Kniga68_Flmn.xhtml#g2"
+                        },
+                        {
+                            "referenca": "Флмн 5,8; 7,28",
+                            "meta_link": "Kniga68_Flmn.xhtml#g5"
+                        },
+                        {
+                            "referenca": "Флмн 9,26; 11,3",
+                            "meta_link": "Kniga68_Flmn.xhtml#g9"
+                        },
+                        {
+                            "referenca": "5 Мојс 4,30",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g4s30"
+                        },
+                        {
+                            "referenca": "Ер 23,20",
+                            "meta_link": "Kniga33_Er.xhtml#g23s20"
+                        },
+                        {
+                            "referenca": "Пс 2,8",
+                            "meta_link": "Kniga25_Ps.xhtml#g2s8"
+                        },
+                        {
+                            "referenca": "Мт 3,17",
+                            "meta_link": "Kniga51_Mt.xhtml#g3s17"
+                        },
+                        {
+                            "referenca": "Мт 11,27; 21,38",
+                            "meta_link": "Kniga51_Mt.xhtml#g11"
+                        },
+                        {
+                            "referenca": "Мт 28,18",
+                            "meta_link": "Kniga51_Mt.xhtml#g28s18"
+                        },
+                        {
+                            "referenca": "Јн 1,3",
+                            "meta_link": "Kniga54_Jn.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "Кол 1,16",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s16"
+                        },
+                        {
+                            "referenca": "1 Птр 1,20",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g1s20"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Благодат вам и мир од Бога, нашиот Отец, и од Господ Исус Христос!",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 1,7",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s7"
+                        },
+                        {
+                            "referenca": "Гал 1,3",
+                            "meta_link": "Kniga59_Gal.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "Фил 1,2",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "Флмн 7,27; 8,1",
+                            "meta_link": "Kniga68_Flmn.xhtml#g7"
+                        },
+                        {
+                            "referenca": "Флмн 9,11-14.26",
+                            "meta_link": "Kniga68_Flmn.xhtml#g9s11"
+                        },
+                        {
+                            "referenca": "Флмн 10,12; 12,2",
+                            "meta_link": "Kniga68_Flmn.xhtml#g10"
+                        },
+                        {
+                            "referenca": "Мк 16,19",
+                            "meta_link": "Kniga52_Mk.xhtml#g16s19"
+                        },
+                        {
+                            "referenca": "Јн 1,14",
+                            "meta_link": "Kniga54_Jn.xhtml#g1s14"
+                        },
+                        {
+                            "referenca": "Јн 14,9",
+                            "meta_link": "Kniga54_Jn.xhtml#g14s9"
+                        },
+                        {
+                            "referenca": "2 Кор 3,18",
+                            "meta_link": "Kniga58_2Kor.xhtml#g3s18"
+                        },
+                        {
+                            "referenca": "2 Кор 4,4",
+                            "meta_link": "Kniga58_2Kor.xhtml#g4s4"
+                        },
+                        {
+                            "referenca": "Кол 1,17",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s17"
+                        },
+                        {
+                            "referenca": "Тит 2,14",
+                            "meta_link": "Kniga67_Tit.xhtml#g2s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Секогаш Му благодарам на мојот Бог, кога те спомнувам во молитвите свои,",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 1,8-9",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s8"
+                        },
+                        {
+                            "referenca": "Ефес 1,15-16",
+                            "meta_link": "Kniga60_Efes.xhtml#g1s15"
+                        },
+                        {
+                            "referenca": "Кол 1,3-4.9",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "Флмн 8,6",
+                            "meta_link": "Kniga68_Flmn.xhtml#g8s6"
+                        },
+                        {
+                            "referenca": "Ефес 1,21",
+                            "meta_link": "Kniga60_Efes.xhtml#g1s21"
+                        },
+                        {
+                            "referenca": "Фил 2,9-10",
+                            "meta_link": "Kniga61_Fil.xhtml#g2s9"
+                        },
+                        {
+                            "referenca": "1 Птр 3,22",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g3s22"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "бидејќи слушам за твојата љубов и вера, која ја имаш во Господ Исус и кон сите светии,",
+                    "referenci": [
+                        {
+                            "referenca": "Флмн 5,5",
+                            "meta_link": "Kniga68_Flmn.xhtml#g5s5"
+                        },
+                        {
+                            "referenca": "2 Сам 7,14",
+                            "meta_link": "Kniga0_2Sam.xhtml#g7s14"
+                        },
+                        {
+                            "referenca": "Пс 2,7",
+                            "meta_link": "Kniga25_Ps.xhtml#g2s7"
+                        },
+                        {
+                            "referenca": "1 Цар 17,13",
+                            "meta_link": "Kniga9_1Car.xhtml#g17s13"
+                        },
+                        {
+                            "referenca": "Дела 13,33",
+                            "meta_link": "Kniga55_Dela.xhtml#g13s33"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "и молам нашата заедничка вера да се покаже во тебе на дело во познанието на секое добро, кое го имаме за Исус Христос.",
+                    "referenci": [
+                        {
+                            "referenca": "Гал 3,28",
+                            "meta_link": "Kniga59_Gal.xhtml#g3s28"
+                        },
+                        {
+                            "referenca": "Гал 5,6",
+                            "meta_link": "Kniga59_Gal.xhtml#g5s6"
+                        },
+                        {
+                            "referenca": "Фил 1,9",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s9"
+                        },
+                        {
+                            "referenca": "Кол 1,9",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s9"
+                        },
+                        {
+                            "referenca": "Флмн 10,5",
+                            "meta_link": "Kniga68_Flmn.xhtml#g10s5"
+                        },
+                        {
+                            "referenca": "5 Мојс 32,43",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s43"
+                        },
+                        {
+                            "referenca": "Пс 89,27",
+                            "meta_link": "Kniga25_Ps.xhtml#g89s27"
+                        },
+                        {
+                            "referenca": "Пс 97,7",
+                            "meta_link": "Kniga25_Ps.xhtml#g97s7"
+                        },
+                        {
+                            "referenca": "Јн 3,16",
+                            "meta_link": "Kniga54_Jn.xhtml#g3s16"
+                        },
+                        {
+                            "referenca": "Кол 1,18",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Зашто ние многу се радуваме и утешуваме поради твојата љубов, брате, бидејќи преку тебе се успокоија срцата на светиите.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Кор 7,4",
+                            "meta_link": "Kniga58_2Kor.xhtml#g7s4"
+                        },
+                        {
+                            "referenca": "2 Јн 1,4-6",
+                            "meta_link": "Kniga74_2Jn.xhtml#g1s4"
+                        },
+                        {
+                            "referenca": "Пс 104,4",
+                            "meta_link": "Kniga25_Ps.xhtml#g104s4"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Затоа, иако имам во Христос голема слобода да ти заповедам што треба да правиш,",
+                    "referenci": [
+                        {
+                            "referenca": "Пс 45,7-8",
+                            "meta_link": "Kniga25_Ps.xhtml#g45s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "сепак, од љубов кон тебе, те молам јас, каков што сум, старецот Павле, а сега и затвореник за Исус Христос,",
+                    "referenci": [
+                        {
+                            "referenca": "Ефес 3,1",
+                            "meta_link": "Kniga60_Efes.xhtml#g3s1"
+                        },
+                        {
+                            "referenca": "Ефес 4,1",
+                            "meta_link": "Kniga60_Efes.xhtml#g4s1"
+                        },
+                        {
+                            "referenca": "Ис 11,5",
+                            "meta_link": "Kniga32_Is.xhtml#g11s5"
+                        },
+                        {
+                            "referenca": "Ис 61,1.3",
+                            "meta_link": "Kniga32_Is.xhtml#g61s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "и те молам за моето чедо, Онисим, што го родив во оковите свои:",
+                    "referenci": [
+                        {
+                            "referenca": "1 Кор 4,15",
+                            "meta_link": "Kniga57_1Kor.xhtml#g4s15"
+                        },
+                        {
+                            "referenca": "Гал 4,19",
+                            "meta_link": "Kniga59_Gal.xhtml#g4s19"
+                        },
+                        {
+                            "referenca": "Кол 4,9",
+                            "meta_link": "Kniga62_Kol.xhtml#g4s9"
+                        },
+                        {
+                            "referenca": "Пс 102,26-28",
+                            "meta_link": "Kniga25_Ps.xhtml#g102s26"
+                        },
+                        {
+                            "referenca": "Јн 1,3",
+                            "meta_link": "Kniga54_Jn.xhtml#g1s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "и тој некогаш беше непотребен за тебе, а сега ни е многу попотребен и тебе, и мене."
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Ти го праќам назад него – прими го како да е моето срце."
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Јас сакав да го задржам кај мене, за да ми служи место тебе во оковите што ги носам за Евангелието.",
+                    "referenci": [
+                        {
+                            "referenca": "Фил 2,30",
+                            "meta_link": "Kniga61_Fil.xhtml#g2s30"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Но без твоја согласност не сакав ништо да направам, за да биде твојата добрина не како принуда, туку доброволна.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Кор 9,7",
+                            "meta_link": "Kniga58_2Kor.xhtml#g9s7"
+                        },
+                        {
+                            "referenca": "1 Птр 5,2",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Зашто, можеби тој поради тоа се одвои од тебе за малку време, за да го примиш засекогаш,"
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "не веќе како роб, а повеќе од роб, како возљубен брат, а особено за мене, и уште повеќе за тебе – и по тело, и во Господ.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Кор 7,22",
+                            "meta_link": "Kniga57_1Kor.xhtml#g7s22"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "И така, ако ме имаш за содругар, прими го како да си ме примил мене."
+                },
+                {
+                    "r_br": "18",
+                    "tekst": "Ако, пак, во нешто ти згрешил, или ти е должен, префрли го тоа на моја сметка."
+                },
+                {
+                    "r_br": "19",
+                    "tekst": "Јас, Павле, напишав со своја рака: јас ќе платам, за да не ти речам дека ти и самиот цел си ми должен.",
+                    "referenci": [
+                        {
+                            "referenca": "Гал 6,11",
+                            "meta_link": "Kniga59_Gal.xhtml#g6s11"
+                        },
+                        {
+                            "referenca": "Кол 4,18",
+                            "meta_link": "Kniga62_Kol.xhtml#g4s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "20",
+                    "tekst": "Да, брате, да го добијат од тебе во Господ она за што Го молам; развесели го срцето мое во Господ."
+                },
+                {
+                    "r_br": "21",
+                    "tekst": "Убеден во твојата послушност, ти напишав, знаејќи дека ќе направиш и повеќе отколку што ти велам."
+                },
+                {
+                    "r_br": "22",
+                    "tekst": "А заедно со ова приготви ми и сместување, зашто се надевам дека со вашите молитви ќе ви бидам даруван вам."
+                },
+                {
+                    "r_br": "23",
+                    "tekst": "Те поздравува Епафрас, кој е со мене затвореник во Христос Исус, Марко, Аристарх, Димас, Лука – моите соработници.",
+                    "referenci": [
+                        {
+                            "referenca": "Кол 1,7",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s7"
+                        },
+                        {
+                            "referenca": "Кол 4,12",
+                            "meta_link": "Kniga62_Kol.xhtml#g4s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "24",
+                    "tekst": "Благодатта на нашиот Господ Исус Христос нека биде со вашиот дух. Амин!",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 12,12.25",
+                            "meta_link": "Kniga55_Dela.xhtml#g12s12"
+                        },
+                        {
+                            "referenca": "Дела 13,13",
+                            "meta_link": "Kniga55_Dela.xhtml#g13s13"
+                        },
+                        {
+                            "referenca": "Дела 15,37-39",
+                            "meta_link": "Kniga55_Dela.xhtml#g15s37"
+                        },
+                        {
+                            "referenca": "Дела 19,29",
+                            "meta_link": "Kniga55_Dela.xhtml#g19s29"
+                        },
+                        {
+                            "referenca": "Кол 4,10.14",
+                            "meta_link": "Kniga62_Kol.xhtml#g4s10"
+                        },
+                        {
+                            "referenca": "2 Тим 4,10-11",
+                            "meta_link": "Kniga66_2Tim.xhtml#g4s10"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "1"
+        }
+    ],
+    "kratko_ime": "Филимон",
+    "celo_ime": "Послание до Филимон",
+    "kratenka": "Флмн",
+    "naslov": "ПОСЛАНИЕ ДО ФИЛИМОН",
+    "meta_fajl": "Kniga68_Flmn"
+}

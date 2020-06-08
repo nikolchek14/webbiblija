@@ -1,0 +1,3495 @@
+{
+    "voved": [
+        "Осија бил пророк во северното царство, Израил, во последните години од неговото постоење како слободна и независна држава.",
+        "Во првите три глави од оваа книга, семејниот живот на Осија е употребен како слика на пораката што Осија треба да му ја пренесе на народот. Господ му заповедал на Осија да се ожени со блудница, како слика за неверството на израилскиот народ кон Бога. Потоа, Бог му кажува на Осија какви имиња да им даде на своите деца; имињата требало да ги потсетуваат Израилците дека ќе бидат казнети. И покрај ова, Господ му заповедал на Осија да ја сака својата неверна жена; ова требало да биде слика за Божјата верна љубов кон Неговиот неверен народ.",
+        "Преостанатиот дел од книгата го нагласува Божјиот завет со Израил, кој говори за обврската за меѓусебна верност помеѓу Господ и Израил. Господ постојано ја одржувал Својата верност, додека Израилците зачестено Го изневерувале. На моменти, Израилците повеќе се надевале на својата војска, па и на туѓите, соседни армии, отколку на Господ. Исто така, тие честопати им служеле на идоли, очекувајќи од кипови да им донесат добар род.",
+        "Во оваа книга, Господ ги става пред суд Израил и Јуда, обвинувајќи ги за неверство кон заветот со Бога, поради што им навестува и казна. Сепак, Божјата љубов кон неговиот народ ќе продолжи и Тој ќе им прости, кога тие ќе се научат да Му бидат верни."
+    ],
+    "glavi": [
+        {
+            "stihovi": [
+                {
+                    "r_br": 1,
+                    "tekst": "Слово Господово што беше упатено до Осија, син Беериев, во деновите на јудејските цареви Озија, Јотам, Ахаз, Езекија и во деновите на израилскиот цар Јеровоам, синот Јоасов.",
+                    "referenci": [
+                        {
+                            "referenca": "4 Цар 14,23-29",
+                            "meta_link": "Kniga12_4Car.xhtml#g14s23"
+                        },
+                        {
+                            "referenca": "Ис 1,1",
+                            "meta_link": "Kniga32_Is.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "Амос 1,1",
+                            "meta_link": "Kniga41_Amos.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "Мих 1,1",
+                            "meta_link": "Kniga44_Mih.xhtml#g1s1"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Семејството на Осија",
+                    "r_br": "2",
+                    "tekst": "Почеток на словото Господово до Осија. Му рече Господ на Осија: „Оди и земи жена блудница, па роди деца од блудство; зашто оваа земја многу блудствува, откако отстапи од Господ.”",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,12",
+                            "meta_link": "Kniga39_Os.xhtml#g4s12"
+                        },
+                        {
+                            "referenca": "Ос 5,4",
+                            "meta_link": "Kniga39_Os.xhtml#g5s4"
+                        },
+                        {
+                            "referenca": "Ос 9,1",
+                            "meta_link": "Kniga39_Os.xhtml#g9s1"
+                        },
+                        {
+                            "referenca": "2 Мојс 34,16",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g34s16"
+                        },
+                        {
+                            "referenca": "Наум 3,4",
+                            "meta_link": "Kniga45_Naum.xhtml#g3s4"
+                        },
+                        {
+                            "referenca": "Пс 106,39",
+                            "meta_link": "Kniga25_Ps.xhtml#g106s39"
+                        },
+                        {
+                            "referenca": "2 Кор 11,2",
+                            "meta_link": "Kniga58_2Kor.xhtml#g11s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "И тој отиде и ја зеде Гомер, ќерката на Дивлаим, која зачна и му роди син."
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Тогаш Господ му рече: „Стави му име Јизреел, зашто уште малку и Јас ќе му се одмаздам на Јехуевиот дом за крвта пролеана во Јизреел и ќе го укинам царството на Израил,",
+                    "referenci": [
+                        {
+                            "referenca": "3 Цар 18,45",
+                            "meta_link": "Kniga11_3Car.xhtml#g18s45"
+                        },
+                        {
+                            "referenca": "4 Цар 9,1-10",
+                            "meta_link": "Kniga12_4Car.xhtml#g9s1"
+                        },
+                        {
+                            "referenca": "4 Цар 10,1-17",
+                            "meta_link": "Kniga12_4Car.xhtml#g10s1"
+                        },
+                        {
+                            "referenca": "4 Цар 17,2-6",
+                            "meta_link": "Kniga12_4Car.xhtml#g17s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "и во тој ден ќе го скршам лакот на Израил во долината Јизреел.”",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 2,11",
+                            "meta_link": "Kniga32_Is.xhtml#g2s11"
+                        },
+                        {
+                            "referenca": "Амос 8,9",
+                            "meta_link": "Kniga41_Amos.xhtml#g8s9"
+                        },
+                        {
+                            "referenca": "Зах 14,9",
+                            "meta_link": "Kniga49_Zah.xhtml#g14s9"
+                        },
+                        {
+                            "referenca": "Јов 29,20",
+                            "meta_link": "Kniga26_Jov.xhtml#g29s20"
+                        },
+                        {
+                            "referenca": "Мт 7,22",
+                            "meta_link": "Kniga51_Mt.xhtml#g7s22"
+                        },
+                        {
+                            "referenca": "Лк 6,23",
+                            "meta_link": "Kniga53_Lk.xhtml#g6s23"
+                        },
+                        {
+                            "referenca": "Јн 14,20",
+                            "meta_link": "Kniga54_Jn.xhtml#g14s20"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Таа пак зачна и роди ќерка, и Тој му рече: „Именувај ја Ло-Рухама, зашто Јас веќе нема да го помилувам домот Израилев, и да им проштевам."
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "А домот Јудин ќе го помилувам и ќе ги спасам Јас, нивниот Господ Бог, не со лак, ниту со меч, ни со војска, ниту со коњи и коњаници.”",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 14,4",
+                            "meta_link": "Kniga39_Os.xhtml#g14s4"
+                        },
+                        {
+                            "referenca": "1 Цар 17,47",
+                            "meta_link": "Kniga9_1Car.xhtml#g17s47"
+                        },
+                        {
+                            "referenca": "Ис 30,16",
+                            "meta_link": "Kniga32_Is.xhtml#g30s16"
+                        },
+                        {
+                            "referenca": "Ис 31,1",
+                            "meta_link": "Kniga32_Is.xhtml#g31s1"
+                        },
+                        {
+                            "referenca": "Мих 5,9",
+                            "meta_link": "Kniga44_Mih.xhtml#g5s9"
+                        },
+                        {
+                            "referenca": "Зах 4,6",
+                            "meta_link": "Kniga49_Zah.xhtml#g4s6"
+                        },
+                        {
+                            "referenca": "Зах 9,10",
+                            "meta_link": "Kniga49_Zah.xhtml#g9s10"
+                        },
+                        {
+                            "referenca": "Пс 20,7",
+                            "meta_link": "Kniga25_Ps.xhtml#g20s7"
+                        },
+                        {
+                            "referenca": "Изреки 21,31",
+                            "meta_link": "Kniga27_Izreki.xhtml#g21s31"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Потоа, откако ја одби од доење, одново зачна и роди син."
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "И Тој му рече: „Наречи го со името Ло-Ами, зашто вие не сте Мој народ, и Јас нема да бидам ваш Бог.”",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,25",
+                            "meta_link": "Kniga39_Os.xhtml#g2s25"
+                        },
+                        {
+                            "referenca": "3 Мојс 26,12",
+                            "meta_link": "Kniga3_3Mojs.xhtml#g26s12"
+                        },
+                        {
+                            "referenca": "Ер 7,23",
+                            "meta_link": "Kniga33_Er.xhtml#g7s23"
+                        },
+                        {
+                            "referenca": "Ер 11,4",
+                            "meta_link": "Kniga33_Er.xhtml#g11s4"
+                        },
+                        {
+                            "referenca": "Ер 31,33",
+                            "meta_link": "Kniga33_Er.xhtml#g31s33"
+                        },
+                        {
+                            "referenca": "Ез 11,20",
+                            "meta_link": "Kniga37_Ez.xhtml#g11s20"
+                        },
+                        {
+                            "referenca": "Ез 14,11",
+                            "meta_link": "Kniga37_Ez.xhtml#g14s11"
+                        },
+                        {
+                            "referenca": "Зах 8,8",
+                            "meta_link": "Kniga49_Zah.xhtml#g8s8"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Надеж за Израил",
+                    "r_br": "10",
+                    "tekst": "„Но бројот на синовите Израилеви ќе биде како песокот морски, кој не ќе може ни да се измери ниту да се изброи; и место да им речат – вие не сте Мој народ – ќе им се рече – вие сте синови на живиот Бог."
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "И ќе се соберат синовите Јудини и синовите Израилеви заедно и ќе си постават еден старешина и ќе излезат од земјата, зашто голем е денот на Јизреел."
+                }
+            ],
+            "r_br": "1"
+        },
+        {
+            "stihovi": [
+                {
+                    "r_br": 1,
+                    "tekst": "Речете им на браќата свои: ‚Ами‘ и на сестрите свои ‚Рухама‘.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 22,17",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g22s17"
+                        },
+                        {
+                            "referenca": "1 Мојс 32,13",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g32s13"
+                        },
+                        {
+                            "referenca": "3 Цар 4,20",
+                            "meta_link": "Kniga11_3Car.xhtml#g4s20"
+                        },
+                        {
+                            "referenca": "3 Цар 5,9",
+                            "meta_link": "Kniga11_3Car.xhtml#g5s9"
+                        },
+                        {
+                            "referenca": "Ис 10,22",
+                            "meta_link": "Kniga32_Is.xhtml#g10s22"
+                        },
+                        {
+                            "referenca": "Јн 1,12",
+                            "meta_link": "Kniga54_Jn.xhtml#g1s12"
+                        },
+                        {
+                            "referenca": "Рим 9,26.27",
+                            "meta_link": "Kniga56_Rim.xhtml#g9s26"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Најава за казна на Израил",
+                    "r_br": "2",
+                    "tekst": "Судете се со својата мајка, расправајте се; зашто таа не е Моја жена, и Јас не сум ѝ маж нејзин; нека го отфрли блудството од лицето свое и прељубодејството од градите свои, за да не ја сотрам,",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 1,5",
+                            "meta_link": "Kniga39_Os.xhtml#g1s5"
+                        },
+                        {
+                            "referenca": "Ис 11,13",
+                            "meta_link": "Kniga32_Is.xhtml#g11s13"
+                        },
+                        {
+                            "referenca": "Ер 3,18",
+                            "meta_link": "Kniga33_Er.xhtml#g3s18"
+                        },
+                        {
+                            "referenca": "Ез 37,15-22",
+                            "meta_link": "Kniga37_Ez.xhtml#g37s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "за да не ја соблечам гола и да не ја покажам како во денот на нејзиното раѓање, и да не ја направам пустелија, за да не ја претворам во сува земја и да не ја усмртам со жед.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,24-25",
+                            "meta_link": "Kniga39_Os.xhtml#g2s24"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "И децата нејзини нема да ги помилувам, зашто тие се деца од блудство.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,15",
+                            "meta_link": "Kniga39_Os.xhtml#g2s15"
+                        },
+                        {
+                            "referenca": "Ос 4,1",
+                            "meta_link": "Kniga39_Os.xhtml#g4s1"
+                        },
+                        {
+                            "referenca": "1 Мојс 38,15",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g38s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Бидејќи мајката нивна блудствуваше, се осрамоти онаа, која ги зачна, зашто си велеше – ќе тргнам по љубовниците свои, кои ми даваат леб и вода, волна и лен, масло и пијалак.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 6,8",
+                            "meta_link": "Kniga33_Er.xhtml#g6s8"
+                        },
+                        {
+                            "referenca": "Ер 9,11",
+                            "meta_link": "Kniga33_Er.xhtml#g9s11"
+                        },
+                        {
+                            "referenca": "Ер 13,22",
+                            "meta_link": "Kniga33_Er.xhtml#g13s22"
+                        },
+                        {
+                            "referenca": "Ез 16,4-5",
+                            "meta_link": "Kniga37_Ez.xhtml#g16s4"
+                        },
+                        {
+                            "referenca": "Ез 16,39",
+                            "meta_link": "Kniga37_Ez.xhtml#g16s39"
+                        },
+                        {
+                            "referenca": "Откр 17,16",
+                            "meta_link": "Kniga77_Otkr.xhtml#g17s16"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Ете, затоа Јас ќе ѝ го препречам патот нејзин со трње и ќе ја заградам со ограда, и таа не ќе може да ги најде патеките свои;",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 1,2",
+                            "meta_link": "Kniga39_Os.xhtml#g1s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "ќе се впушти по љубовниците, но нема да ги стигне; ќе ги бара, и нема да ги најде; и ќе си рече: ќе се вратам и ќе појдам кај првиот маж; зашто тогаш ми беше подобро, отколку сега.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 4,3",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g4s3"
+                        },
+                        {
+                            "referenca": "Ер 2,25",
+                            "meta_link": "Kniga33_Er.xhtml#g2s25"
+                        },
+                        {
+                            "referenca": "Ер 3,13",
+                            "meta_link": "Kniga33_Er.xhtml#g3s13"
+                        },
+                        {
+                            "referenca": "Ер 44,17",
+                            "meta_link": "Kniga33_Er.xhtml#g44s17"
+                        },
+                        {
+                            "referenca": "Амос 2,4",
+                            "meta_link": "Kniga41_Amos.xhtml#g2s4"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "А таа не знаеше дека Јас ѝ давав жито, вино и масло и ѝ го намножував среброто нејзино и златото, од кое му направија идол на Ваал.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 2,23",
+                            "meta_link": "Kniga33_Er.xhtml#g2s23"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Затоа ќе си го земам житото Свое, и виното Свое, кога за тоа ќе му дојде времето и ќе ја одземам волната Своја и ленот Свој, со што се покрива голотијата нејзина.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,15",
+                            "meta_link": "Kniga39_Os.xhtml#g5s15"
+                        },
+                        {
+                            "referenca": "Ос 6,1-3",
+                            "meta_link": "Kniga39_Os.xhtml#g6s1"
+                        },
+                        {
+                            "referenca": "Ер 3,22",
+                            "meta_link": "Kniga33_Er.xhtml#g3s22"
+                        },
+                        {
+                            "referenca": "Лк 15,17-18",
+                            "meta_link": "Kniga53_Lk.xhtml#g15s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "И сега ќе ја откријам срамотијата нејзина пред очите на нејзините миленици, и никој не ќе ја избави од раката Моја.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 7,13",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g7s13"
+                        },
+                        {
+                            "referenca": "5 Мојс 8,11-18",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g8s11"
+                        },
+                        {
+                            "referenca": "Агеј 2,8",
+                            "meta_link": "Kniga48_Agej.xhtml#g2s8"
+                        },
+                        {
+                            "referenca": "Пс 104,15",
+                            "meta_link": "Kniga25_Ps.xhtml#g104s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "И ќе укинам кај неа секаква веселба, празниците и новомесечијата нејзини, и саботите и сите нејзини прослави."
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "И ќе ги запустам лозјата нејзини и смоквите, за кои таа беше рекла: ‚тоа ми се подароци, со кои ме даруваа љубовниците мои;‘ и Јас ќе ги опустошам, и полските животни ќе ги изедат.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,14",
+                            "meta_link": "Kniga39_Os.xhtml#g5s14"
+                        },
+                        {
+                            "referenca": "5 Мојс 32,39",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s39"
+                        },
+                        {
+                            "referenca": "Ез 16,37",
+                            "meta_link": "Kniga37_Ez.xhtml#g16s37"
+                        },
+                        {
+                            "referenca": "Пс 50,22",
+                            "meta_link": "Kniga25_Ps.xhtml#g50s22"
+                        },
+                        {
+                            "referenca": "Јн 10,29",
+                            "meta_link": "Kniga54_Jn.xhtml#g10s29"
+                        },
+                        {
+                            "referenca": "Откр 17,16",
+                            "meta_link": "Kniga77_Otkr.xhtml#g17s16"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "И ќе ја казнам за деновите поминати во служење на Вааловците, кога им кадела и ги китела со обетки и гривни, одела по љубовниците свои, а Мене Ме заборавила, вели Господ.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 1,13-14",
+                            "meta_link": "Kniga32_Is.xhtml#g1s13"
+                        },
+                        {
+                            "referenca": "Ер 7,34",
+                            "meta_link": "Kniga33_Er.xhtml#g7s34"
+                        },
+                        {
+                            "referenca": "Амос 5,21-23",
+                            "meta_link": "Kniga41_Amos.xhtml#g5s21"
+                        },
+                        {
+                            "referenca": "Амос 8,5",
+                            "meta_link": "Kniga41_Amos.xhtml#g8s5"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Господ ќе му помогне на Израил",
+                    "r_br": "14",
+                    "tekst": "Поради тоа Јас ќе ја привлечам и ќе ја одведам во пустина, па ќе му зборувам на нејзиното срце.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 5,5-6",
+                            "meta_link": "Kniga32_Is.xhtml#g5s5"
+                        },
+                        {
+                            "referenca": "Пс 80,12-13",
+                            "meta_link": "Kniga25_Ps.xhtml#g80s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "И ќе ѝ ја вратам лозата нејзина и долината Ахор како трем на надеж; и таму таа ќе пее како во деновите на својата младост и како во денот кога излезе од египетската земја.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 2,32",
+                            "meta_link": "Kniga33_Er.xhtml#g2s32"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "И во тој ден, вели Господ, ти ќе Ми велиш – мажу Мој, и нема повеќе да Ми велиш – Ваалу Мој.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 13,5",
+                            "meta_link": "Kniga39_Os.xhtml#g13s5"
+                        },
+                        {
+                            "referenca": "Ер 20,7",
+                            "meta_link": "Kniga33_Er.xhtml#g20s7"
+                        },
+                        {
+                            "referenca": "Рута 2,13",
+                            "meta_link": "Kniga8_Ruta.xhtml#g2s13"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "И ќе ги отстранам од устата нејзина имињата на Вааловците, и нема повеќе да се спомнува името нивно.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 11,1-3",
+                            "meta_link": "Kniga39_Os.xhtml#g11s1"
+                        },
+                        {
+                            "referenca": "2 Мојс 13,17",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g13s17"
+                        },
+                        {
+                            "referenca": "Ис.Н. 7,24-26",
+                            "meta_link": "Kniga6_IsN.xhtml#g7s24"
+                        },
+                        {
+                            "referenca": "Ис 65,10",
+                            "meta_link": "Kniga32_Is.xhtml#g65s10"
+                        },
+                        {
+                            "referenca": "Ер 2,2",
+                            "meta_link": "Kniga33_Er.xhtml#g2s2"
+                        },
+                        {
+                            "referenca": "Амос 5,25",
+                            "meta_link": "Kniga41_Amos.xhtml#g5s25"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "18",
+                    "tekst": "И во тоа време поради нив ќе склучам сојуз со животните полски, со птиците небески и со лазачите по земјата; а лак, и меч, и војна ќе истребам од таа земја, и ќе им дозволам да живеат во мир и сигурност.",
+                    "referenci": [
+                        {
+                            "referenca": "Амос 2,16",
+                            "meta_link": "Kniga41_Amos.xhtml#g2s16"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "19",
+                    "tekst": "И ќе те свршам за Себе вечно, и ќе те свршам за Себе во правда и справедливост, во благослов и милосрдност."
+                },
+                {
+                    "r_br": "20",
+                    "tekst": "И ќе те свршам за Себе во верност и ти ќе Го познаеш Господа.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 1,7",
+                            "meta_link": "Kniga39_Os.xhtml#g1s7"
+                        },
+                        {
+                            "referenca": "1 Мојс 9,8",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g9s8"
+                        },
+                        {
+                            "referenca": "Ис 2,4",
+                            "meta_link": "Kniga32_Is.xhtml#g2s4"
+                        },
+                        {
+                            "referenca": "Ез 34,25",
+                            "meta_link": "Kniga37_Ez.xhtml#g34s25"
+                        },
+                        {
+                            "referenca": "Зах 9,10",
+                            "meta_link": "Kniga49_Zah.xhtml#g9s10"
+                        },
+                        {
+                            "referenca": "Јов 5,23",
+                            "meta_link": "Kniga26_Jov.xhtml#g5s23"
+                        },
+                        {
+                            "referenca": "Мк 1,13",
+                            "meta_link": "Kniga52_Mk.xhtml#g1s13"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "21",
+                    "tekst": "И во тој ден Јас ќе се одзовам, вели Господ, Јас, ќе му се одзовам на Небото, а тоа ќе ѝ се одзове на Земјата,",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 54,5-10",
+                            "meta_link": "Kniga32_Is.xhtml#g54s5"
+                        },
+                        {
+                            "referenca": "Ер 31,31-33",
+                            "meta_link": "Kniga33_Er.xhtml#g31s31"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "22",
+                    "tekst": "и Земјата ќе му се одзове на житото и виното и елејот; а тие ќе ѝ се одзоват на Јизреел.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,1",
+                            "meta_link": "Kniga39_Os.xhtml#g4s1"
+                        },
+                        {
+                            "referenca": "Ос 5,4",
+                            "meta_link": "Kniga39_Os.xhtml#g5s4"
+                        },
+                        {
+                            "referenca": "Изреки 2,5",
+                            "meta_link": "Kniga27_Izreki.xhtml#g2s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "23",
+                    "tekst": "И ќе ја посеам за Себе на земјата, и ќе ја засакам Ло-Рухама и ќе му речам на Ло-Ами: ,Ти си Мој народ‘, а тој ќе рече: ,Ти си мој Бог!‘”",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,17",
+                            "meta_link": "Kniga39_Os.xhtml#g2s17"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "2"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Божјата љубов нуди надеж",
+                    "r_br": 1,
+                    "tekst": "Потоа Господ ми рече: „Оди и повторно засакај ја жената, која ги сака злото и прељубата, како што Господ ги сака синовите Израилеви, а тие гледаат по туѓи богови и ги сакаат нивните пити од грозје.”",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,4",
+                            "meta_link": "Kniga39_Os.xhtml#g2s4"
+                        },
+                        {
+                            "referenca": "2 Мојс 20,3",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g20s3"
+                        },
+                        {
+                            "referenca": "5 Мојс 5,7",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g5s7"
+                        },
+                        {
+                            "referenca": "5 Мојс 6,4",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g6s4"
+                        },
+                        {
+                            "referenca": "Ер 7,18",
+                            "meta_link": "Kniga33_Er.xhtml#g7s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Ја откупив за петнаесет сребреници и за гомер и полугомер јачмен;"
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "па ѝ реков: „Ќе останеш кај мене подолго време; не блудствувај и не оди со други; а и јас нема да ти приоѓам.”"
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Зашто синовите Израилеви ќе останат долго време без цар, без кнез и без жртви, без жртвеник, без ефод и без јавување.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Мојс 23,24",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g23s24"
+                        },
+                        {
+                            "referenca": "2 Мојс 28,6",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g28s6"
+                        },
+                        {
+                            "referenca": "1 Цар 15,22-23",
+                            "meta_link": "Kniga9_1Car.xhtml#g15s22"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Потоа синовите Израилеви ќе се повратат и ќе Го побараат Господ, својот Бог, и Давид, својот цар, ќе се чудат пред Господ на Неговата благост во последните дни.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,9",
+                            "meta_link": "Kniga39_Os.xhtml#g2s9"
+                        },
+                        {
+                            "referenca": "Ос 6,1",
+                            "meta_link": "Kniga39_Os.xhtml#g6s1"
+                        },
+                        {
+                            "referenca": "Ос 14,2",
+                            "meta_link": "Kniga39_Os.xhtml#g14s2"
+                        },
+                        {
+                            "referenca": "Ер 30,9",
+                            "meta_link": "Kniga33_Er.xhtml#g30s9"
+                        },
+                        {
+                            "referenca": "Ез 34,23",
+                            "meta_link": "Kniga37_Ez.xhtml#g34s23"
+                        },
+                        {
+                            "referenca": "Ез 37,24-25",
+                            "meta_link": "Kniga37_Ez.xhtml#g37s24"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "3"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Неверството на Израил",
+                    "r_br": 1,
+                    "tekst": "Чујте го словото Господово, синови Израилеви; зашто Господ ќе им суди на жителите од оваа земја, зашто нема ни вистина, ни милосрдие, ниту знаење за Бога на земјата.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,4",
+                            "meta_link": "Kniga39_Os.xhtml#g2s4"
+                        },
+                        {
+                            "referenca": "Ис 3,13-15",
+                            "meta_link": "Kniga32_Is.xhtml#g3s13"
+                        },
+                        {
+                            "referenca": "Ер 5,4",
+                            "meta_link": "Kniga33_Er.xhtml#g5s4"
+                        },
+                        {
+                            "referenca": "Ер 22,16",
+                            "meta_link": "Kniga33_Er.xhtml#g22s16"
+                        },
+                        {
+                            "referenca": "Мих 6,1-5",
+                            "meta_link": "Kniga44_Mih.xhtml#g6s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Клетва и измама, убиство, кражби и прељубодејства многу се распространија, и една крв по друга крв се лее.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Мојс 20,13-17",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g20s13"
+                        },
+                        {
+                            "referenca": "3 Мојс 19,11",
+                            "meta_link": "Kniga3_3Mojs.xhtml#g19s11"
+                        },
+                        {
+                            "referenca": "Ер 7,9",
+                            "meta_link": "Kniga33_Er.xhtml#g7s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Затоа таа земја ќе тагува, и ќе гинат сите, што живеат на неа, заедно со полските животни и птиците небески; дури и рибите во морето ќе загинат.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 4,28",
+                            "meta_link": "Kniga33_Er.xhtml#g4s28"
+                        },
+                        {
+                            "referenca": "Ер 12,4",
+                            "meta_link": "Kniga33_Er.xhtml#g12s4"
+                        },
+                        {
+                            "referenca": "Јоил 1,16-20",
+                            "meta_link": "Kniga40_Joil.xhtml#g1s16"
+                        },
+                        {
+                            "referenca": "Амос 1,2",
+                            "meta_link": "Kniga41_Amos.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "Амос 4,7",
+                            "meta_link": "Kniga41_Amos.xhtml#g4s7"
+                        },
+                        {
+                            "referenca": "Амос 7,4",
+                            "meta_link": "Kniga41_Amos.xhtml#g7s4"
+                        },
+                        {
+                            "referenca": "Соф 1,3",
+                            "meta_link": "Kniga47_Sof.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "Агеј 1,10-11",
+                            "meta_link": "Kniga48_Agej.xhtml#g1s10"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Опомена за свештениците",
+                    "r_br": "4",
+                    "tekst": "Но никој да не се суди и никој никого да не обвинува; но со тебе свештенику, морам да се судам!",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 6,9",
+                            "meta_link": "Kniga39_Os.xhtml#g6s9"
+                        },
+                        {
+                            "referenca": "Ер 2,8",
+                            "meta_link": "Kniga33_Er.xhtml#g2s8"
+                        },
+                        {
+                            "referenca": "Мал 1,6",
+                            "meta_link": "Kniga50_Mal.xhtml#g1s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Ти ќе се препнуваш дење, и со тебе пророкот се препнува ноќе, а Јас ќе ја погубам твојата мајка."
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Мојот народ гине што нема разум, зашто ти си го отфрлил разумот, и Јас ќе те отфрлам од Моето свештенство; бидејќи го заборави законот на својот Бог, и Јас ќе ги заборавам децата твои.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 5,4",
+                            "meta_link": "Kniga33_Er.xhtml#g5s4"
+                        },
+                        {
+                            "referenca": "Мал 2,1-9",
+                            "meta_link": "Kniga50_Mal.xhtml#g2s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "И колку повеќе се размножуваа, толку повеќе и грешеа против Мене; затоа славата нивна ќе ја претворам во срам.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 2,11",
+                            "meta_link": "Kniga33_Er.xhtml#g2s11"
+                        },
+                        {
+                            "referenca": "Пс 106,20",
+                            "meta_link": "Kniga25_Ps.xhtml#g106s20"
+                        },
+                        {
+                            "referenca": "Рим 1,23",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s23"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Тие се хранат со гревовите на Мојот народ, и кон беззаконијата негови се стреми душата нивна."
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "И што ќе стане со народот, тоа ќе се случи и со свештеникот; ќе го казнам според патиштата негови и ќе му платам според делата негови."
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Ќе јадат – и нема да се наситуваат; ќе блудствуваат и нема да се размножуваат, зашто престанаа да Му служат на Господ.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 9,1",
+                            "meta_link": "Kniga39_Os.xhtml#g9s1"
+                        },
+                        {
+                            "referenca": "Мих 6,14",
+                            "meta_link": "Kniga44_Mih.xhtml#g6s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Блудството, виното и пијалаците ги овладеале срцата нивни.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 28,7",
+                            "meta_link": "Kniga32_Is.xhtml#g28s7"
+                        },
+                        {
+                            "referenca": "Изреки 31,3-5",
+                            "meta_link": "Kniga27_Izreki.xhtml#g31s3"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Опомени за Израил и Јудеја",
+                    "r_br": "12",
+                    "tekst": "Мојот народ се обраќа до парче дрво, и неговиот жезол му дава одговор; зашто духот на блудството ги вовел во заблуда, па блудствувајќи, тие отстапија од својот Бог.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 1,2",
+                            "meta_link": "Kniga39_Os.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "Ос 2,6",
+                            "meta_link": "Kniga39_Os.xhtml#g2s6"
+                        },
+                        {
+                            "referenca": "Ер 2,27",
+                            "meta_link": "Kniga33_Er.xhtml#g2s27"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Принесуваат жртви по планинските врвови и по ридовите, кадат под даб, топола и брест, зашто тие имаат добри сенки; затоа ќерките ваши блудствуваат, а снаите ваши прељубодејствуваат.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 12,2",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g12s2"
+                        },
+                        {
+                            "referenca": "3 Цар 14,23",
+                            "meta_link": "Kniga11_3Car.xhtml#g14s23"
+                        },
+                        {
+                            "referenca": "4 Цар 17,10",
+                            "meta_link": "Kniga12_4Car.xhtml#g17s10"
+                        },
+                        {
+                            "referenca": "Ер 2,20",
+                            "meta_link": "Kniga33_Er.xhtml#g2s20"
+                        },
+                        {
+                            "referenca": "Ез 6,13",
+                            "meta_link": "Kniga37_Ez.xhtml#g6s13"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Нема да ги казнувам ќерките ваши кога блудствуваат, и снаите ваши кога прељубодејствуваат, зашто вие самите сте блудници и со љубовници принесувате жртви, а простиот народ гине.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 13,1",
+                            "meta_link": "Kniga39_Os.xhtml#g13s1"
+                        },
+                        {
+                            "referenca": "4 Мојс 25,1",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g25s1"
+                        },
+                        {
+                            "referenca": "5 Мојс 23,19",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g23s19"
+                        },
+                        {
+                            "referenca": "Јов 36,14",
+                            "meta_link": "Kniga26_Jov.xhtml#g36s14"
+                        },
+                        {
+                            "referenca": "1 Кор 10,8",
+                            "meta_link": "Kniga57_1Kor.xhtml#g10s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Ако ти, Израиле, блудствуваш, Јуда барем да не греши; и не одете во Гилгал, не влегувајте во Бет – Авен и не колнете се со клетвата: жив е Господ!",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,8",
+                            "meta_link": "Kniga39_Os.xhtml#g5s8"
+                        },
+                        {
+                            "referenca": "Ис.Н. 4,19-20",
+                            "meta_link": "Kniga6_IsN.xhtml#g4s19"
+                        },
+                        {
+                            "referenca": "Ис.Н. 7,2",
+                            "meta_link": "Kniga6_IsN.xhtml#g7s2"
+                        },
+                        {
+                            "referenca": "1 Цар 26,10.16",
+                            "meta_link": "Kniga9_1Car.xhtml#g26s10"
+                        },
+                        {
+                            "referenca": "Ер 38,16",
+                            "meta_link": "Kniga33_Er.xhtml#g38s16"
+                        },
+                        {
+                            "referenca": "Амос 4,4",
+                            "meta_link": "Kniga41_Amos.xhtml#g4s4"
+                        },
+                        {
+                            "referenca": "Амос 5,5",
+                            "meta_link": "Kniga41_Amos.xhtml#g5s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "Израил е тврдоглав како упорна јуница; па како да ги пасе Господ како јагниња на широка ливада?",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 31,18",
+                            "meta_link": "Kniga33_Er.xhtml#g31s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "Ефрем се поврзал со идолите; остави го!",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 14,9",
+                            "meta_link": "Kniga39_Os.xhtml#g14s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "18",
+                    "tekst": "После пијанството нивно му се предаваат на блудството; повеќе го сакаат отколку честа.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,7",
+                            "meta_link": "Kniga39_Os.xhtml#g4s7"
+                        },
+                        {
+                            "referenca": "Амос 2,8",
+                            "meta_link": "Kniga41_Amos.xhtml#g2s8"
+                        },
+                        {
+                            "referenca": "Амос 6,4-6",
+                            "meta_link": "Kniga41_Amos.xhtml#g6s4"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "19",
+                    "tekst": "Ветрот ќе ги притегне со крилјата свои, и тие ќе се засрамат од своите пагански жртви.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 13,15",
+                            "meta_link": "Kniga39_Os.xhtml#g13s15"
+                        },
+                        {
+                            "referenca": "Ер 4,11-13",
+                            "meta_link": "Kniga33_Er.xhtml#g4s11"
+                        },
+                        {
+                            "referenca": "Амос 1,14",
+                            "meta_link": "Kniga41_Amos.xhtml#g1s14"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "4"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Опомена за царството на Јуда и царството на Израил",
+                    "r_br": 1,
+                    "tekst": "Чујте го ова свештеници, и внимавај ти, доме Израилев, и приклони го увото, доме царев, зашто вам ќе ви се суди, зашто бевте замка во Мицпа и оптегната мрежа во Тавор.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 9,8",
+                            "meta_link": "Kniga39_Os.xhtml#g9s8"
+                        },
+                        {
+                            "referenca": "5 Мојс 1,17",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g1s17"
+                        },
+                        {
+                            "referenca": "Мих 3,1",
+                            "meta_link": "Kniga44_Mih.xhtml#g3s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Длабока јама ископаа престапниците, но Јас ќе ги казнам сите нив.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 24,2",
+                            "meta_link": "Kniga32_Is.xhtml#g24s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Ефрем Јас го познавам, но и Израил не е сокриен од мене; зашто и ти блудствуваш, Ефреме, а ти, Израиле, се оскверна.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,17",
+                            "meta_link": "Kniga39_Os.xhtml#g4s17"
+                        },
+                        {
+                            "referenca": "Ос 6,10",
+                            "meta_link": "Kniga39_Os.xhtml#g6s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Делата нивни не ги оставаат да се обратат кон својот Бог, зашто блудството нивно е внатре во нив, па затоа и Господа не Го познаваат.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 1,2",
+                            "meta_link": "Kniga39_Os.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "Ос 4,12",
+                            "meta_link": "Kniga39_Os.xhtml#g4s12"
+                        },
+                        {
+                            "referenca": "Ос 7,10",
+                            "meta_link": "Kniga39_Os.xhtml#g7s10"
+                        },
+                        {
+                            "referenca": "Ер 13,23",
+                            "meta_link": "Kniga33_Er.xhtml#g13s23"
+                        },
+                        {
+                            "referenca": "Изреки 27,22",
+                            "meta_link": "Kniga27_Izreki.xhtml#g27s22"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "И гордоста на Израил сведочи против нив; затоа и Израил и Ефрем паднаа поради беззаконијата свои; а ќе падне и Јуда со нив.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 7,10",
+                            "meta_link": "Kniga39_Os.xhtml#g7s10"
+                        },
+                        {
+                            "referenca": "Ос 14,2",
+                            "meta_link": "Kniga39_Os.xhtml#g14s2"
+                        },
+                        {
+                            "referenca": "Амос 6,8",
+                            "meta_link": "Kniga41_Amos.xhtml#g6s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Со овци и со волови ќе тргнат да Го бараат Господа и нема да Го најдат; Тој се оттргнал од нив.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 55,6",
+                            "meta_link": "Kniga32_Is.xhtml#g55s6"
+                        },
+                        {
+                            "referenca": "Ер 6,20",
+                            "meta_link": "Kniga33_Er.xhtml#g6s20"
+                        },
+                        {
+                            "referenca": "Амос 5,4",
+                            "meta_link": "Kniga41_Amos.xhtml#g5s4"
+                        },
+                        {
+                            "referenca": "Амос 8,11-12",
+                            "meta_link": "Kniga41_Amos.xhtml#g8s11"
+                        },
+                        {
+                            "referenca": "Изреки 1,28",
+                            "meta_link": "Kniga27_Izreki.xhtml#g1s28"
+                        },
+                        {
+                            "referenca": "Јн 7,34",
+                            "meta_link": "Kniga54_Jn.xhtml#g7s34"
+                        },
+                        {
+                            "referenca": "Јн 8,21",
+                            "meta_link": "Kniga54_Jn.xhtml#g8s21"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Тие го изневерија Господа, зашто изродија туѓи деца; затоа сега и тие и нивните имоти ќе бидат уништени.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,6",
+                            "meta_link": "Kniga39_Os.xhtml#g2s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Затрубете со рог во Гива, со труба во Рама, и викајте во Бет-Авен: „Во бој, Венијамине!”",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,15",
+                            "meta_link": "Kniga39_Os.xhtml#g4s15"
+                        },
+                        {
+                            "referenca": "Ер 4,5",
+                            "meta_link": "Kniga33_Er.xhtml#g4s5"
+                        },
+                        {
+                            "referenca": "Јоил 2,1",
+                            "meta_link": "Kniga40_Joil.xhtml#g2s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Во денот на казнувањето Ефрем ќе стане пустина; Јас го изјавувам тоа меѓу колената Израилеви."
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Водачите на Јуда станаа како оние што преместуваат меѓи; ќе го излеам врз нив гневот Мој како вода.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 19,14",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g19s14"
+                        },
+                        {
+                            "referenca": "5 Мојс 27,17",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g27s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Ете, Ефрем е угнетен, кај него правдата се гази, зашто посака да оди по суетни работи.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 28,33",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g28s33"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Јас ќе бидам како молец за домот на Ефрем и како црв за домот на Јуда.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 50,9",
+                            "meta_link": "Kniga32_Is.xhtml#g50s9"
+                        },
+                        {
+                            "referenca": "Јов 4,19",
+                            "meta_link": "Kniga26_Jov.xhtml#g4s19"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Кога ја согледа Ефрем болеста своја и Јуда раната своја, тргна Ефрем кон Ашур и се обрати до големиот цар за помош; но тој не ќе може да ве излекува, и нема да ви ја исцели раната ваша.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 7,11",
+                            "meta_link": "Kniga39_Os.xhtml#g7s11"
+                        },
+                        {
+                            "referenca": "Ос 8,9",
+                            "meta_link": "Kniga39_Os.xhtml#g8s9"
+                        },
+                        {
+                            "referenca": "Ос 10,6",
+                            "meta_link": "Kniga39_Os.xhtml#g10s6"
+                        },
+                        {
+                            "referenca": "Ос 12,2",
+                            "meta_link": "Kniga39_Os.xhtml#g12s2"
+                        },
+                        {
+                            "referenca": "Ос 14,4",
+                            "meta_link": "Kniga39_Os.xhtml#g14s4"
+                        },
+                        {
+                            "referenca": "4 Цар 15,19",
+                            "meta_link": "Kniga12_4Car.xhtml#g15s19"
+                        },
+                        {
+                            "referenca": "4 Цар 16,7-9",
+                            "meta_link": "Kniga12_4Car.xhtml#g16s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Зашто Јас сум како лав за Ефрем и како лавче за домот на Јуда; Јас, Јас ќе раскинам и ќе си заминам; ќе однесам и никој нема да ги спаси.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,12",
+                            "meta_link": "Kniga39_Os.xhtml#g2s12"
+                        },
+                        {
+                            "referenca": "Ос 13,7",
+                            "meta_link": "Kniga39_Os.xhtml#g13s7"
+                        },
+                        {
+                            "referenca": "1 Мојс 49,9",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g49s9"
+                        },
+                        {
+                            "referenca": "Ис 5,29",
+                            "meta_link": "Kniga32_Is.xhtml#g5s29"
+                        },
+                        {
+                            "referenca": "Амос 3,12",
+                            "meta_link": "Kniga41_Amos.xhtml#g3s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Ќе тргнам и ќе се вратам во Своето место, додека тие не признаат дека се виновни, и не го побараат лицето Мое. Можеби во својата мака ќе Ме побараат.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,6",
+                            "meta_link": "Kniga39_Os.xhtml#g5s6"
+                        },
+                        {
+                            "referenca": "5 Мојс 4,29-31",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g4s29"
+                        },
+                        {
+                            "referenca": "Ис 18,4",
+                            "meta_link": "Kniga32_Is.xhtml#g18s4"
+                        },
+                        {
+                            "referenca": "Ер 29,13",
+                            "meta_link": "Kniga33_Er.xhtml#g29s13"
+                        },
+                        {
+                            "referenca": "Амос 5,4",
+                            "meta_link": "Kniga41_Amos.xhtml#g5s4"
+                        },
+                        {
+                            "referenca": "Пс 78,34",
+                            "meta_link": "Kniga25_Ps.xhtml#g78s34"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "5"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Зборови на Божјиот народ",
+                    "r_br": 1,
+                    "tekst": "Ќе велат: „Ајде да се вратиме кај Господ, зашто Тој нѐ рани и Тој ќе нѐ исцели, нѐ удри – и ќе ни ги преврзе раните наши;",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 14,2",
+                            "meta_link": "Kniga39_Os.xhtml#g14s2"
+                        },
+                        {
+                            "referenca": "Плач 3,40",
+                            "meta_link": "Kniga34_Plach.xhtml#g3s40"
+                        },
+                        {
+                            "referenca": "Плач 5,21",
+                            "meta_link": "Kniga34_Plach.xhtml#g5s21"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "ќе нѐ оживее за два дена, а во третиот ќе нѐ подигне, и ние ќе живееме пред лицето Негово.",
+                    "referenci": [
+                        {
+                            "referenca": "Ез 37",
+                            "meta_link": "Kniga37_Ez.xhtml#g37"
+                        },
+                        {
+                            "referenca": "Пс 116,9",
+                            "meta_link": "Kniga25_Ps.xhtml#g116s9"
+                        },
+                        {
+                            "referenca": "Лк 1,75",
+                            "meta_link": "Kniga53_Lk.xhtml#g1s75"
+                        },
+                        {
+                            "referenca": "Лк 24,7",
+                            "meta_link": "Kniga53_Lk.xhtml#g24s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "И така, сега да се стремиме да Го познаеме Господа; а Тој сигурно ќе дојде кај нас, како утрена зора, ќе ни дојде како дожд; како доцен и ран дожд ќе ја натопи земјата.”",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,22",
+                            "meta_link": "Kniga39_Os.xhtml#g2s22"
+                        },
+                        {
+                            "referenca": "5 Мојс 11,14",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g11s14"
+                        },
+                        {
+                            "referenca": "Јоил 2,23",
+                            "meta_link": "Kniga40_Joil.xhtml#g2s23"
+                        },
+                        {
+                            "referenca": "Пс 72,6",
+                            "meta_link": "Kniga25_Ps.xhtml#g72s6"
+                        },
+                        {
+                            "referenca": "Пс 63,2",
+                            "meta_link": "Kniga25_Ps.xhtml#g63s2"
+                        },
+                        {
+                            "referenca": "Пс 143,6",
+                            "meta_link": "Kniga25_Ps.xhtml#g143s6"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Господ им се обраќа на Израил и на Јудеја",
+                    "r_br": "4",
+                    "tekst": "Што да правам со тебе, Ефреме? Што да правам со тебе, Јудо? Вашата љубов кон Мене е како утрена магла и како роса што брзо исчезнува.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 13,3",
+                            "meta_link": "Kniga39_Os.xhtml#g13s3"
+                        },
+                        {
+                            "referenca": "Ос 14,6",
+                            "meta_link": "Kniga39_Os.xhtml#g14s6"
+                        },
+                        {
+                            "referenca": "Мих 5,6",
+                            "meta_link": "Kniga44_Mih.xhtml#g5s6"
+                        },
+                        {
+                            "referenca": "Изреки 19,12",
+                            "meta_link": "Kniga27_Izreki.xhtml#g19s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Затоа Јас ги судев преку пророците и ги биев со зборови од устата Своја. А тоа што го барам од вас е јасно како светлина.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 12,11",
+                            "meta_link": "Kniga39_Os.xhtml#g12s11"
+                        },
+                        {
+                            "referenca": "Ис 11,4",
+                            "meta_link": "Kniga32_Is.xhtml#g11s4"
+                        },
+                        {
+                            "referenca": "Ер 1,10",
+                            "meta_link": "Kniga33_Er.xhtml#g1s10"
+                        },
+                        {
+                            "referenca": "Ер 5,14",
+                            "meta_link": "Kniga33_Er.xhtml#g5s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Јас повеќе сакам милост, отколку жртва, и познавање на Бога, а не жртва сепаленица.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,21-22",
+                            "meta_link": "Kniga39_Os.xhtml#g2s21"
+                        },
+                        {
+                            "referenca": "Амос 5,21-24",
+                            "meta_link": "Kniga41_Amos.xhtml#g5s21"
+                        },
+                        {
+                            "referenca": "Пс 40,6",
+                            "meta_link": "Kniga25_Ps.xhtml#g40s6"
+                        },
+                        {
+                            "referenca": "Пс 51,18-19",
+                            "meta_link": "Kniga25_Ps.xhtml#g51s18"
+                        },
+                        {
+                            "referenca": "Мт 9,13",
+                            "meta_link": "Kniga51_Mt.xhtml#g9s13"
+                        },
+                        {
+                            "referenca": "Мт 12,7",
+                            "meta_link": "Kniga51_Mt.xhtml#g12s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "А тие, како Адам, го прекршија заветот, и таму Ме изневерија.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 8,1",
+                            "meta_link": "Kniga39_Os.xhtml#g8s1"
+                        },
+                        {
+                            "referenca": "Ер 31,32",
+                            "meta_link": "Kniga33_Er.xhtml#g31s32"
+                        },
+                        {
+                            "referenca": "Ер 34,15-18",
+                            "meta_link": "Kniga33_Er.xhtml#g34s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Галаад е град на беззаконици, полн со траги од крв.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 12,12",
+                            "meta_link": "Kniga39_Os.xhtml#g12s12"
+                        },
+                        {
+                            "referenca": "4 Цар 15,25",
+                            "meta_link": "Kniga12_4Car.xhtml#g15s25"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Свештениците се здружени разбојници, тие убиваат по патот за Сихем, срамни работи вршат."
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Во домот Израилев гледам ужасни работи; таму Ефрем блудствува, Израил се осквернува.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,3",
+                            "meta_link": "Kniga39_Os.xhtml#g5s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "И за тебе, Јудо, е определена казна кога ќе го повратам од ропство Мојот народ.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 30,3",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g30s3"
+                        },
+                        {
+                            "referenca": "Ез 16,53",
+                            "meta_link": "Kniga37_Ez.xhtml#g16s53"
+                        },
+                        {
+                            "referenca": "Амос 9,14",
+                            "meta_link": "Kniga41_Amos.xhtml#g9s14"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "6"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Господ сака да му помогне на Израил",
+                    "r_br": 1,
+                    "tekst": "Штом ќе посакам да го излечам Израил, се открива неправдата на Ефрем и злосторството на Самарија, зашто тие лажат, и крадец провалува, и разбојник граби по улиците.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,2",
+                            "meta_link": "Kniga39_Os.xhtml#g4s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "И не помислуваат во срцето свое дека Јас ги помнам сите нивни беззаконија; а сега ги обиколија нивните дела; пред лицето Мое се.",
+                    "referenci": [
+                        {
+                            "referenca": "3 Цар 17,18",
+                            "meta_link": "Kniga11_3Car.xhtml#g17s18"
+                        },
+                        {
+                            "referenca": "Ер 2,19",
+                            "meta_link": "Kniga33_Er.xhtml#g2s19"
+                        },
+                        {
+                            "referenca": "Амос 8,7",
+                            "meta_link": "Kniga41_Amos.xhtml#g8s7"
+                        },
+                        {
+                            "referenca": "Мал 3,16",
+                            "meta_link": "Kniga50_Mal.xhtml#g3s16"
+                        },
+                        {
+                            "referenca": "Пс 90,8",
+                            "meta_link": "Kniga25_Ps.xhtml#g90s8"
+                        },
+                        {
+                            "referenca": "Откр 20,12",
+                            "meta_link": "Kniga77_Otkr.xhtml#g20s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Со злосторства го веселат царот свој и со лагите свои – кнезовите."
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Од прељубодејство тие сите горат како печка вжарена која пекарот повеќе не ја разгорува, додека не го замеси тестото, и тоа скисне."
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "„Денот е на царот наш!” – велат кнезовите, опијанети од вино, а тој се ракува со опијанетите."
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Од сплетките нивни срцето им се вжарува како печка: гневот тлее во нив цела ноќ, а утрината се разгорува како огнен пламен."
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Тие сите се распалени како фурна и си ги голтаат судиите свои; нивните цареви паѓаат и никој од нив не вика кон Мене.",
+                    "referenci": [
+                        {
+                            "referenca": "4 Цар 15,10.14.25",
+                            "meta_link": "Kniga12_4Car.xhtml#g15s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Ефрем се смешал со народите, и станал како пита непревртена."
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Туѓинци му ја одземаат силата негова, но тој не забележува, косата му побелела, а тој не знае.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,12",
+                            "meta_link": "Kniga39_Os.xhtml#g5s12"
+                        },
+                        {
+                            "referenca": "Ер 5,3",
+                            "meta_link": "Kniga33_Er.xhtml#g5s3"
+                        },
+                        {
+                            "referenca": "Откр 3,17",
+                            "meta_link": "Kniga77_Otkr.xhtml#g3s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "И гордоста на Израил сведочи против нив – и покрај сето тоа не се обраќаат кон Господ, својот Бог, и не Го бараат.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,4",
+                            "meta_link": "Kniga39_Os.xhtml#g5s4"
+                        },
+                        {
+                            "referenca": "Ос 11,5",
+                            "meta_link": "Kniga39_Os.xhtml#g11s5"
+                        },
+                        {
+                            "referenca": "Ис 9,12",
+                            "meta_link": "Kniga32_Is.xhtml#g9s12"
+                        },
+                        {
+                            "referenca": "Амос 4,6-11",
+                            "meta_link": "Kniga41_Amos.xhtml#g4s6"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Залудно барате помош од други народи",
+                    "r_br": "11",
+                    "tekst": "А Ефрем стана како глупав гулаб – без разум: ги повикуваат Египќаните на помош, а потоа се приклонуваат кон Асирија.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,11",
+                            "meta_link": "Kniga39_Os.xhtml#g4s11"
+                        },
+                        {
+                            "referenca": "Ос 5,13",
+                            "meta_link": "Kniga39_Os.xhtml#g5s13"
+                        },
+                        {
+                            "referenca": "Ос 12,2",
+                            "meta_link": "Kniga39_Os.xhtml#g12s2"
+                        },
+                        {
+                            "referenca": "Ер 2,18",
+                            "meta_link": "Kniga33_Er.xhtml#g2s18"
+                        },
+                        {
+                            "referenca": "Плач 5,6",
+                            "meta_link": "Kniga34_Plach.xhtml#g5s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Каде и да појдат, Јас ќе ја фрлам мрежата Своја врз нив; како птици небески ќе ги кутнам; ќе ги казнам, како што беше речено во нивното собрание.",
+                    "referenci": [
+                        {
+                            "referenca": "Ез 12,13",
+                            "meta_link": "Kniga37_Ez.xhtml#g12s13"
+                        },
+                        {
+                            "referenca": "Проп 9,12",
+                            "meta_link": "Kniga28_Prop.xhtml#g9s12"
+                        },
+                        {
+                            "referenca": "Мт 13,47",
+                            "meta_link": "Kniga51_Mt.xhtml#g13s47"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Тешко ним, зашто отстапија од Мене; погибел за нив, зашто се одметнаа од Мене. Јас ги спасував, а тие Ме лажеа.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 7,1",
+                            "meta_link": "Kniga39_Os.xhtml#g7s1"
+                        },
+                        {
+                            "referenca": "Ос 13,14",
+                            "meta_link": "Kniga39_Os.xhtml#g13s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "А не повикаа кон Мене од сѐ срце, кога пискаа по леглата свои; ридаа на своите постели заради леб и вино, а против Мене се бунтуваа."
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Додека Јас ги поткрепував и им давав сила, тие коваа зло против Мене."
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "Тие се свртуваа кон лажни богови; станаа како скршен лак. Заради нивната горделивост, кнезовите ќе им изгинат од меч, а Египќаните ќе им се смеат.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 9,6",
+                            "meta_link": "Kniga39_Os.xhtml#g9s6"
+                        },
+                        {
+                            "referenca": "Ер 42,18",
+                            "meta_link": "Kniga33_Er.xhtml#g42s18"
+                        },
+                        {
+                            "referenca": "Пс 78,57",
+                            "meta_link": "Kniga25_Ps.xhtml#g78s57"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "7"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Израил Го отфрла Господа",
+                    "r_br": 1,
+                    "tekst": "Стави ја трубата на уста! Непријателите како орли го напаѓаат Домот Господов, зашто тие го нарушија заветот Мој и го престапија законот Мој.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,8",
+                            "meta_link": "Kniga39_Os.xhtml#g5s8"
+                        },
+                        {
+                            "referenca": "Ос 6,7",
+                            "meta_link": "Kniga39_Os.xhtml#g6s7"
+                        },
+                        {
+                            "referenca": "Ос 9,15",
+                            "meta_link": "Kniga39_Os.xhtml#g9s15"
+                        },
+                        {
+                            "referenca": "Ер 12,7",
+                            "meta_link": "Kniga33_Er.xhtml#g12s7"
+                        },
+                        {
+                            "referenca": "Ез 3,17",
+                            "meta_link": "Kniga37_Ez.xhtml#g3s17"
+                        },
+                        {
+                            "referenca": "Ез 33,7",
+                            "meta_link": "Kniga37_Ez.xhtml#g33s7"
+                        },
+                        {
+                            "referenca": "Јоил 2,1",
+                            "meta_link": "Kniga40_Joil.xhtml#g2s1"
+                        },
+                        {
+                            "referenca": "Авак 1,8",
+                            "meta_link": "Kniga46_Avak.xhtml#g1s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Иако викаат кон Мене: „Боже мој, ние Те познаваме; ние сме Израил.”",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 6,1-3",
+                            "meta_link": "Kniga39_Os.xhtml#g6s1"
+                        },
+                        {
+                            "referenca": "Ер 14,8-9",
+                            "meta_link": "Kniga33_Er.xhtml#g14s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Израил го отфрли доброто; затоа непријател ќе го гони."
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Си поставуваа цареви свои, без Мене; си избираа кнезови, пак без Мене; од среброто свое и од златото свое направија идоли: тоа им е за погибел.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Цар 8,1",
+                            "meta_link": "Kniga9_1Car.xhtml#g8s1"
+                        },
+                        {
+                            "referenca": "1 Цар 11,12",
+                            "meta_link": "Kniga9_1Car.xhtml#g11s12"
+                        },
+                        {
+                            "referenca": "4 Цар 15,10.14.25",
+                            "meta_link": "Kniga12_4Car.xhtml#g15s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Го мразам телето твое, Самаријо; се распали гневот Мој против нив; до кога ли не ќе можат да се исчистат оние што се во Израил?",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 10,5-6",
+                            "meta_link": "Kniga39_Os.xhtml#g10s5"
+                        },
+                        {
+                            "referenca": "Ос 13,2",
+                            "meta_link": "Kniga39_Os.xhtml#g13s2"
+                        },
+                        {
+                            "referenca": "3 Цар 12,28.32",
+                            "meta_link": "Kniga11_3Car.xhtml#g12s28"
+                        },
+                        {
+                            "referenca": "4 Цар 17,16",
+                            "meta_link": "Kniga12_4Car.xhtml#g17s16"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "И него уметник го направил, тоа не е бог; затоа ќе биде скршено на парчиња телето твое, Самаријо!",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 13,2",
+                            "meta_link": "Kniga39_Os.xhtml#g13s2"
+                        },
+                        {
+                            "referenca": "2 Мојс 20,4",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g20s4"
+                        },
+                        {
+                            "referenca": "2 Мојс 34,17",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g34s17"
+                        },
+                        {
+                            "referenca": "Авак 2,18-19",
+                            "meta_link": "Kniga46_Avak.xhtml#g2s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Бидејќи сееја ветар, бура ќе пожнеат; житото нема да им ‘рти, нема да даде брашно; ако, пак, и даде, туѓинци ќе го изедат.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 10,13",
+                            "meta_link": "Kniga39_Os.xhtml#g10s13"
+                        },
+                        {
+                            "referenca": "Јов 4,8",
+                            "meta_link": "Kniga26_Jov.xhtml#g4s8"
+                        },
+                        {
+                            "referenca": "Изреки 22,8",
+                            "meta_link": "Kniga27_Izreki.xhtml#g22s8"
+                        },
+                        {
+                            "referenca": "Гал 6,7",
+                            "meta_link": "Kniga59_Gal.xhtml#g6s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Проголтан е Израил; меѓу народите сега е како скршен сад."
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Тие скитаат осамени како диви магариња; Ефрем со подароци ја купуваше благонаклоноста на другите.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,13",
+                            "meta_link": "Kniga39_Os.xhtml#g5s13"
+                        },
+                        {
+                            "referenca": "Ос 7,11",
+                            "meta_link": "Kniga39_Os.xhtml#g7s11"
+                        },
+                        {
+                            "referenca": "Ез 16,32-34",
+                            "meta_link": "Kniga37_Ez.xhtml#g16s32"
+                        },
+                        {
+                            "referenca": "Јов 39,5-8",
+                            "meta_link": "Kniga26_Jov.xhtml#g39s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Па, иако праќаше дарови на народите, наскоро Јас ќе ги соберам, и тие ќе почнат да страдаат од царот и кнезовите;"
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "иако Ефрем изгради многу жртвеници за грев – за грев и му послужија тие исти жртвеници.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 10,1",
+                            "meta_link": "Kniga39_Os.xhtml#g10s1"
+                        },
+                        {
+                            "referenca": "Ос 12,12",
+                            "meta_link": "Kniga39_Os.xhtml#g12s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Му напишав важни закони, но тој ги сметаше за туѓи."
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Во жртвените приноси Мене Ми принесуваат месо и го јадат; на Господа тие не му се угодни; сега Тој ќе се присети за нивното бесчестие и ќе ги казни за гревовите нивни; ќе ги врати во Египет.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 6,6",
+                            "meta_link": "Kniga39_Os.xhtml#g6s6"
+                        },
+                        {
+                            "referenca": "Ос 9,3.9",
+                            "meta_link": "Kniga39_Os.xhtml#g9s3"
+                        },
+                        {
+                            "referenca": "Ос 11,5",
+                            "meta_link": "Kniga39_Os.xhtml#g11s5"
+                        },
+                        {
+                            "referenca": "5 Мојс 28,68",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g28s68"
+                        },
+                        {
+                            "referenca": "Амос 5,22",
+                            "meta_link": "Kniga41_Amos.xhtml#g5s22"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Израил го заборави Создателот свој, за себе си изгради дворци, а и Јуда изгради многу утврдени градови; но Јас ќе испратам оган врз градовите негови – и тој ќе му ги проголта дворците негови.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 32,15.18",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s15"
+                        },
+                        {
+                            "referenca": "Ис 17,10",
+                            "meta_link": "Kniga32_Is.xhtml#g17s10"
+                        },
+                        {
+                            "referenca": "Ер 2,32",
+                            "meta_link": "Kniga33_Er.xhtml#g2s32"
+                        },
+                        {
+                            "referenca": "Амос 2,5",
+                            "meta_link": "Kniga41_Amos.xhtml#g2s5"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "8"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Казна за Израил",
+                    "r_br": 1,
+                    "tekst": "Не радувај се, Израиле, со преголема веселба како другите народи, зашто блудствуваш, откако отстапи од својот Бог – и ги засака даровите од блуд по сите житни гумна.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 1,2",
+                            "meta_link": "Kniga39_Os.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "Ос 2,4",
+                            "meta_link": "Kniga39_Os.xhtml#g2s4"
+                        },
+                        {
+                            "referenca": "Ос 4,12",
+                            "meta_link": "Kniga39_Os.xhtml#g4s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Гумното и кацата нема да ги нахранат, а виното ќе ги измами.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,11",
+                            "meta_link": "Kniga39_Os.xhtml#g2s11"
+                        },
+                        {
+                            "referenca": "Ос 8,7",
+                            "meta_link": "Kniga39_Os.xhtml#g8s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Тие нема веќе да живеат во земјата Господова: Ефрем ќе се врати во Египет и во Асирија ќе јадат нечисто.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 8,13",
+                            "meta_link": "Kniga39_Os.xhtml#g8s13"
+                        },
+                        {
+                            "referenca": "Ос 10,6",
+                            "meta_link": "Kniga39_Os.xhtml#g10s6"
+                        },
+                        {
+                            "referenca": "Ос 11,5",
+                            "meta_link": "Kniga39_Os.xhtml#g11s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Нема да вршат преливи со вино за Господа, и неугодни ќе Му бидат жртвите нивни; лебот ќе им биде како леб на нажалени: сите што ќе го јадат, ќе се осквернуваат, зашто нивниот леб е само за душите нивни, а во домот Господов тој нема да се внесе.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 26,14",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g26s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Што ќе правиш во деновите на собирите и во деновите на празниците Господови?",
+                    "referenci": [
+                        {
+                            "referenca": "2 Мојс 23,14-17",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g23s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Зашто сите ќе си заминат пред запустувањето; Египет ќе ги прибере, Моф ќе ги погребе; нивните сребрени драгоцености коприви ќе ги прекријат, во шаторите нивни ќе обраснат трнливи грмушки.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 10,8",
+                            "meta_link": "Kniga39_Os.xhtml#g10s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Дојдоа деновите на твојата казна, дојдоа деновите за одмазда. Нека разбере Израил дека е глупав претскажувачот, безумен е оној што изјавува дека е вдахновен, поради многуте ваши беззаконија и големата омраза.",
+                    "referenci": [
+                        {
+                            "referenca": "Амос 3,2",
+                            "meta_link": "Kniga41_Amos.xhtml#g3s2"
+                        },
+                        {
+                            "referenca": "Соф 3,4",
+                            "meta_link": "Kniga47_Sof.xhtml#g3s4"
+                        },
+                        {
+                            "referenca": "Јн 10,20",
+                            "meta_link": "Kniga54_Jn.xhtml#g10s20"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Бог ме испрати како пророк, за да го предупредам Неговиот народ Израил. Но тие насекаде мрежа ми поставуваат, дури и во Божјиот дом му се противат на пророкот.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 6,17",
+                            "meta_link": "Kniga33_Er.xhtml#g6s17"
+                        },
+                        {
+                            "referenca": "Ер 20,1-6",
+                            "meta_link": "Kniga33_Er.xhtml#g20s1"
+                        },
+                        {
+                            "referenca": "Ез 3,17",
+                            "meta_link": "Kniga37_Ez.xhtml#g3s17"
+                        },
+                        {
+                            "referenca": "Амос 7,10-17",
+                            "meta_link": "Kniga41_Amos.xhtml#g7s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Многу ниско паднаа, останаа развратни како во деновите на Гива; но Тој ќе се присети за нивните беззаконија, ќе ги казни за нивните гревови.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 7,2",
+                            "meta_link": "Kniga39_Os.xhtml#g7s2"
+                        },
+                        {
+                            "referenca": "Ос 8,13",
+                            "meta_link": "Kniga39_Os.xhtml#g8s13"
+                        },
+                        {
+                            "referenca": "Ос 10,9",
+                            "meta_link": "Kniga39_Os.xhtml#g10s9"
+                        },
+                        {
+                            "referenca": "Суд 19",
+                            "meta_link": "Kniga7_Sud.xhtml#g19"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Тешките последици од гревот",
+                    "r_br": "10",
+                    "tekst": "Како грозје во пустина го најдов Израил; како ран плод на смоква, ги видов Јас татковците нивни, но тие отидоа кај Ваал-Фегор и се оддадоа на срамни работи, па и самите станаа нечисти како и нивните љубимци.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,16-17",
+                            "meta_link": "Kniga39_Os.xhtml#g2s16"
+                        },
+                        {
+                            "referenca": "4 Мојс 25,1-5",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g25s1"
+                        },
+                        {
+                            "referenca": "5 Мојс 32,10",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s10"
+                        },
+                        {
+                            "referenca": "Ис 28,4",
+                            "meta_link": "Kniga32_Is.xhtml#g28s4"
+                        },
+                        {
+                            "referenca": "Ер 2,5",
+                            "meta_link": "Kniga33_Er.xhtml#g2s5"
+                        },
+                        {
+                            "referenca": "Мих 7,1",
+                            "meta_link": "Kniga44_Mih.xhtml#g7s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Славата на Ефрем ќе одлета како птица; нема да има кај нив ни раѓање, ни бременост, ниту зачнување.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 28,18",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g28s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Па макар и да одгледаат деца свои, Јас ќе ги одземам; зашто тешко ним, кога ќе ги оставам.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 28,41",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g28s41"
+                        },
+                        {
+                            "referenca": "5 Мојс 32,25",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s25"
+                        },
+                        {
+                            "referenca": "Јов 27,14",
+                            "meta_link": "Kniga26_Jov.xhtml#g27s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Ефрем е како да го гледам Тир, се поставил на убаво место; но Ефрем ќе ги изведе децата свои на клање."
+                },
+                {
+                    "podnaslov": "Зборови на Осија",
+                    "r_br": "14",
+                    "tekst": "Дај им, Господи, а што да им дадеш? Дај им утроба што не раѓа, и – суви гради.",
+                    "referenci": [
+                        {
+                            "referenca": "Јов 3,11-12",
+                            "meta_link": "Kniga26_Jov.xhtml#g3s11"
+                        },
+                        {
+                            "referenca": "Лк 23,29",
+                            "meta_link": "Kniga53_Lk.xhtml#g23s29"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Божјиот суд над Израил",
+                    "r_br": "15",
+                    "tekst": "Сето зло им е во Гилгал; таму ги замразив Јас поради нивните лоши дела; ќе ги изгонам од Мојот дом, нема повеќе да ги сакам; сите нивни кнезови се отстапници.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 1,6",
+                            "meta_link": "Kniga39_Os.xhtml#g1s6"
+                        },
+                        {
+                            "referenca": "Ос 4,15",
+                            "meta_link": "Kniga39_Os.xhtml#g4s15"
+                        },
+                        {
+                            "referenca": "Ос 6,8",
+                            "meta_link": "Kniga39_Os.xhtml#g6s8"
+                        },
+                        {
+                            "referenca": "Ос 8,1",
+                            "meta_link": "Kniga39_Os.xhtml#g8s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "Поразен е Ефрем; се исуши коренот нивни – плод нема да имаат; и ако родат, Јас ќе го умртвам нивниот сакан плод во утробата нивна.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 9,12",
+                            "meta_link": "Kniga39_Os.xhtml#g9s12"
+                        },
+                        {
+                            "referenca": "Амос 2,9",
+                            "meta_link": "Kniga41_Amos.xhtml#g2s9"
+                        },
+                        {
+                            "referenca": "Јов 18,16",
+                            "meta_link": "Kniga26_Jov.xhtml#g18s16"
+                        },
+                        {
+                            "referenca": "Мт 21,19",
+                            "meta_link": "Kniga51_Mt.xhtml#g21s19"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "Ќе ги отфрли мојот Бог, зашто тие не Го послушаа, па затоа ќе скитаат меѓу народите.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 4,14",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g4s14"
+                        },
+                        {
+                            "referenca": "5 Мојс 28,64-65",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g28s64"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "9"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Осија го предупредува Израил",
+                    "r_br": 1,
+                    "tekst": "Израил е рагранета лоза; колку повеќе таа има плод, толку повеќе се умножуваат жртвениците; колку му е поплодна земјата, толку повеќе се украсуваат идолите.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 8,11",
+                            "meta_link": "Kniga39_Os.xhtml#g8s11"
+                        },
+                        {
+                            "referenca": "Ос 12,12",
+                            "meta_link": "Kniga39_Os.xhtml#g12s12"
+                        },
+                        {
+                            "referenca": "4 Мојс 23,24",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g23s24"
+                        },
+                        {
+                            "referenca": "5 Мојс 32,15",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s15"
+                        },
+                        {
+                            "referenca": "Ис 5,1",
+                            "meta_link": "Kniga32_Is.xhtml#g5s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Измамничко е срцето нивно, и затоа ќе бидат казнети: Тој ќе ги разруши нивните жртвеници, ќе ги здроби идолите нивни."
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Сега тие велат: „Немаме цар, зашто немавме страхопочит кон Господа, а и зошто ни е цар?”"
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Зборуваат, даваат лажни завети, склучуваат сојузи; правдата се претворила во неправда и расте по браздите на нивните ниви.",
+                    "referenci": [
+                        {
+                            "referenca": "Амос 5,7",
+                            "meta_link": "Kniga41_Amos.xhtml#g5s7"
+                        },
+                        {
+                            "referenca": "Амос 6,12",
+                            "meta_link": "Kniga41_Amos.xhtml#g6s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "За телето во Бет-Авен ќе плачат жителите на Самарија; ќе заплаче за него народот негов, и жреците негови, кои се радуваа со него, ќе плачат по славата негова, зашто неа ќе ја снема од него.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,15",
+                            "meta_link": "Kniga39_Os.xhtml#g4s15"
+                        },
+                        {
+                            "referenca": "Ос 8,5",
+                            "meta_link": "Kniga39_Os.xhtml#g8s5"
+                        },
+                        {
+                            "referenca": "4 Цар 23,5",
+                            "meta_link": "Kniga12_4Car.xhtml#g23s5"
+                        },
+                        {
+                            "referenca": "Соф 1,4",
+                            "meta_link": "Kniga47_Sof.xhtml#g1s4"
+                        },
+                        {
+                            "referenca": "Откр 18,14",
+                            "meta_link": "Kniga77_Otkr.xhtml#g18s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "И тој самиот ќе биде врзан и одведен во Асирија како дар на големиот цар; посрамен ќе биде Ефрем, и ќе се засрами Израил поради својата одлука.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,13",
+                            "meta_link": "Kniga39_Os.xhtml#g5s13"
+                        },
+                        {
+                            "referenca": "Ос 9,3",
+                            "meta_link": "Kniga39_Os.xhtml#g9s3"
+                        },
+                        {
+                            "referenca": "Ос 11,5",
+                            "meta_link": "Kniga39_Os.xhtml#g11s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Уништена е Самарија, нејзиниот цар ќе биде исфрлен како лушпа на површината на водата."
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "И ќе бидат истребени идолските светилишта на Авен, гревот Израилев; во трње и боцки ќе обраснат жртвениците негови, па ќе им речат на планините – покријте нѐ, а на ридовите, паднете врз нас!",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,13",
+                            "meta_link": "Kniga39_Os.xhtml#g4s13"
+                        },
+                        {
+                            "referenca": "1 Мојс 3,18",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g3s18"
+                        },
+                        {
+                            "referenca": "4 Цар 23,15",
+                            "meta_link": "Kniga12_4Car.xhtml#g23s15"
+                        },
+                        {
+                            "referenca": "Ис 2,10",
+                            "meta_link": "Kniga32_Is.xhtml#g2s10"
+                        },
+                        {
+                            "referenca": "Ис 5,6",
+                            "meta_link": "Kniga32_Is.xhtml#g5s6"
+                        },
+                        {
+                            "referenca": "Ис 7,23-25",
+                            "meta_link": "Kniga32_Is.xhtml#g7s23"
+                        },
+                        {
+                            "referenca": "Ис 32,13",
+                            "meta_link": "Kniga32_Is.xhtml#g32s13"
+                        },
+                        {
+                            "referenca": "Лк 23,30",
+                            "meta_link": "Kniga53_Lk.xhtml#g23s30"
+                        },
+                        {
+                            "referenca": "Откр 6,16",
+                            "meta_link": "Kniga77_Otkr.xhtml#g6s16"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Господ му се заканува на Израил",
+                    "r_br": "9",
+                    "tekst": "Повеќе згреши, Израиле, отколку во деновите на Гива; а и таму да запреше, немаше ли да те стаса војна, како и беззакониците гивејски?",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 9,9",
+                            "meta_link": "Kniga39_Os.xhtml#g9s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Ќе ги казнам како што ќе посакам; ќе се соберат против нив народите, и тие ќе бидат казнети поради двојниот нивни престап.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 2,13",
+                            "meta_link": "Kniga33_Er.xhtml#g2s13"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Ефрем е обучена јуница, свикната да врши, и Јас Самиот на нејзиниот убав врат ќе ѝ ставам амут; па Ефрем ќе влече, Јуда ќе ора, а Јаков ќе ја дроби земјата.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,16",
+                            "meta_link": "Kniga39_Os.xhtml#g4s16"
+                        },
+                        {
+                            "referenca": "Ер 2,20",
+                            "meta_link": "Kniga33_Er.xhtml#g2s20"
+                        },
+                        {
+                            "referenca": "Ер 5,5",
+                            "meta_link": "Kniga33_Er.xhtml#g5s5"
+                        },
+                        {
+                            "referenca": "Мт 11,29-30",
+                            "meta_link": "Kniga51_Mt.xhtml#g11s29"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Сејте правда – па ќе жнеете милост; разорувајте нова земја, време е да Го побарате Господа, и така Тој, штом ќе дојде, да ве облее со благослов.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,21",
+                            "meta_link": "Kniga39_Os.xhtml#g2s21"
+                        },
+                        {
+                            "referenca": "Ер 4,3",
+                            "meta_link": "Kniga33_Er.xhtml#g4s3"
+                        },
+                        {
+                            "referenca": "Мих 6,8",
+                            "meta_link": "Kniga44_Mih.xhtml#g6s8"
+                        },
+                        {
+                            "referenca": "Зах 8,22",
+                            "meta_link": "Kniga49_Zah.xhtml#g8s22"
+                        },
+                        {
+                            "referenca": "Пс 14,2",
+                            "meta_link": "Kniga25_Ps.xhtml#g14s2"
+                        },
+                        {
+                            "referenca": "Дела 17,27",
+                            "meta_link": "Kniga55_Dela.xhtml#g17s27"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Оравте безбожност, жнеевте беззаконие, јадевте плод на лагата, зашто ти се надеваше на своите коли, на многуте војници.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 8,7",
+                            "meta_link": "Kniga39_Os.xhtml#g8s7"
+                        },
+                        {
+                            "referenca": "Ис 31,1",
+                            "meta_link": "Kniga32_Is.xhtml#g31s1"
+                        },
+                        {
+                            "referenca": "Мих 1,13",
+                            "meta_link": "Kniga44_Mih.xhtml#g1s13"
+                        },
+                        {
+                            "referenca": "Јов 4,8",
+                            "meta_link": "Kniga26_Jov.xhtml#g4s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "И ќе дојде војна на твојот народ, и сите твои тврдини ќе бидат разрушени, како што Шалман го разруши Бет-Арбел во денот на битката: мајка биваше убивана заедно со децата.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 14,1",
+                            "meta_link": "Kniga39_Os.xhtml#g14s1"
+                        },
+                        {
+                            "referenca": "Наум 3,10",
+                            "meta_link": "Kniga45_Naum.xhtml#g3s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Ете, така ќе ви направам, доме Израилев, поради неправдата ваша; во рани зори ќе загине царот Израилев.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,15",
+                            "meta_link": "Kniga39_Os.xhtml#g4s15"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "10"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Божјо сожалување над Својот народ",
+                    "r_br": 1,
+                    "tekst": "Кога Израил беше млад, Јас го сакав и од Египет го повикав како Мој син.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 11,10",
+                            "meta_link": "Kniga39_Os.xhtml#g11s10"
+                        },
+                        {
+                            "referenca": "2 Мојс 4,22",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g4s22"
+                        },
+                        {
+                            "referenca": "Ер 2,1-9",
+                            "meta_link": "Kniga33_Er.xhtml#g2s1"
+                        },
+                        {
+                            "referenca": "Ер 3,19",
+                            "meta_link": "Kniga33_Er.xhtml#g3s19"
+                        },
+                        {
+                            "referenca": "Мал 1,6",
+                            "meta_link": "Kniga50_Mal.xhtml#g1s6"
+                        },
+                        {
+                            "referenca": "Мт 2,15",
+                            "meta_link": "Kniga51_Mt.xhtml#g2s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Но колку повеќе ги повикував, толку повеќе се оддалечуваа од Мене, принесуваа жртви на Вааловци и им кадеа на идоли."
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Јас Самиот го учев Ефрем да оди, го носев на рацете Свои, а тие не сфаќаа дека се грижев за нив.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,10",
+                            "meta_link": "Kniga39_Os.xhtml#g2s10"
+                        },
+                        {
+                            "referenca": "5 Мојс 1,31",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g1s31"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Ги привлекував со нежност и со љубов, и Јас бев за нив како оној, што ја олабавува уздата од устата нивна, и кротко им подавав храна.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Мојс 16,4.8.12",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g16s4"
+                        },
+                        {
+                            "referenca": "4 Мојс 11,7-9",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g11s7"
+                        },
+                        {
+                            "referenca": "5 Мојс 8,16",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g8s16"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Тие ќе се вратат во Египет; Ашур – ќе му биде цар, зашто тие не посакаа да се вратат кај Мене.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,4",
+                            "meta_link": "Kniga39_Os.xhtml#g5s4"
+                        },
+                        {
+                            "referenca": "Ос 8,13",
+                            "meta_link": "Kniga39_Os.xhtml#g8s13"
+                        },
+                        {
+                            "referenca": "Ос 9,3",
+                            "meta_link": "Kniga39_Os.xhtml#g9s3"
+                        },
+                        {
+                            "referenca": "Ос 10,6",
+                            "meta_link": "Kniga39_Os.xhtml#g10s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "И меч ќе беснее по нивниот град, ќе ги уништи неговите заштитници, и ќе ги проголта поради нивните сплетки."
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Народот Мој е наклонет кон отстапување од Мене. Кон Севишниот повикуваат, но никој не им помага."
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Како да те дадам, Ефреме? Како да те предадам, Израиле? Како да те направам како Адма? Да ти направам како што му направив на Цевоим? Срцето Ми се вознемирува, затреперува утробата Моја од жалост.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 6,4",
+                            "meta_link": "Kniga39_Os.xhtml#g6s4"
+                        },
+                        {
+                            "referenca": "1 Мојс 10,19",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g10s19"
+                        },
+                        {
+                            "referenca": "1 Мојс 14,2.8",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g14s2"
+                        },
+                        {
+                            "referenca": "5 Мојс 32,26",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s26"
+                        },
+                        {
+                            "referenca": "Ис 54,8",
+                            "meta_link": "Kniga32_Is.xhtml#g54s8"
+                        },
+                        {
+                            "referenca": "Ер 31,20",
+                            "meta_link": "Kniga33_Er.xhtml#g31s20"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Нема да постапам според јароста на гневот Свој, и нема да го истребам Ефрем, зашто Јас сум Бог, а не човек, Светец меѓу вас; Јас нема веќе во гнев да доаѓам.",
+                    "referenci": [
+                        {
+                            "referenca": "4 Мојс 23,19",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g23s19"
+                        },
+                        {
+                            "referenca": "1 Цар 15,29",
+                            "meta_link": "Kniga9_1Car.xhtml#g15s29"
+                        },
+                        {
+                            "referenca": "Ис 5,16",
+                            "meta_link": "Kniga32_Is.xhtml#g5s16"
+                        },
+                        {
+                            "referenca": "Ис 6,3",
+                            "meta_link": "Kniga32_Is.xhtml#g6s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "По Господа тие ќе одат. Како лав ќе го издигне Тој гласот Свој, ќе го пушти гласот Свој – и ќе побрзаат кон Него синовите од запад,",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 11,10-12",
+                            "meta_link": "Kniga32_Is.xhtml#g11s10"
+                        },
+                        {
+                            "referenca": "Ис 43,5-7",
+                            "meta_link": "Kniga32_Is.xhtml#g43s5"
+                        },
+                        {
+                            "referenca": "Ер 25,30",
+                            "meta_link": "Kniga33_Er.xhtml#g25s30"
+                        },
+                        {
+                            "referenca": "Ер 31,8.9",
+                            "meta_link": "Kniga33_Er.xhtml#g31s8"
+                        },
+                        {
+                            "referenca": "Амос 1,2",
+                            "meta_link": "Kniga41_Amos.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "Амос 3,8",
+                            "meta_link": "Kniga41_Amos.xhtml#g3s8"
+                        },
+                        {
+                            "referenca": "Откр 10,3",
+                            "meta_link": "Kniga77_Otkr.xhtml#g10s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "ќе полетаат од Египет како птици, и од Асирија – како гулаби, и ќе ги населам во домовите нивни, вели Господ."
+                },
+                {
+                    "podnaslov": "Споредба меѓу Израил и Јудеја",
+                    "r_br": "12",
+                    "tekst": "Ефрем Ме опкружил со лаги, а домот Израилев – со измами; но Јуда сѐ уште се држи за Бог, и верен Му е на Светецот."
+                }
+            ],
+            "r_br": "11"
+        },
+        {
+            "stihovi": [
+                {
+                    "r_br": 1,
+                    "tekst": "Ефрем пасе ветар и трча кон источниот ветар, по цел ден си ги намножува лагите и насилствата, склучува сојуз со Ашур, а во Египет праќа масло.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,2",
+                            "meta_link": "Kniga39_Os.xhtml#g4s2"
+                        },
+                        {
+                            "referenca": "Ос 7,1",
+                            "meta_link": "Kniga39_Os.xhtml#g7s1"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Суд и над Израил и над Јудеја",
+                    "r_br": "2",
+                    "tekst": "Но и со Јуда Господ ќе има суд – Тој ќе го казни и Јаков за постапките негови, и Ќе му плати според делата негови.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,13",
+                            "meta_link": "Kniga39_Os.xhtml#g5s13"
+                        },
+                        {
+                            "referenca": "Ос 13,15",
+                            "meta_link": "Kniga39_Os.xhtml#g13s15"
+                        },
+                        {
+                            "referenca": "Ис 30,1",
+                            "meta_link": "Kniga32_Is.xhtml#g30s1"
+                        },
+                        {
+                            "referenca": "Ис 31,1",
+                            "meta_link": "Kniga32_Is.xhtml#g31s1"
+                        },
+                        {
+                            "referenca": "Ис 57,9",
+                            "meta_link": "Kniga32_Is.xhtml#g57s9"
+                        },
+                        {
+                            "referenca": "Плач 5,6",
+                            "meta_link": "Kniga34_Plach.xhtml#g5s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Уште во утробата мајчина тој го потиснуваше брата си, а кога порасна, тој се бореше и со Бога.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,1",
+                            "meta_link": "Kniga39_Os.xhtml#g4s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Тој се бореше против ангел – и го победи; заплака и Го замоли; во Ветил Тој нѐ најде и таму зборуваше со нас.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 25,26",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g25s26"
+                        },
+                        {
+                            "referenca": "Ис 43,27",
+                            "meta_link": "Kniga32_Is.xhtml#g43s27"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "А Господ е Бог над силите; Јахве е името Негово.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 28,10-22",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g28s10"
+                        },
+                        {
+                            "referenca": "1 Мојс 32,24-28",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g32s24"
+                        },
+                        {
+                            "referenca": "1 Мојс 35,15",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g35s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Врати се и ти кон својот Бог; биди милостив и справедлив, и секогаш надевај се на твојот Бог.",
+                    "referenci": [
+                        {
+                            "referenca": "Амос 4,13",
+                            "meta_link": "Kniga41_Amos.xhtml#g4s13"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Хананецот има неверни мерила во раката своја и сака да онеправдува;",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 11,5",
+                            "meta_link": "Kniga39_Os.xhtml#g11s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "И Ефрем вели: „Сепак се збогатив, насобрав многу имот, макар што во сите мои работи не можат да најдат ништо незаконско, што би било грев.”",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 25,13",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g25s13"
+                        },
+                        {
+                            "referenca": "Зах 14,21",
+                            "meta_link": "Kniga49_Zah.xhtml#g14s21"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Господ му е сепак Бог на Израил",
+                    "r_br": "9",
+                    "tekst": "Јас сум твојот Господ Бог уште од земјата египетска: пак ќе те населам да седиш во сеници како во деновите на празникот.",
+                    "referenci": [
+                        {
+                            "referenca": "Лк 12,16-21",
+                            "meta_link": "Kniga53_Lk.xhtml#g12s16"
+                        },
+                        {
+                            "referenca": "Откр 3,17-18",
+                            "meta_link": "Kniga77_Otkr.xhtml#g3s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Јас им зборував на пророците и ги умножував виденијата, а и преку пророците ќе донесам уништување.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,16",
+                            "meta_link": "Kniga39_Os.xhtml#g2s16"
+                        },
+                        {
+                            "referenca": "Ос 13,4",
+                            "meta_link": "Kniga39_Os.xhtml#g13s4"
+                        },
+                        {
+                            "referenca": "1 Мојс 20,2",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g20s2"
+                        },
+                        {
+                            "referenca": "3 Мојс 11,45",
+                            "meta_link": "Kniga3_3Mojs.xhtml#g11s45"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Во Галаад има беззаконија, тие ќе бидат уништени. Во Гилгал колат за жртви телци, а жртвениците им стојат како купишта камења на меѓите од нивните ниви.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 6,5",
+                            "meta_link": "Kniga39_Os.xhtml#g6s5"
+                        },
+                        {
+                            "referenca": "4 Мојс 12,2-8",
+                            "meta_link": "Kniga4_4Mojs.xhtml#g12s2"
+                        },
+                        {
+                            "referenca": "5 Мојс 18,15",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g18s15"
+                        },
+                        {
+                            "referenca": "Пс 74,9",
+                            "meta_link": "Kniga25_Ps.xhtml#g74s9"
+                        },
+                        {
+                            "referenca": "Плач 2,9",
+                            "meta_link": "Kniga34_Plach.xhtml#g2s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Избега Јаков во Арам и Израил служеше за жена, а за жена и овци пасеше.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,15",
+                            "meta_link": "Kniga39_Os.xhtml#g4s15"
+                        },
+                        {
+                            "referenca": "Ос 6,8",
+                            "meta_link": "Kniga39_Os.xhtml#g6s8"
+                        },
+                        {
+                            "referenca": "Ос 9,15",
+                            "meta_link": "Kniga39_Os.xhtml#g9s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Преку пророк го изведе Господ Израил од Египет и преку пророк Тој го пазеше.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 29",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g29"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Ефрем многу Го разгневи Господа, па затоа Господ ќе ја остави крвта негова на него, и ќе му плати за неговите навреди.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 11,1",
+                            "meta_link": "Kniga39_Os.xhtml#g11s1"
+                        },
+                        {
+                            "referenca": "2 Мојс 3,7-10",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g3s7"
+                        },
+                        {
+                            "referenca": "5 Мојс 18,15.18",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g18s15"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "12"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Пропаст на Израил",
+                    "r_br": 1,
+                    "tekst": "Кога Ефрем зборуваше, сите трепереа. Тој беше првак во Израил; но се огреши со Ваал и загина.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,17",
+                            "meta_link": "Kniga39_Os.xhtml#g4s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "И сега продолжува да греши: направија идоли излеани од сребро, онака како што сами ги замислуваат – уметничка работа – па им велат на луѓето ним да им принесуваат жртви и да ги целиваат телињата.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 8,5-6",
+                            "meta_link": "Kniga39_Os.xhtml#g8s5"
+                        },
+                        {
+                            "referenca": "3 Цар 12,27.32",
+                            "meta_link": "Kniga11_3Car.xhtml#g12s27"
+                        },
+                        {
+                            "referenca": "3 Цар 19,18",
+                            "meta_link": "Kniga11_3Car.xhtml#g19s18"
+                        },
+                        {
+                            "referenca": "Јов 31,27",
+                            "meta_link": "Kniga26_Jov.xhtml#g31s27"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Поради тоа тие ќе бидат како утрена магла, како роса што брзо исчезнува, како плева што ветар ја однесува од гумното, како дим од оџак.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 6,4",
+                            "meta_link": "Kniga39_Os.xhtml#g6s4"
+                        },
+                        {
+                            "referenca": "Ис 17,13",
+                            "meta_link": "Kniga32_Is.xhtml#g17s13"
+                        },
+                        {
+                            "referenca": "Ис 41,16",
+                            "meta_link": "Kniga32_Is.xhtml#g41s16"
+                        },
+                        {
+                            "referenca": "Соф 2,2",
+                            "meta_link": "Kniga47_Sof.xhtml#g2s2"
+                        },
+                        {
+                            "referenca": "Пс 1,4",
+                            "meta_link": "Kniga25_Ps.xhtml#g1s4"
+                        },
+                        {
+                            "referenca": "Јов 21,18",
+                            "meta_link": "Kniga26_Jov.xhtml#g21s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Но Јас сум Господ, твојот Бог уште од земјата египетска – и ти не треба да имаш друг Бог освен Мене; нема Спасител освен Мене.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 11,1",
+                            "meta_link": "Kniga39_Os.xhtml#g11s1"
+                        },
+                        {
+                            "referenca": "Ос 12,10",
+                            "meta_link": "Kniga39_Os.xhtml#g12s10"
+                        },
+                        {
+                            "referenca": "2 Мојс 20,2",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g20s2"
+                        },
+                        {
+                            "referenca": "5 Мојс 5,6",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g5s6"
+                        },
+                        {
+                            "referenca": "Ис 43,11",
+                            "meta_link": "Kniga32_Is.xhtml#g43s11"
+                        },
+                        {
+                            "referenca": "Ис 44,8",
+                            "meta_link": "Kniga32_Is.xhtml#g44s8"
+                        },
+                        {
+                            "referenca": "Ис 49,26",
+                            "meta_link": "Kniga32_Is.xhtml#g49s26"
+                        },
+                        {
+                            "referenca": "Ис 63,8",
+                            "meta_link": "Kniga32_Is.xhtml#g63s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Јас те хранев во пустината, во засушената земја.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,16",
+                            "meta_link": "Kniga39_Os.xhtml#g2s16"
+                        },
+                        {
+                            "referenca": "5 Мојс 32,10",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Јас ги хранев и тие беа сити; а кога се заситуваа, срцето им се возгордуваше, и поради тоа Мене Ме забораваа.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 8,14",
+                            "meta_link": "Kniga39_Os.xhtml#g8s14"
+                        },
+                        {
+                            "referenca": "5 Мојс 8,14",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g8s14"
+                        },
+                        {
+                            "referenca": "5 Мојс 32,15",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "И Јас ќе бидам како лав за нив, како леопард што им демне покрај патот.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,14",
+                            "meta_link": "Kniga39_Os.xhtml#g5s14"
+                        },
+                        {
+                            "referenca": "Ер 5,6",
+                            "meta_link": "Kniga33_Er.xhtml#g5s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Ќе напаѓам врз нив како мечка, чии мечиња се грабнати: ќе им ги истргнувам срцата нивни и ќе ги изедам таму како лавица, полските ѕверови ќе ги раскинуваат.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Цар 17,8",
+                            "meta_link": "Kniga10_2Car.xhtml#g17s8"
+                        },
+                        {
+                            "referenca": "Изреки 17,12",
+                            "meta_link": "Kniga27_Izreki.xhtml#g17s12"
+                        },
+                        {
+                            "referenca": "Плач 3,10",
+                            "meta_link": "Kniga34_Plach.xhtml#g3s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Ќе те уништам, Израиле, кој ќе ти помогне?"
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Каде ти е сега царот за да те спаси? Каде се твоите кнезови да те бранат, оние за кои велеше: „Дај ни цар и началници!”",
+                    "referenci": [
+                        {
+                            "referenca": "1 Цар 8,5-6.19",
+                            "meta_link": "Kniga9_1Car.xhtml#g8s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Јас ти дадов цар во гневот Свој и ти го одзедов во јароста Своја.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 10,15",
+                            "meta_link": "Kniga39_Os.xhtml#g10s15"
+                        },
+                        {
+                            "referenca": "1 Цар 8,7.22",
+                            "meta_link": "Kniga9_1Car.xhtml#g8s7"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Страшна судбина на Израил",
+                    "r_br": "12",
+                    "tekst": "Врзано е беззаконието на Ефрем, се чува гревот негов.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 32,34-35",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s34"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Родилните маки го обзедоа, но тој е неразбран син, не излегува навреме од утробата.",
+                    "referenci": [
+                        {
+                            "referenca": "4 Цар 19,3",
+                            "meta_link": "Kniga12_4Car.xhtml#g19s3"
+                        },
+                        {
+                            "referenca": "Ис 13,8",
+                            "meta_link": "Kniga32_Is.xhtml#g13s8"
+                        },
+                        {
+                            "referenca": "Ис 26,17-18",
+                            "meta_link": "Kniga32_Is.xhtml#g26s17"
+                        },
+                        {
+                            "referenca": "Ис 37,3",
+                            "meta_link": "Kniga32_Is.xhtml#g37s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Од власта на пеколот ќе ги откупам, од смртта ќе ги избавам. Смрт – каде ти е силата? Каде ти е тебе, пеколу, победата? Сочувството е скриено од Моите очи.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 6,2",
+                            "meta_link": "Kniga39_Os.xhtml#g6s2"
+                        },
+                        {
+                            "referenca": "Ис 25,8",
+                            "meta_link": "Kniga32_Is.xhtml#g25s8"
+                        },
+                        {
+                            "referenca": "Ис 26,19",
+                            "meta_link": "Kniga32_Is.xhtml#g26s19"
+                        },
+                        {
+                            "referenca": "Ез 37,1-14",
+                            "meta_link": "Kniga37_Ez.xhtml#g37s1"
+                        },
+                        {
+                            "referenca": "1 Кор 15,55",
+                            "meta_link": "Kniga57_1Kor.xhtml#g15s55"
+                        },
+                        {
+                            "referenca": "Откр 20,14",
+                            "meta_link": "Kniga77_Otkr.xhtml#g20s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Иако е Ефрем плоден меѓу браќата, ќе дојде источен ветар, ќе се крене ветрот Господов од пустината, и ќе го пресуши изворот негов, и ќе го однесе богатството од сите сокровишта.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 12,2",
+                            "meta_link": "Kniga39_Os.xhtml#g12s2"
+                        },
+                        {
+                            "referenca": "Ис 21,1",
+                            "meta_link": "Kniga32_Is.xhtml#g21s1"
+                        },
+                        {
+                            "referenca": "Ер 4,11",
+                            "meta_link": "Kniga33_Er.xhtml#g4s11"
+                        },
+                        {
+                            "referenca": "Ез 17,10",
+                            "meta_link": "Kniga37_Ez.xhtml#g17s10"
+                        },
+                        {
+                            "referenca": "Ез 19,12",
+                            "meta_link": "Kniga37_Ez.xhtml#g19s12"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "13"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Вратете се кон Господа",
+                    "r_br": 1,
+                    "tekst": "Самарија ќе страда, зашто се крена против својот Бог; од меч ќе паднат тие, нивните деца на камен ќе бидат разбивани, а бремените жени ќе бидат распарувани.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 7,1",
+                            "meta_link": "Kniga39_Os.xhtml#g7s1"
+                        },
+                        {
+                            "referenca": "Ос 10,14",
+                            "meta_link": "Kniga39_Os.xhtml#g10s14"
+                        },
+                        {
+                            "referenca": "4 Цар 15,16",
+                            "meta_link": "Kniga12_4Car.xhtml#g15s16"
+                        },
+                        {
+                            "referenca": "Амос 1,13",
+                            "meta_link": "Kniga41_Amos.xhtml#g1s13"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Врати се, Израиле, кај Господ твојот Бог; зашто ти пропаѓаш поради своето беззаконие.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 5,5",
+                            "meta_link": "Kniga39_Os.xhtml#g5s5"
+                        },
+                        {
+                            "referenca": "Ос 6,1",
+                            "meta_link": "Kniga39_Os.xhtml#g6s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Подгответе се молитвено, и обратете се кон Господ и речете Му: „Прости ни ги сите беззаконија наши и прими го тоа што е добро, а ние ќе принесеме жртва од устата наша.”",
+                    "referenci": [
+                        {
+                            "referenca": "Пс 32,1",
+                            "meta_link": "Kniga25_Ps.xhtml#g32s1"
+                        },
+                        {
+                            "referenca": "Евр 13,15",
+                            "meta_link": "Kniga69_Evr.xhtml#g13s15"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Господ ветува простување",
+                    "r_br": "4",
+                    "tekst": "Ашур повеќе нема да нѐ спасува; и нема повеќе да јаваме на коњи и на своите уметнички творби да им велиме:‚О, богови наши; зашто само Ти си милосрден кон сираци.‘",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 2,18-19",
+                            "meta_link": "Kniga39_Os.xhtml#g2s18"
+                        },
+                        {
+                            "referenca": "Ос 7,11",
+                            "meta_link": "Kniga39_Os.xhtml#g7s11"
+                        },
+                        {
+                            "referenca": "Ос 12,2",
+                            "meta_link": "Kniga39_Os.xhtml#g12s2"
+                        },
+                        {
+                            "referenca": "Ис 31,1",
+                            "meta_link": "Kniga32_Is.xhtml#g31s1"
+                        },
+                        {
+                            "referenca": "Пс 68,5",
+                            "meta_link": "Kniga25_Ps.xhtml#g68s5"
+                        },
+                        {
+                            "referenca": "Пс 146,9",
+                            "meta_link": "Kniga25_Ps.xhtml#g146s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Ќе ги излекувам од одметнувањето нивно, благонаклоно ќе ги засакам, зашто гневот Мој се одврати од нив.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 1,6",
+                            "meta_link": "Kniga39_Os.xhtml#g1s6"
+                        },
+                        {
+                            "referenca": "Ос 2,16-25",
+                            "meta_link": "Kniga39_Os.xhtml#g2s16"
+                        },
+                        {
+                            "referenca": "Ос 5,13",
+                            "meta_link": "Kniga39_Os.xhtml#g5s13"
+                        },
+                        {
+                            "referenca": "Ос 9,15",
+                            "meta_link": "Kniga39_Os.xhtml#g9s15"
+                        },
+                        {
+                            "referenca": "Ер 30,17",
+                            "meta_link": "Kniga33_Er.xhtml#g30s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Јас ќе бидам роса за Израил; тој ќе цвета како крин и ќе пушти корења како дрвјата на Ливан.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 26,19",
+                            "meta_link": "Kniga32_Is.xhtml#g26s19"
+                        },
+                        {
+                            "referenca": "Ис 27,6",
+                            "meta_link": "Kniga32_Is.xhtml#g27s6"
+                        },
+                        {
+                            "referenca": "Ис 35,1",
+                            "meta_link": "Kniga32_Is.xhtml#g35s1"
+                        },
+                        {
+                            "referenca": "Ез 17,23",
+                            "meta_link": "Kniga37_Ez.xhtml#g17s23"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Ќе се рашират гранките негови, и убавината негова ќе биде како убавина на маслина, и мирисот од него како мирис од Ливан.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 27,6",
+                            "meta_link": "Kniga32_Is.xhtml#g27s6"
+                        },
+                        {
+                            "referenca": "Пс 52,8",
+                            "meta_link": "Kniga25_Ps.xhtml#g52s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Ќе се вратат под Мојата сенка, и ќе имаат жито во изобилие – па ќе цветаат како лоза, ќе станат славни како виното леванонско."
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Зошто ти се идолите, Ефреме? Јас те слушам и се грижам за тебе; Јас сум како зелен кипарис: од Мене ти доаѓаат плодовите.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 4,17",
+                            "meta_link": "Kniga39_Os.xhtml#g4s17"
+                        },
+                        {
+                            "referenca": "2 Кор 6,16",
+                            "meta_link": "Kniga58_2Kor.xhtml#g6s16"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Кој е мудар, нека го разбере ова; кој е разумен нека го познае тоа. Зашто патиштата Господови се прави, и праведниците одат по нив, а беззакониците се сопнуваат од нив.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 32,4",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s4"
+                        },
+                        {
+                            "referenca": "Ер 9,11",
+                            "meta_link": "Kniga33_Er.xhtml#g9s11"
+                        },
+                        {
+                            "referenca": "Пс 107,43",
+                            "meta_link": "Kniga25_Ps.xhtml#g107s43"
+                        },
+                        {
+                            "referenca": "Изреки 4,7",
+                            "meta_link": "Kniga27_Izreki.xhtml#g4s7"
+                        },
+                        {
+                            "referenca": "Проп 8,1",
+                            "meta_link": "Kniga28_Prop.xhtml#g8s1"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "14"
+        }
+    ],
+    "kratko_ime": "Осија",
+    "celo_ime": "Осија",
+    "kratenka": "Ос",
+    "naslov": "ОСИЈА",
+    "meta_fajl": "Kniga39_Os"
+}

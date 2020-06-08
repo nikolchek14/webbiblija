@@ -1,0 +1,1545 @@
+{
+    "voved": [
+        "Во текот на второто мисионерско патување, по заминувањето од Филипи, апостол Павле пристигнува во Солун, главниот град на римската провинција Македонија, на североисток од Грција. Тој таму оснивал заедница, но неговиот престој траел неочекувано кратко поради спротивставувањата на дел од јудејската колонија. Принуден бргу да го напушти Солун, се вратил дури во Верија(Дела 17,1-10). Нешто подоцна кога престојувал во Коринт, неговиот помошник Тимотеј му се придружува и му дава извештај за состојбата во Солун. Така Павле го напишал првото од двете Посланија до Солуњаните, несомнено од Коринт. Експертите главно се согласуваат дека ова послание е најстарото во Новиот завет и го датираат во периодот околу 50-тата година по Хр.",
+        "Новите приврзаници од Солун го радуваат апостолот. Тој Му благодари на Бога за примерот што Солуњаните им го даваат на другите заедници во таа област. Постојано потсетувајќи се на делото што тој самиот го извршил меѓу нив, кажува дека би сакал да ги види (1,1-3,13). Тој уште и ги поттикнува не само да останат, туку и понатаму да напредуваат во христијанскиот живот (4,1-12). Меѓу другото, дава одговор и на прашањата што тие си ги поставуваат во врска со воскреснувањето на мртвите и за славното Христово доаѓање (4,13-5,11). Тој го завршува своето послание со препораки и поздрави(5,12-28).",
+        "Ова писмо е за поука на сите што ги вознемирува можноста за крајот на времињата. Тоа ги потсетува верниците дека најзначајно за нив е да бидат посведочени дека му припаѓаат на светот на светлината. Господ дал ветување дека ќе дојде, без оглед на датумот и тогаш тие ќе бидат „засекогаш со Господ“ (4,17)."
+    ],
+    "glavi": [
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Поздрав",
+                    "r_br": 1,
+                    "tekst": "Од Павле, Силван и Тимотеј – до црквата на Солуњаните во Бог Отецот наш и во Господ Исус Христос, благодат вам и мир од Бог Отецот и Господ Исус Христос!",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 2,14",
+                            "meta_link": "Kniga63_1Sol.xhtml#g2s14"
+                        },
+                        {
+                            "referenca": "Дела 14,23",
+                            "meta_link": "Kniga55_Dela.xhtml#g14s23"
+                        },
+                        {
+                            "referenca": "Дела 15,22",
+                            "meta_link": "Kniga55_Dela.xhtml#g15s22"
+                        },
+                        {
+                            "referenca": "Дела 16,1",
+                            "meta_link": "Kniga55_Dela.xhtml#g16s1"
+                        },
+                        {
+                            "referenca": "Дела 17,1",
+                            "meta_link": "Kniga55_Dela.xhtml#g17s1"
+                        },
+                        {
+                            "referenca": "Рим 1,7",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s7"
+                        },
+                        {
+                            "referenca": "1 Кор 1,2",
+                            "meta_link": "Kniga57_1Kor.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "2 Кор 1,1",
+                            "meta_link": "Kniga58_2Kor.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "2 Сол 1,1",
+                            "meta_link": "Kniga64_2Sol.xhtml#g1s1"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Животот и верата на Солуњаните",
+                    "r_br": "2",
+                    "tekst": "Секогаш Му благодариме на Бога за сите вас, сеќавајќи се на вас во молитвите наши, непрестано,",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 1,9",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s9"
+                        },
+                        {
+                            "referenca": "Кол 1,3",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "го споменуваме делото на вашата вера, трудот на вашата љубов и истрајноста во надежта ваша во нашиот Господ Исус Христос пред Бога и Отецот наш.",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 8,25",
+                            "meta_link": "Kniga56_Rim.xhtml#g8s25"
+                        },
+                        {
+                            "referenca": "1 Кор 13,13",
+                            "meta_link": "Kniga57_1Kor.xhtml#g13s13"
+                        },
+                        {
+                            "referenca": "Откр 2,2",
+                            "meta_link": "Kniga77_Otkr.xhtml#g2s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Знаеме, возљубени браќа од Бога, дека сте избрани,",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 65,9.22",
+                            "meta_link": "Kniga32_Is.xhtml#g65s9"
+                        },
+                        {
+                            "referenca": "Лк 18,7",
+                            "meta_link": "Kniga53_Lk.xhtml#g18s7"
+                        },
+                        {
+                            "referenca": "Рим 1,7",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s7"
+                        },
+                        {
+                            "referenca": "Рим 8,33",
+                            "meta_link": "Kniga56_Rim.xhtml#g8s33"
+                        },
+                        {
+                            "referenca": "2 Сол 2,13",
+                            "meta_link": "Kniga64_2Sol.xhtml#g2s13"
+                        },
+                        {
+                            "referenca": "1 Птр 1,2",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g1s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "зашто нашето Евангелие не дојде кај вас само со слово, туку и во сила и во Светиот Дух, и во полна увереност: сами знаете какви бевме меѓу вас заради вас.",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 1,8",
+                            "meta_link": "Kniga55_Dela.xhtml#g1s8"
+                        },
+                        {
+                            "referenca": "Рим 1,16",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s16"
+                        },
+                        {
+                            "referenca": "Рим 15,19",
+                            "meta_link": "Kniga56_Rim.xhtml#g15s19"
+                        },
+                        {
+                            "referenca": "1 Кор 2,4",
+                            "meta_link": "Kniga57_1Kor.xhtml#g2s4"
+                        },
+                        {
+                            "referenca": "1 Кор 4,20",
+                            "meta_link": "Kniga57_1Kor.xhtml#g4s20"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "И вие се угледавте на нас и на Господ, кога во големи маки го примивте словото со радост на Светиот Дух,",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 10,18",
+                            "meta_link": "Kniga51_Mt.xhtml#g10s18"
+                        },
+                        {
+                            "referenca": "Мк 13,9",
+                            "meta_link": "Kniga52_Mk.xhtml#g13s9"
+                        },
+                        {
+                            "referenca": "Лк 8,13",
+                            "meta_link": "Kniga53_Lk.xhtml#g8s13"
+                        },
+                        {
+                            "referenca": "Лк 21,12-13",
+                            "meta_link": "Kniga53_Lk.xhtml#g21s12"
+                        },
+                        {
+                            "referenca": "Јн 15,20",
+                            "meta_link": "Kniga54_Jn.xhtml#g15s20"
+                        },
+                        {
+                            "referenca": "Дела 6,4",
+                            "meta_link": "Kniga55_Dela.xhtml#g6s4"
+                        },
+                        {
+                            "referenca": "Дела 13,52",
+                            "meta_link": "Kniga55_Dela.xhtml#g13s52"
+                        },
+                        {
+                            "referenca": "Дела 17,5-9",
+                            "meta_link": "Kniga55_Dela.xhtml#g17s5"
+                        },
+                        {
+                            "referenca": "1 Кор 4,16",
+                            "meta_link": "Kniga57_1Kor.xhtml#g4s16"
+                        },
+                        {
+                            "referenca": "1 Кор 11,1",
+                            "meta_link": "Kniga57_1Kor.xhtml#g11s1"
+                        },
+                        {
+                            "referenca": "Фил 1,14",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s14"
+                        },
+                        {
+                            "referenca": "Фил 3,17",
+                            "meta_link": "Kniga61_Fil.xhtml#g3s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "така што станавте образец за сите верници во Македонија и Ахаја.",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 15,26",
+                            "meta_link": "Kniga56_Rim.xhtml#g15s26"
+                        },
+                        {
+                            "referenca": "1 Птр 5,3",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Зашто од вас одекна словото Господово не само во Македонија и Ахаја, туку и во секое место се пронесе славата за верата во Бога, така што нема потреба ние нешто да зборуваме.",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 1,8",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s8"
+                        },
+                        {
+                            "referenca": "2 Сол 3,1",
+                            "meta_link": "Kniga64_2Sol.xhtml#g3s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Впрочем, верниците сами разгласуваат за нас, за нашето доаѓање кај вас, и како од идолите се обративте кон Бога за да Му служите на живиот и вистински Бог,",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 10,10",
+                            "meta_link": "Kniga33_Er.xhtml#g10s10"
+                        },
+                        {
+                            "referenca": "Јн 17,3",
+                            "meta_link": "Kniga54_Jn.xhtml#g17s3"
+                        },
+                        {
+                            "referenca": "Дела 14,15",
+                            "meta_link": "Kniga55_Dela.xhtml#g14s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "и да Го очекувате од небесата Неговиот Син, Кого Тој Го воскресна од мртвите, Исус, Кој нѐ избавува од гневот што доаѓа.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 3,7",
+                            "meta_link": "Kniga51_Mt.xhtml#g3s7"
+                        },
+                        {
+                            "referenca": "Рим 5,9",
+                            "meta_link": "Kniga56_Rim.xhtml#g5s9"
+                        },
+                        {
+                            "referenca": "1 Кор 1,7",
+                            "meta_link": "Kniga57_1Kor.xhtml#g1s7"
+                        },
+                        {
+                            "referenca": "Тит 2,13",
+                            "meta_link": "Kniga67_Tit.xhtml#g2s13"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "1"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Мисионерската дејност на Павле во Солун",
+                    "r_br": 1,
+                    "tekst": "Вие сами знаете, браќа, дека нашето доаѓање кај вас не беше залудо;",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 1,5.9",
+                            "meta_link": "Kniga63_1Sol.xhtml#g1s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "напротив, откако пострадавме и бевме поругани во Филипи, како што знаете, ние се охрабривме во нашиот Бог да ви Го проповедаме Божјото Евангелие со тешка борба.",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 16,19-24",
+                            "meta_link": "Kniga55_Dela.xhtml#g16s19"
+                        },
+                        {
+                            "referenca": "Дела 17,1-5",
+                            "meta_link": "Kniga55_Dela.xhtml#g17s1"
+                        },
+                        {
+                            "referenca": "Рим 1,1",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "Фил 1,30",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s30"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Зашто нашиот поттик не произлегува ни од заблуда, ниту од нечисти побуди, ниту од лукавство,"
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "туку, како што Бог нѐ удостои да ни Го довери Евангелието, така и зборуваме – не за да им угодуваме на луѓето, туку на Бога, Кој ги испитува срцата наши.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 11,20",
+                            "meta_link": "Kniga33_Er.xhtml#g11s20"
+                        },
+                        {
+                            "referenca": "Пс 7,9",
+                            "meta_link": "Kniga25_Ps.xhtml#g7s9"
+                        },
+                        {
+                            "referenca": "2 Кор 5,9",
+                            "meta_link": "Kniga58_2Kor.xhtml#g5s9"
+                        },
+                        {
+                            "referenca": "Гал 1,10",
+                            "meta_link": "Kniga59_Gal.xhtml#g1s10"
+                        },
+                        {
+                            "referenca": "Ефес 3,7",
+                            "meta_link": "Kniga60_Efes.xhtml#g3s7"
+                        },
+                        {
+                            "referenca": "1 Тим 1,11",
+                            "meta_link": "Kniga65_1Tim.xhtml#g1s11"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Зашто никогаш не сме се послужиле со ласкави зборови, како што знаете; ниту со помисли за корист: Бог е сведок!",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 2,10",
+                            "meta_link": "Kniga63_1Sol.xhtml#g2s10"
+                        },
+                        {
+                            "referenca": "Дела 20,33",
+                            "meta_link": "Kniga55_Dela.xhtml#g20s33"
+                        },
+                        {
+                            "referenca": "Рим 1,9",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s9"
+                        },
+                        {
+                            "referenca": "3 Птр 2,3",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g2s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "И не баравме слава од луѓе – ниту од вас, ниту од други,",
+                    "referenci": [
+                        {
+                            "referenca": "Јн 5,41.44",
+                            "meta_link": "Kniga54_Jn.xhtml#g5s41"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "иако можевме и да се наметнеме како Христови апостоли. Но сепак ние бевме меѓу вас така нежни, како што се однесува мајката кога ги дои своите деца.",
+                    "referenci": [
+                        {
+                            "referenca": "Гал 4,19",
+                            "meta_link": "Kniga59_Gal.xhtml#g4s19"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Така полни со љубов кон вас, бевме готови да ви го предадеме не само Евангелието Божјо, туку и душите свои, зашто ни станавте драги.",
+                    "referenci": [
+                        {
+                            "referenca": "Јн 15,13",
+                            "meta_link": "Kniga54_Jn.xhtml#g15s13"
+                        },
+                        {
+                            "referenca": "Рим 9,3",
+                            "meta_link": "Kniga56_Rim.xhtml#g9s3"
+                        },
+                        {
+                            "referenca": "2 Кор 12,15",
+                            "meta_link": "Kniga58_2Kor.xhtml#g12s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Спомнете си браќа за нашиот труд и мака: работејќи дење и ноќе за да не му додеваме никому од вас, ние ви Го проповедавме Евангелието Божјо.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 4,11",
+                            "meta_link": "Kniga63_1Sol.xhtml#g4s11"
+                        },
+                        {
+                            "referenca": "Дела 18,3",
+                            "meta_link": "Kniga55_Dela.xhtml#g18s3"
+                        },
+                        {
+                            "referenca": "Дела 20,33-35",
+                            "meta_link": "Kniga55_Dela.xhtml#g20s33"
+                        },
+                        {
+                            "referenca": "1 Кор 4,12",
+                            "meta_link": "Kniga57_1Kor.xhtml#g4s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Сведоци сте вие, како и Бог, дека свето, праведно и беспрекорно постапувавме пред вас, кои верувате.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 4,11",
+                            "meta_link": "Kniga63_1Sol.xhtml#g4s11"
+                        },
+                        {
+                            "referenca": "2 Сол 3,7-9",
+                            "meta_link": "Kniga64_2Sol.xhtml#g3s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Зашто знаете дека секого од вас, како татко децата свои,",
+                    "referenci": [
+                        {
+                            "referenca": "1 Кор 4,15",
+                            "meta_link": "Kniga57_1Kor.xhtml#g4s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "ние го поттикнувавме и утешувавме и преколнувавме да живее достојно за Бога, Кој ве повикал во Своето царство и слава.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 4,17",
+                            "meta_link": "Kniga51_Mt.xhtml#g4s17"
+                        },
+                        {
+                            "referenca": "Ефес 4,1",
+                            "meta_link": "Kniga60_Efes.xhtml#g4s1"
+                        },
+                        {
+                            "referenca": "Фил 1,27",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s27"
+                        },
+                        {
+                            "referenca": "2 Сол 1,5",
+                            "meta_link": "Kniga64_2Sol.xhtml#g1s5"
+                        },
+                        {
+                            "referenca": "1 Птр 5,10",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s10"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Пофалување на верата на Солуњаните",
+                    "r_br": "13",
+                    "tekst": "Затоа и непрестано Му благодариме на Бога, зашто, откако го примивте словото Божјо од нас, го примивте не како слово човечко, туку – како што е – слово Божјо, кое и дејствува во вас, кои верувате.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 1,2",
+                            "meta_link": "Kniga63_1Sol.xhtml#g1s2"
+                        },
+                        {
+                            "referenca": "Мк 4,16",
+                            "meta_link": "Kniga52_Mk.xhtml#g4s16"
+                        },
+                        {
+                            "referenca": "Дела 11,1",
+                            "meta_link": "Kniga55_Dela.xhtml#g11s1"
+                        },
+                        {
+                            "referenca": "Рим 11,16",
+                            "meta_link": "Kniga56_Rim.xhtml#g11s16"
+                        },
+                        {
+                            "referenca": "Гал 1,11",
+                            "meta_link": "Kniga59_Gal.xhtml#g1s11"
+                        },
+                        {
+                            "referenca": "2 Сол 2,13",
+                            "meta_link": "Kniga64_2Sol.xhtml#g2s13"
+                        },
+                        {
+                            "referenca": "Евр 4,12",
+                            "meta_link": "Kniga69_Evr.xhtml#g4s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Вие, браќа, станавте подржаватели на Божјите цркви во Христос Исус, што се во Јудеја, бидејќи и вие исто така претрпевте од своите сонародници, како и оние од Јудејците",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 1,6",
+                            "meta_link": "Kniga63_1Sol.xhtml#g1s6"
+                        },
+                        {
+                            "referenca": "Дела 17,5.13",
+                            "meta_link": "Kniga55_Dela.xhtml#g17s5"
+                        },
+                        {
+                            "referenca": "Гал 1,22",
+                            "meta_link": "Kniga59_Gal.xhtml#g1s22"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "што ги убија Господ Исус и пророците, и нас нѐ избркаа, и на Бога не Му угодија, и на сите луѓе им се противат;",
+                    "referenci": [
+                        {
+                            "referenca": "Лк 24,20",
+                            "meta_link": "Kniga53_Lk.xhtml#g24s20"
+                        },
+                        {
+                            "referenca": "Мк 10,34",
+                            "meta_link": "Kniga52_Mk.xhtml#g10s34"
+                        },
+                        {
+                            "referenca": "Дела 2,23",
+                            "meta_link": "Kniga55_Dela.xhtml#g2s23"
+                        },
+                        {
+                            "referenca": "Дела 7,52",
+                            "meta_link": "Kniga55_Dela.xhtml#g7s52"
+                        },
+                        {
+                            "referenca": "Дела 13,45.50",
+                            "meta_link": "Kniga55_Dela.xhtml#g13s45"
+                        },
+                        {
+                            "referenca": "Дела 14,2.5.19",
+                            "meta_link": "Kniga55_Dela.xhtml#g14s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "тие што ни пречат да им зборуваме на незнабошците, за да се спасат и со тоа секогаш ги дополнуваат гревовите свои; но гневот ги достигна на крај.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 1,10",
+                            "meta_link": "Kniga63_1Sol.xhtml#g1s10"
+                        },
+                        {
+                            "referenca": "1 Мојс 15,16",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g15s16"
+                        },
+                        {
+                            "referenca": "Мт 23,32-33",
+                            "meta_link": "Kniga51_Mt.xhtml#g23s32"
+                        },
+                        {
+                            "referenca": "Рим 1,18",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s18"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Павле посакува повторно да ги види Солуњаните. Испраќањето на Тимотеј",
+                    "r_br": "17",
+                    "tekst": "А ние, браќа, откако бевме одвоени од вас за кратко време, далеку од очи, но не и од срце, со уште поголема желба се грижевме да ве видиме.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 3,10",
+                            "meta_link": "Kniga63_1Sol.xhtml#g3s10"
+                        },
+                        {
+                            "referenca": "Рим 1,10-11",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s10"
+                        },
+                        {
+                            "referenca": "1 Кор 5,3",
+                            "meta_link": "Kniga57_1Kor.xhtml#g5s3"
+                        },
+                        {
+                            "referenca": "Кол 2,1.5",
+                            "meta_link": "Kniga62_Kol.xhtml#g2s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "18",
+                    "tekst": "Поради тоа, ние, а најмногу јас, Павле, неколкупати посакавме да дојдеме кај вас; но нѐ попречи сатаната.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Сол 2,7.9",
+                            "meta_link": "Kniga64_2Sol.xhtml#g2s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "19",
+                    "tekst": "Зашто, кој е нашата надеж или радост, или венец за пофалба? Та не сте ли вие пред нашиот Господ Исус Христос при Неговото доаѓање?",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 3,13",
+                            "meta_link": "Kniga63_1Sol.xhtml#g3s13"
+                        },
+                        {
+                            "referenca": "1 Сол 5,23",
+                            "meta_link": "Kniga63_1Sol.xhtml#g5s23"
+                        },
+                        {
+                            "referenca": "Ез 16,12",
+                            "meta_link": "Kniga37_Ez.xhtml#g16s12"
+                        },
+                        {
+                            "referenca": "Мт 16,27",
+                            "meta_link": "Kniga51_Mt.xhtml#g16s27"
+                        },
+                        {
+                            "referenca": "1 Кор 9,25",
+                            "meta_link": "Kniga57_1Kor.xhtml#g9s25"
+                        },
+                        {
+                            "referenca": "1 Кор 15,23",
+                            "meta_link": "Kniga57_1Kor.xhtml#g15s23"
+                        },
+                        {
+                            "referenca": "Фил 2,16",
+                            "meta_link": "Kniga61_Fil.xhtml#g2s16"
+                        },
+                        {
+                            "referenca": "Фил 4,1",
+                            "meta_link": "Kniga61_Fil.xhtml#g4s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "20",
+                    "tekst": "Да, вие сте нашата слава и радост!",
+                    "referenci": [
+                        {
+                            "referenca": "2 Кор 1,14",
+                            "meta_link": "Kniga58_2Kor.xhtml#g1s14"
+                        },
+                        {
+                            "referenca": "Фил 4,1",
+                            "meta_link": "Kniga61_Fil.xhtml#g4s1"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "2"
+        },
+        {
+            "stihovi": [
+                {
+                    "r_br": 1,
+                    "tekst": "Поради тоа, не можејќи веќе да трпиме, сметавме дека ќе биде добро во Атина да останеме сами,",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 17,15",
+                            "meta_link": "Kniga55_Dela.xhtml#g17s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "и го испративме Тимотеј, нашиот брат и слугата Божји, и нашиот сотрудник во Евангелието Христово, за да ве укрепи и утеши во вашата вера,",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 16,1-3",
+                            "meta_link": "Kniga55_Dela.xhtml#g16s1"
+                        },
+                        {
+                            "referenca": "Дела 17,14-16",
+                            "meta_link": "Kniga55_Dela.xhtml#g17s14"
+                        },
+                        {
+                            "referenca": "1 Кор 3,9",
+                            "meta_link": "Kniga57_1Kor.xhtml#g3s9"
+                        },
+                        {
+                            "referenca": "Кол 1,1",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "та никој да не се поколеба во тие маки; зашто сами знаете дека затоа сме определени.",
+                    "referenci": [
+                        {
+                            "referenca": "Мк 13,3-17",
+                            "meta_link": "Kniga52_Mk.xhtml#g13s3"
+                        },
+                        {
+                            "referenca": "Дела 14,22",
+                            "meta_link": "Kniga55_Dela.xhtml#g14s22"
+                        },
+                        {
+                            "referenca": "Ефес 3,13",
+                            "meta_link": "Kniga60_Efes.xhtml#g3s13"
+                        },
+                        {
+                            "referenca": "2 Тим 3,12",
+                            "meta_link": "Kniga66_2Tim.xhtml#g3s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Бидејќи ние, и кога бевме кај вас, ви претскажувавме дека ќе страдаме, како што и стана, и вие знаете.",
+                    "referenci": [
+                        {
+                            "referenca": "Гал 4,11",
+                            "meta_link": "Kniga59_Gal.xhtml#g4s11"
+                        },
+                        {
+                            "referenca": "Фил 2,16",
+                            "meta_link": "Kniga61_Fil.xhtml#g2s16"
+                        },
+                        {
+                            "referenca": "Мт 16,24",
+                            "meta_link": "Kniga51_Mt.xhtml#g16s24"
+                        },
+                        {
+                            "referenca": "Дела 14,22",
+                            "meta_link": "Kniga55_Dela.xhtml#g14s22"
+                        },
+                        {
+                            "referenca": "Евр 10,32.36",
+                            "meta_link": "Kniga69_Evr.xhtml#g10s32"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Поради тоа и јас, не можејќи веќе да трпам, пратив да дознаам за верата ваша да не би ве искушал некако Искушувачот, та да отиде залудо нашиот труд.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 4,3",
+                            "meta_link": "Kniga51_Mt.xhtml#g4s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Сега, откако се врати Тимотеј кај нас од кај вас и ни донесе добра вест за вашата вера и љубов, и дека секогаш имате добар спомен за нас и копнеете да нѐ видите, како и ние вас,",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 18,5",
+                            "meta_link": "Kniga55_Dela.xhtml#g18s5"
+                        },
+                        {
+                            "referenca": "2 Сол 1,3",
+                            "meta_link": "Kniga64_2Sol.xhtml#g1s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "ние, и покрај сета мака и неволја, се утешивме за вас, браќа, со вашата вера;",
+                    "referenci": [
+                        {
+                            "referenca": "2 Сол 1,3-4",
+                            "meta_link": "Kniga64_2Sol.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "Откр 2,9-10",
+                            "meta_link": "Kniga77_Otkr.xhtml#g2s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "зашто ние сега живееме, кога вие стоите во Господ.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Сол 2,15",
+                            "meta_link": "Kniga64_2Sol.xhtml#g2s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Каква благодарност, навистина, можеме да Му воздадеме на Бога за вас за сета радост со која се радуваме поради вас пред нашиот Бог,"
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "кога дење и ноќе многу усрдно се молиме, за да го видиме вашето лице и да го дополниме она што ѝ недостига на вашата вера?",
+                    "referenci": [
+                        {
+                            "referenca": "Фил 1,25",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s25"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "А сам Бог и Отецот наш и Исус Христос, нашиот Господ, нека го насочи патот наш право кон вас!"
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Вам, пак, Господ да ви даде да растете и да изобилувате во љубов еден кон друг и кон сите, каква што и ние имаме кон вас,",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 5,15",
+                            "meta_link": "Kniga63_1Sol.xhtml#g5s15"
+                        },
+                        {
+                            "referenca": "Фил 1,9",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s9"
+                        },
+                        {
+                            "referenca": "2 Сол 1,3",
+                            "meta_link": "Kniga64_2Sol.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "Тит 3,2",
+                            "meta_link": "Kniga67_Tit.xhtml#g3s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "и да ги утврди вашите срца, та да бидат непорочни во светоста пред Бога и Отецот наш при доаѓањето на нашиот Господ Исус Христос со сите Негови светии! (Амин!)",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 5,23",
+                            "meta_link": "Kniga63_1Sol.xhtml#g5s23"
+                        },
+                        {
+                            "referenca": "5 Мојс 33,3",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g33s3"
+                        },
+                        {
+                            "referenca": "Зах 14,5",
+                            "meta_link": "Kniga49_Zah.xhtml#g14s5"
+                        },
+                        {
+                            "referenca": "Дан 7,25.27",
+                            "meta_link": "Kniga38_Dan.xhtml#g7s25"
+                        },
+                        {
+                            "referenca": "Мт 25,31",
+                            "meta_link": "Kniga51_Mt.xhtml#g25s31"
+                        },
+                        {
+                            "referenca": "1 Кор 1,8",
+                            "meta_link": "Kniga57_1Kor.xhtml#g1s8"
+                        },
+                        {
+                            "referenca": "Фил 1,10",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s10"
+                        },
+                        {
+                            "referenca": "Откр 14,10",
+                            "meta_link": "Kniga77_Otkr.xhtml#g14s10"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "3"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Животот кој му е угоден на Бога: чистота, братска љубов",
+                    "r_br": 1,
+                    "tekst": "И така, браќа, ве молиме и ве заколнуваме во Христос Исус, онака, како што научивте од нас како треба да живеете и да Му угодите на Бога, како што и постапувате, сѐ повеќе во тоа да напредувате;",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 2,13",
+                            "meta_link": "Kniga63_1Sol.xhtml#g2s13"
+                        },
+                        {
+                            "referenca": "Рим 12,1-2",
+                            "meta_link": "Kniga56_Rim.xhtml#g12s1"
+                        },
+                        {
+                            "referenca": "2 Сол 3,6",
+                            "meta_link": "Kniga64_2Sol.xhtml#g3s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Вие знаете какви пораки ви дадовме од името на Господ Исус.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 4,15",
+                            "meta_link": "Kniga63_1Sol.xhtml#g4s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Ова е волјата Божја, вашата светост: да се воздржувате од блудство,",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 5,23",
+                            "meta_link": "Kniga63_1Sol.xhtml#g5s23"
+                        },
+                        {
+                            "referenca": "3 Мојс 19,2",
+                            "meta_link": "Kniga3_3Mojs.xhtml#g19s2"
+                        },
+                        {
+                            "referenca": "Мт 6,10",
+                            "meta_link": "Kniga51_Mt.xhtml#g6s10"
+                        },
+                        {
+                            "referenca": "Рим 6,19",
+                            "meta_link": "Kniga56_Rim.xhtml#g6s19"
+                        },
+                        {
+                            "referenca": "Ефес 1,4",
+                            "meta_link": "Kniga60_Efes.xhtml#g1s4"
+                        },
+                        {
+                            "referenca": "Евр 10,10",
+                            "meta_link": "Kniga69_Evr.xhtml#g10s10"
+                        },
+                        {
+                            "referenca": "1 Птр 1,16",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g1s16"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "и секој од вас да знае да го пази својот сад во светост и честитост,",
+                    "referenci": [
+                        {
+                            "referenca": "1 Кор 6,13.15",
+                            "meta_link": "Kniga57_1Kor.xhtml#g6s13"
+                        },
+                        {
+                            "referenca": "1 Кор 7,2",
+                            "meta_link": "Kniga57_1Kor.xhtml#g7s2"
+                        },
+                        {
+                            "referenca": "1 Птр 3,7",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g3s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "а не во похотна страст, како незнабошците, кои не Го познаваат Бога,",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 10,25",
+                            "meta_link": "Kniga33_Er.xhtml#g10s25"
+                        },
+                        {
+                            "referenca": "Пс 79,6",
+                            "meta_link": "Kniga25_Ps.xhtml#g79s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "и да не престапува и го измамува во тоа братот свој; бидејќи Господ за сето тоа се одмаздува, како што ви зборувавме и сведочевме порано.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 32,35",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g32s35"
+                        },
+                        {
+                            "referenca": "Пс 94,1",
+                            "meta_link": "Kniga25_Ps.xhtml#g94s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Зашто Бог не нѐ повика кон нечистота, туку во светост.",
+                    "referenci": [
+                        {
+                            "referenca": "Јн 17,19",
+                            "meta_link": "Kniga54_Jn.xhtml#g17s19"
+                        },
+                        {
+                            "referenca": "2 Сол 2,13-14",
+                            "meta_link": "Kniga64_2Sol.xhtml#g2s13"
+                        },
+                        {
+                            "referenca": "1 Птр 1,15-16",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g1s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "А кој го отфрла тоа, тој отфрла не човек, туку Бога, Кој Го даде Својот Дух Свети во нас.",
+                    "referenci": [
+                        {
+                            "referenca": "Ез 36,27",
+                            "meta_link": "Kniga37_Ez.xhtml#g36s27"
+                        },
+                        {
+                            "referenca": "Ез 37,14",
+                            "meta_link": "Kniga37_Ez.xhtml#g37s14"
+                        },
+                        {
+                            "referenca": "Лк 10,16",
+                            "meta_link": "Kniga53_Lk.xhtml#g10s16"
+                        },
+                        {
+                            "referenca": "Рим 5,5",
+                            "meta_link": "Kniga56_Rim.xhtml#g5s5"
+                        },
+                        {
+                            "referenca": "2 Кор 1,22",
+                            "meta_link": "Kniga58_2Kor.xhtml#g1s22"
+                        },
+                        {
+                            "referenca": "Гал 4,6",
+                            "meta_link": "Kniga59_Gal.xhtml#g4s6"
+                        },
+                        {
+                            "referenca": "1 Јн 3,24",
+                            "meta_link": "Kniga73_1Jn.xhtml#g3s24"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "За братољубието, пак, нема потреба да ви пишувам, зашто вие сами сте научени од Бога да се сакате еден со друг,",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 54,13",
+                            "meta_link": "Kniga32_Is.xhtml#g54s13"
+                        },
+                        {
+                            "referenca": "Ер 31,33-34",
+                            "meta_link": "Kniga33_Er.xhtml#g31s33"
+                        },
+                        {
+                            "referenca": "Јн 6,45",
+                            "meta_link": "Kniga54_Jn.xhtml#g6s45"
+                        },
+                        {
+                            "referenca": "Јн 13,34",
+                            "meta_link": "Kniga54_Jn.xhtml#g13s34"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "бидејќи така и постапувате со сите браќа по цела Македонија. И ве поттикнуваме, браќа, уште повеќе да напредувате,",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 3,12",
+                            "meta_link": "Kniga63_1Sol.xhtml#g3s12"
+                        },
+                        {
+                            "referenca": "2 Сол 3,4",
+                            "meta_link": "Kniga64_2Sol.xhtml#g3s4"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "и усрдно да се грижите да живеете мирно, да си ја извршувате сопствената работа и да работите со свои раце како што ви заповедавме;",
+                    "referenci": [
+                        {
+                            "referenca": "Ефес 4,28",
+                            "meta_link": "Kniga60_Efes.xhtml#g4s28"
+                        },
+                        {
+                            "referenca": "2 Сол 3,6-12",
+                            "meta_link": "Kniga64_2Sol.xhtml#g3s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "да постапувате чесно спрема надворешните и да не зависите од никого.",
+                    "referenci": [
+                        {
+                            "referenca": "Мк 4,11",
+                            "meta_link": "Kniga52_Mk.xhtml#g4s11"
+                        },
+                        {
+                            "referenca": "1 Кор 5,12",
+                            "meta_link": "Kniga57_1Kor.xhtml#g5s12"
+                        },
+                        {
+                            "referenca": "Кол 4,5",
+                            "meta_link": "Kniga62_Kol.xhtml#g4s5"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Воскресението на мртвите и очекување на денот на Господовото доаѓање",
+                    "r_br": "13",
+                    "tekst": "Браќа, не сакаме да бидете во незнаење за оние кои се упокоени, за да не тажите како и другите, што немаат надеж.",
+                    "referenci": [
+                        {
+                            "referenca": "Ефес 2,12",
+                            "meta_link": "Kniga60_Efes.xhtml#g2s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Зашто, ако веруваме дека Исус умре и воскресна, така Бог и упокоените преку Исус, ќе ги доведе со Него.",
+                    "referenci": [
+                        {
+                            "referenca": "Мк 9,31",
+                            "meta_link": "Kniga52_Mk.xhtml#g9s31"
+                        },
+                        {
+                            "referenca": "Рим 14,9",
+                            "meta_link": "Kniga56_Rim.xhtml#g14s9"
+                        },
+                        {
+                            "referenca": "1 Кор 15,3-4",
+                            "meta_link": "Kniga57_1Kor.xhtml#g15s3"
+                        },
+                        {
+                            "referenca": "2 Кор 4,14",
+                            "meta_link": "Kniga58_2Kor.xhtml#g4s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Ова, пак, ви го велиме преку словото Господово, дека ние, живите, што ќе останеме до доаѓањето на Господ, нема да стигнеме пред упокоените.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 16,27",
+                            "meta_link": "Kniga51_Mt.xhtml#g16s27"
+                        },
+                        {
+                            "referenca": "1 Кор 7,10.25",
+                            "meta_link": "Kniga57_1Kor.xhtml#g7s10"
+                        },
+                        {
+                            "referenca": "1 Кор 15,51",
+                            "meta_link": "Kniga57_1Kor.xhtml#g15s51"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "бидејќи Сам Господ по заповед, на гласот на архангел и при труба Божја, ќе слезе од небото, и најнапред ќе воскреснат мртвите;"
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "а потоа, ние, што сме останале живи, заедно со нив ќе бидеме грабнати на облаците, за да се сретнеме со Господ во воздухот, и така секогаш ќе бидеме со Господ."
+                },
+                {
+                    "r_br": "18",
+                    "tekst": "Па затоа, утешувајте се еден со друг со тие зборови."
+                }
+            ],
+            "r_br": "4"
+        },
+        {
+            "stihovi": [
+                {
+                    "r_br": 1,
+                    "tekst": "А за времињата и часовите, браќа, нема потреба да ви се пишува,",
+                    "referenci": [
+                        {
+                            "referenca": "Дан 2,21",
+                            "meta_link": "Kniga38_Dan.xhtml#g2s21"
+                        },
+                        {
+                            "referenca": "Мт 24,36",
+                            "meta_link": "Kniga51_Mt.xhtml#g24s36"
+                        },
+                        {
+                            "referenca": "Дела 1,7",
+                            "meta_link": "Kniga55_Dela.xhtml#g1s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "бидејќи вие самите многу добро знаете: денот Господов ќе дојде како крадец во ноќно време.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 24,36.43",
+                            "meta_link": "Kniga51_Mt.xhtml#g24s36"
+                        },
+                        {
+                            "referenca": "Лк 12,39-40",
+                            "meta_link": "Kniga53_Lk.xhtml#g12s39"
+                        },
+                        {
+                            "referenca": "1 Кор 1,8",
+                            "meta_link": "Kniga57_1Kor.xhtml#g1s8"
+                        },
+                        {
+                            "referenca": "2 Кор 1,14",
+                            "meta_link": "Kniga58_2Kor.xhtml#g1s14"
+                        },
+                        {
+                            "referenca": "Фил 1,6.10",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s6"
+                        },
+                        {
+                            "referenca": "3 Птр 3,10",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g3s10"
+                        },
+                        {
+                            "referenca": "Откр 3,3",
+                            "meta_link": "Kniga77_Otkr.xhtml#g3s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "И додека уште велат: „Мир и безбедност!“, Тогаш ненадејно ќе ги снајде пропаст и не ќе можат да избегнат.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 4,31",
+                            "meta_link": "Kniga33_Er.xhtml#g4s31"
+                        },
+                        {
+                            "referenca": "Ер 6,14",
+                            "meta_link": "Kniga33_Er.xhtml#g6s14"
+                        },
+                        {
+                            "referenca": "Ер 8,11",
+                            "meta_link": "Kniga33_Er.xhtml#g8s11"
+                        },
+                        {
+                            "referenca": "Ез 13,10",
+                            "meta_link": "Kniga37_Ez.xhtml#g13s10"
+                        },
+                        {
+                            "referenca": "Мт 24,8",
+                            "meta_link": "Kniga51_Mt.xhtml#g24s8"
+                        },
+                        {
+                            "referenca": "Лк 21,34-35",
+                            "meta_link": "Kniga53_Lk.xhtml#g21s34"
+                        },
+                        {
+                            "referenca": "Јн 16,21-22",
+                            "meta_link": "Kniga54_Jn.xhtml#g16s21"
+                        },
+                        {
+                            "referenca": "2 Сол 1,9",
+                            "meta_link": "Kniga64_2Sol.xhtml#g1s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Но вие, браќа, не сте во темнина, та денот да може да ве затече како крадец.",
+                    "referenci": [
+                        {
+                            "referenca": "Јн 12,46",
+                            "meta_link": "Kniga54_Jn.xhtml#g12s46"
+                        },
+                        {
+                            "referenca": "Дела 26,18",
+                            "meta_link": "Kniga55_Dela.xhtml#g26s18"
+                        },
+                        {
+                            "referenca": "1 Јн 2,8",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Бидејќи сите вие сте синови на светлината и синови на денот; ние не сме синови на ноќта, ниту на темнината.",
+                    "referenci": [
+                        {
+                            "referenca": "Лк 16,8",
+                            "meta_link": "Kniga53_Lk.xhtml#g16s8"
+                        },
+                        {
+                            "referenca": "Јн 8,12",
+                            "meta_link": "Kniga54_Jn.xhtml#g8s12"
+                        },
+                        {
+                            "referenca": "Рим 13,12",
+                            "meta_link": "Kniga56_Rim.xhtml#g13s12"
+                        },
+                        {
+                            "referenca": "Ефес 5,8-9",
+                            "meta_link": "Kniga60_Efes.xhtml#g5s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "И така, да не спиеме како и другите, туку да бидеме будни и трезни.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 24,42-44",
+                            "meta_link": "Kniga51_Mt.xhtml#g24s42"
+                        },
+                        {
+                            "referenca": "Рим 13,11",
+                            "meta_link": "Kniga56_Rim.xhtml#g13s11"
+                        },
+                        {
+                            "referenca": "1 Птр 1,13",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g1s13"
+                        },
+                        {
+                            "referenca": "1 Птр 5,8",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Зашто оние што спијат, ноќе спијат, и оние што се опиваат, ноќе се опиваат.",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 2,15",
+                            "meta_link": "Kniga55_Dela.xhtml#g2s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Ние, пак, како синови на денот, да бидеме трезни и облечени во оклопот на верата и љубовта и шлемот на надежта за спасение,"
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "зашто Бог нѐ определи не за гнев, туку да добиеме спасение преку нашиот Господ Исус Христос,"
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Кој умре за нас, та ние да живееме заедно со Него, било кога сме будни, или кога спиеме.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 4,14",
+                            "meta_link": "Kniga63_1Sol.xhtml#g4s14"
+                        },
+                        {
+                            "referenca": "Рим 14,8-9",
+                            "meta_link": "Kniga56_Rim.xhtml#g14s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Поради тоа утешувајте се меѓу себе и надградувајте се еден со друг онака како што и правите!",
+                    "referenci": [
+                        {
+                            "referenca": "Ефес 2,20-22",
+                            "meta_link": "Kniga60_Efes.xhtml#g2s20"
+                        },
+                        {
+                            "referenca": "Ефес 5,19",
+                            "meta_link": "Kniga60_Efes.xhtml#g5s19"
+                        },
+                        {
+                            "referenca": "Кол 3,16",
+                            "meta_link": "Kniga62_Kol.xhtml#g3s16"
+                        },
+                        {
+                            "referenca": "Јуда 1,20",
+                            "meta_link": "Kniga76_Juda.xhtml#g1s20"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Последни препораки и поздрави",
+                    "r_br": "12",
+                    "tekst": "И ве молам, браќа, да ги уважувате оние што се трудеа меѓу вас, и ве водат во Господ, и оние кои ве утешуваат.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Кор 16,16-18",
+                            "meta_link": "Kniga57_1Kor.xhtml#g16s16"
+                        },
+                        {
+                            "referenca": "Гал 6,6",
+                            "meta_link": "Kniga59_Gal.xhtml#g6s6"
+                        },
+                        {
+                            "referenca": "1 Тим 5,17",
+                            "meta_link": "Kniga65_1Tim.xhtml#g5s17"
+                        },
+                        {
+                            "referenca": "Евр 13,17",
+                            "meta_link": "Kniga69_Evr.xhtml#g13s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "И кон нив да имате преголема љубов заради нивното дело. Живејте во мир меѓу себе!",
+                    "referenci": [
+                        {
+                            "referenca": "Мк 9,50",
+                            "meta_link": "Kniga52_Mk.xhtml#g9s50"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Браќа, ве молам, поучувајте ги неуредните, утешувајте ги малодушните, поткрепувајте ги слабите и бидете долготрпеливи кон сите.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сол 2,12",
+                            "meta_link": "Kniga63_1Sol.xhtml#g2s12"
+                        },
+                        {
+                            "referenca": "Ис 35,4",
+                            "meta_link": "Kniga32_Is.xhtml#g35s4"
+                        },
+                        {
+                            "referenca": "Мт 18,15",
+                            "meta_link": "Kniga51_Mt.xhtml#g18s15"
+                        },
+                        {
+                            "referenca": "Рим 14,1",
+                            "meta_link": "Kniga56_Rim.xhtml#g14s1"
+                        },
+                        {
+                            "referenca": "1 Кор 8,7",
+                            "meta_link": "Kniga57_1Kor.xhtml#g8s7"
+                        },
+                        {
+                            "referenca": "1 Кор 13,4",
+                            "meta_link": "Kniga57_1Kor.xhtml#g13s4"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Гледајте никој никому да не враќа зло за зло; туку секогаш барајте добро еден на друг, и на сите!"
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "Радувајте се секогаш!"
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "Молете се постојано!",
+                    "referenci": [
+                        {
+                            "referenca": "Лк 18,1",
+                            "meta_link": "Kniga53_Lk.xhtml#g18s1"
+                        },
+                        {
+                            "referenca": "Рим 12,12",
+                            "meta_link": "Kniga56_Rim.xhtml#g12s12"
+                        },
+                        {
+                            "referenca": "Кол 4,2",
+                            "meta_link": "Kniga62_Kol.xhtml#g4s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "18",
+                    "tekst": "Благодарете за сѐ, зашто таква е волјата Божја во Христос Исус спрема вас!",
+                    "referenci": [
+                        {
+                            "referenca": "Ефес 5,20",
+                            "meta_link": "Kniga60_Efes.xhtml#g5s20"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "19",
+                    "tekst": "Не гаснете Го Духот!",
+                    "referenci": [
+                        {
+                            "referenca": "Ефес 4,30",
+                            "meta_link": "Kniga60_Efes.xhtml#g4s30"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "20",
+                    "tekst": "Пророштвата не ги омаловажувајте!",
+                    "referenci": [
+                        {
+                            "referenca": "1 Кор 12,10.29",
+                            "meta_link": "Kniga57_1Kor.xhtml#g12s10"
+                        },
+                        {
+                            "referenca": "1 Кор 13,2",
+                            "meta_link": "Kniga57_1Kor.xhtml#g13s2"
+                        },
+                        {
+                            "referenca": "1 Кор 14,1.3.39",
+                            "meta_link": "Kniga57_1Kor.xhtml#g14s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "21",
+                    "tekst": "Сѐ испитувајте, за доброто држете се!"
+                },
+                {
+                    "r_br": "22",
+                    "tekst": "Клонете се од секакво зло!"
+                },
+                {
+                    "r_br": "23",
+                    "tekst": "А Сам Бог на мирот да ве освети наполно во сѐ, и целиот ваш дух и душата и телото да се запазат без порок за доаѓањето на нашиот Господ Исус Христос!"
+                },
+                {
+                    "r_br": "24",
+                    "tekst": "Верен е Оној, Кој ве повикува. Тој и ќе го направи тоа."
+                },
+                {
+                    "r_br": "25",
+                    "tekst": "Браќа, молете се за нас!"
+                },
+                {
+                    "r_br": "26",
+                    "tekst": "Поздравете ги сите браќа со свет целив!"
+                },
+                {
+                    "r_br": "27",
+                    "tekst": "Ве заколнувам во Господ ова послание да им го прочитате на сите свети браќа."
+                },
+                {
+                    "r_br": "28",
+                    "tekst": "Благодатта на нашиот Господ Исус Христос нека биде со вас. Амин!"
+                }
+            ],
+            "r_br": "5"
+        }
+    ],
+    "kratko_ime": "1 Солуњаните",
+    "celo_ime": "Прво послание до Солуњаните",
+    "kratenka": "1 Сол",
+    "naslov": "ПРВО ПОСЛАНИЕ ДОСОЛУЊАНИТЕ",
+    "meta_fajl": "Kniga63_1Sol"
+}

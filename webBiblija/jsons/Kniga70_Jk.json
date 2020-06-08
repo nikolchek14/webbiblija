@@ -1,0 +1,1663 @@
+{
+    "voved": [
+        "Посланието на апостол Јаков е општо писмо упатено до христијаните од целиот свет. Иако напишано како послание, тоа повеќе наликува на кратка книга со упатства за секојдневно живеење.",
+        "За апостол Јаков верата значи делување! Всушност, целата книга е серија на примери кои ја претставуваат верата покажана на дело, на мудар и практичен начин.",
+        "Советите се јасни. Ако си сиромав, не очајувај! Кога твојата вера е испитувана, не предавај се! Не лути се лесно! Не давај му предимство на богатиот пред сиромавиот! Контролирај го својот јазик и своите желби! Предај се на Бога и управувај се според Неговата мудрост! Биди трпелив и љубезен, и моли се за оние кои имаат потреба од Божјата помош!",
+        "Содржина на посланието: поздрави (1,1); живот во верата и мудроста (1,2-18); прифаќањето на Божјата порака (1,19-27); за богатиот и сиромавиот (2,1-13); мудрост и зборови (3,1-18); предупредување против пријателството со светот(4,1-5,6); трпение, љубезност и молитва (5,7-20)."
+    ],
+    "glavi": [
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Поздрав",
+                    "r_br": 1,
+                    "tekst": "Јаков, слуга на Бога и на Господ Исус Христос, испраќа поздрав до дванаесетте племиња, кои живеат раселени.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 5,14-15",
+                            "meta_link": "Kniga70_Jk.xhtml#g5s14"
+                        },
+                        {
+                            "referenca": "Рим 1,1",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "Фил 1,1",
+                            "meta_link": "Kniga61_Fil.xhtml#g1s1"
+                        },
+                        {
+                            "referenca": "1 Птр 1,1",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g1s1"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Вера и мудрост",
+                    "r_br": "2",
+                    "tekst": "Радувајте се, браќа мои, кога ќе паднете во разни искушенија,",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 1,12",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s12"
+                        },
+                        {
+                            "referenca": "1 Птр 1,6",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g1s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "знаејќи дека проверката на вашата вера создава трпеливост:",
+                    "referenci": [
+                        {
+                            "referenca": "Лк 8,15",
+                            "meta_link": "Kniga53_Lk.xhtml#g8s15"
+                        },
+                        {
+                            "referenca": "Рим 5,3-4",
+                            "meta_link": "Kniga56_Rim.xhtml#g5s3"
+                        },
+                        {
+                            "referenca": "1 Птр 1,7",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g1s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "трпеливоста, пак, нека биде совршено дело за да бидете совршени и целосни, без никаков недостаток.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 1,17",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s17"
+                        },
+                        {
+                            "referenca": "Јк 3,2",
+                            "meta_link": "Kniga70_Jk.xhtml#g3s2"
+                        },
+                        {
+                            "referenca": "Мт 5,48",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s48"
+                        },
+                        {
+                            "referenca": "Мт 19,21",
+                            "meta_link": "Kniga51_Mt.xhtml#g19s21"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Ако некому од вас му недостига мудрост, нека ја побара од Бога, Кој на сите им дава изобилно и без приговарање – и ќе му се даде.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 3,13",
+                            "meta_link": "Kniga70_Jk.xhtml#g3s13"
+                        },
+                        {
+                            "referenca": "Изреки 2,3-6",
+                            "meta_link": "Kniga27_Izreki.xhtml#g2s3"
+                        },
+                        {
+                            "referenca": "Јн 11,22",
+                            "meta_link": "Kniga54_Jn.xhtml#g11s22"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Но да моли со вера и никако да не се сомнева; зашто оној кој се сомнева, прилега на морски бран, кого ветрот го издига и растура;",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 7,7",
+                            "meta_link": "Kniga51_Mt.xhtml#g7s7"
+                        },
+                        {
+                            "referenca": "Мк 11,24",
+                            "meta_link": "Kniga52_Mk.xhtml#g11s24"
+                        },
+                        {
+                            "referenca": "Ефес 4,14",
+                            "meta_link": "Kniga60_Efes.xhtml#g4s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "таков човек нека не мисли дека ќе добие нешто од Господ."
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Човек што се двоуми во сите свои патишта е непостојан.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 4,8",
+                            "meta_link": "Kniga70_Jk.xhtml#g4s8"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Сиромаштија и богатство",
+                    "r_br": "9",
+                    "tekst": "Братот, кој е на пониска положба, нека се фали со возвишеноста своја,",
+                    "referenci": [
+                        {
+                            "referenca": "1 Кор 1,26-29",
+                            "meta_link": "Kniga57_1Kor.xhtml#g1s26"
+                        },
+                        {
+                            "referenca": "1 Кор 11,21-22",
+                            "meta_link": "Kniga57_1Kor.xhtml#g11s21"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "а богатиот – со својата понизност, бидејќи тоа е минливо како цвет од трева;",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 40,6-8",
+                            "meta_link": "Kniga32_Is.xhtml#g40s6"
+                        },
+                        {
+                            "referenca": "Пс 102,4.11",
+                            "meta_link": "Kniga25_Ps.xhtml#g102s4"
+                        },
+                        {
+                            "referenca": "1 Птр 1,24",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g1s24"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "зашто како што сонцето огрева и со својата жега ја исушува тревата, и цветот нејзин отпаѓа, и убавината на нејзиниот изглед исчезнува, така ќе овене и богатиот во својот пат."
+                },
+                {
+                    "podnaslov": "Човечкото искушение и Божјиот дар",
+                    "r_br": "12",
+                    "tekst": "Блажен е оној човек кој издржува искушение, бидејќи откако ќе биде проверен, ќе добие венец на животот, што Господ им го ветил на оние кои Го сакаат.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 5,3",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s3"
+                        },
+                        {
+                            "referenca": "Лк 6,20",
+                            "meta_link": "Kniga53_Lk.xhtml#g6s20"
+                        },
+                        {
+                            "referenca": "1 Кор 9,25",
+                            "meta_link": "Kniga57_1Kor.xhtml#g9s25"
+                        },
+                        {
+                            "referenca": "2 Тим 4,8",
+                            "meta_link": "Kniga66_2Tim.xhtml#g4s8"
+                        },
+                        {
+                            "referenca": "Откр 2,10",
+                            "meta_link": "Kniga77_Otkr.xhtml#g2s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Ниеден, кога е во искушение да не вели: „Бог ме искушува“, бидејќи Бог со зло не се искушува, и Тој никого не искушува,"
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "но секого го искушува неговата похота која го влече и мами.",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 7,7-8",
+                            "meta_link": "Kniga56_Rim.xhtml#g7s7"
+                        },
+                        {
+                            "referenca": "1 Јн 2,16-17",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s16"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Потоа похотта, откако ќе се зачне, раѓа грев, а гревот, извршен, раѓа смрт.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 4,17",
+                            "meta_link": "Kniga70_Jk.xhtml#g4s17"
+                        },
+                        {
+                            "referenca": "Рим 5,12",
+                            "meta_link": "Kniga56_Rim.xhtml#g5s12"
+                        },
+                        {
+                            "referenca": "Рим 6,23",
+                            "meta_link": "Kniga56_Rim.xhtml#g6s23"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "Не мамете се, браќа мои возљубени."
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "Секој добар дар и секој совршен подарок иде озгора, симнувајќи се од Отецот на светлината, во Кого нема промени ни сенка од измена.",
+                    "referenci": [
+                        {
+                            "referenca": "Мал 3,6",
+                            "meta_link": "Kniga50_Mal.xhtml#g3s6"
+                        },
+                        {
+                            "referenca": "Мт 7,11",
+                            "meta_link": "Kniga51_Mt.xhtml#g7s11"
+                        },
+                        {
+                            "referenca": "1 Јн 1,5",
+                            "meta_link": "Kniga73_1Jn.xhtml#g1s5"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Да се слуша и извршува словото",
+                    "r_br": "18",
+                    "tekst": "Зашто Тој нѐ роди по својата волја преку словото на вистината, за да бидеме првина меѓу Неговите созданија.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 3,14",
+                            "meta_link": "Kniga70_Jk.xhtml#g3s14"
+                        },
+                        {
+                            "referenca": "Јк 5,19",
+                            "meta_link": "Kniga70_Jk.xhtml#g5s19"
+                        },
+                        {
+                            "referenca": "Јн 17,17",
+                            "meta_link": "Kniga54_Jn.xhtml#g17s17"
+                        },
+                        {
+                            "referenca": "Ефес 1,13",
+                            "meta_link": "Kniga60_Efes.xhtml#g1s13"
+                        },
+                        {
+                            "referenca": "Кол 1,5",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s5"
+                        },
+                        {
+                            "referenca": "2 Тим 2,15",
+                            "meta_link": "Kniga66_2Tim.xhtml#g2s15"
+                        },
+                        {
+                            "referenca": "1 Птр 1,22-25",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g1s22"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "19",
+                    "tekst": "И така, мои возљубени браќа, секој човек нека биде брз за слушање, а спор за зборување, и бавен за гнев,",
+                    "referenci": [
+                        {
+                            "referenca": "2 Мојс 34,6",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g34s6"
+                        },
+                        {
+                            "referenca": "Проп 7,9",
+                            "meta_link": "Kniga28_Prop.xhtml#g7s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "20",
+                    "tekst": "бидејќи човечкиот гнев не ја извршува Божјата правда.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 2,21-25",
+                            "meta_link": "Kniga70_Jk.xhtml#g2s21"
+                        },
+                        {
+                            "referenca": "Јк 5,16",
+                            "meta_link": "Kniga70_Jk.xhtml#g5s16"
+                        },
+                        {
+                            "referenca": "Мт 5,6.10.20",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s6"
+                        },
+                        {
+                            "referenca": "Мт 6,33",
+                            "meta_link": "Kniga51_Mt.xhtml#g6s33"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "21",
+                    "tekst": "Затоа, отфрлувајќи од себеси секаква нечистота и насобрана злоба, со кроткост примете го насаденото слово, кое може да ги спаси вашите души.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 11,29",
+                            "meta_link": "Kniga51_Mt.xhtml#g11s29"
+                        },
+                        {
+                            "referenca": "Рим 13,12",
+                            "meta_link": "Kniga56_Rim.xhtml#g13s12"
+                        },
+                        {
+                            "referenca": "Ефес 4,22.25",
+                            "meta_link": "Kniga60_Efes.xhtml#g4s22"
+                        },
+                        {
+                            "referenca": "Кол 3,8",
+                            "meta_link": "Kniga62_Kol.xhtml#g3s8"
+                        },
+                        {
+                            "referenca": "1 Птр 2,1",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s1"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "22",
+                    "tekst": "Бидете извршители на словото, а не само слушатели, мамејќи се сами себе.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 7,24",
+                            "meta_link": "Kniga51_Mt.xhtml#g7s24"
+                        },
+                        {
+                            "referenca": "Рим 2,13",
+                            "meta_link": "Kniga56_Rim.xhtml#g2s13"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "23",
+                    "tekst": "Зашто, кој го слуша словото, а не го извршува, тој прилега на човек кој го гледа своето сопствено лице во огледало;"
+                },
+                {
+                    "r_br": "24",
+                    "tekst": "ќе се погледне, па ќе си замине, и веднаш заборава каков бил."
+                },
+                {
+                    "r_br": "25",
+                    "tekst": "Но кој ќе се задлабочи во совршениот Закон на слободата и остане во него, тој, бидејќи не е заборавлив слушател, туку извршител кој дејствува, ќе биде блажен во своето дејствување.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 2,12.14",
+                            "meta_link": "Kniga70_Jk.xhtml#g2s12"
+                        },
+                        {
+                            "referenca": "Јн 13,17",
+                            "meta_link": "Kniga54_Jn.xhtml#g13s17"
+                        },
+                        {
+                            "referenca": "Рим 8,2",
+                            "meta_link": "Kniga56_Rim.xhtml#g8s2"
+                        },
+                        {
+                            "referenca": "Гал 6,2",
+                            "meta_link": "Kniga59_Gal.xhtml#g6s2"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "26",
+                    "tekst": "Ако некој од вас мисли дека е побожен, а не го зауздува јазикот свој, туку го мами срцето свое, неговата побожност е суетна.",
+                    "referenci": [
+                        {
+                            "referenca": "Пс 34,13",
+                            "meta_link": "Kniga25_Ps.xhtml#g34s13"
+                        },
+                        {
+                            "referenca": "Пс 39,2",
+                            "meta_link": "Kniga25_Ps.xhtml#g39s2"
+                        },
+                        {
+                            "referenca": "Пс 141,3",
+                            "meta_link": "Kniga25_Ps.xhtml#g141s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "27",
+                    "tekst": "Чиста и непорочна вера пред Бога Отецот е оваа: да се грижиш за сираци и вдовици во нивните маки и да се пазиш да останеш неосквернет од светот.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 4,4",
+                            "meta_link": "Kniga70_Jk.xhtml#g4s4"
+                        },
+                        {
+                            "referenca": "Ис 1,11-17.23",
+                            "meta_link": "Kniga32_Is.xhtml#g1s11"
+                        },
+                        {
+                            "referenca": "Ер 5,28",
+                            "meta_link": "Kniga33_Er.xhtml#g5s28"
+                        },
+                        {
+                            "referenca": "Ез 22,7",
+                            "meta_link": "Kniga37_Ez.xhtml#g22s7"
+                        },
+                        {
+                            "referenca": "Зах 7,10",
+                            "meta_link": "Kniga49_Zah.xhtml#g7s10"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "1"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Верата е непристрасна",
+                    "r_br": 1,
+                    "tekst": "Браќа мои, држете ја непристрасно верата во Исус Христос, нашиот Господ на славата!",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 2,9",
+                            "meta_link": "Kniga70_Jk.xhtml#g2s9"
+                        },
+                        {
+                            "referenca": "5 Мојс 1,17",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g1s17"
+                        },
+                        {
+                            "referenca": "Јов 34,19",
+                            "meta_link": "Kniga26_Jov.xhtml#g34s19"
+                        },
+                        {
+                            "referenca": "Дела 10,34",
+                            "meta_link": "Kniga55_Dela.xhtml#g10s34"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Ако во вашето собрание влезе човек со златен прстен, во светли алишта, и влезе сиромав човек со проста облека,"
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "па се загледате на облечениот во светли алишта и му речете: „Ти седни овде убаво!“, а на сиромашниот му речете: „Ти стој таму!“, или „Седни овде, крај подножјето мое!“,"
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "зарем со тоа не покажувате пристрасност, и не станувате судии со лоши помисли?"
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Послушајте, возљубени браќа мои, не ги избра ли Бог сиромашните од овој свет да бидат богати во верата и наследници на царството, ветено од Него на оние кои Го љубат?",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 25,34",
+                            "meta_link": "Kniga51_Mt.xhtml#g25s34"
+                        },
+                        {
+                            "referenca": "1 Кор 1,26-28",
+                            "meta_link": "Kniga57_1Kor.xhtml#g1s26"
+                        },
+                        {
+                            "referenca": "1 Кор 6,9-10",
+                            "meta_link": "Kniga57_1Kor.xhtml#g6s9"
+                        },
+                        {
+                            "referenca": "Гал 5,21",
+                            "meta_link": "Kniga59_Gal.xhtml#g5s21"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "А вие го посрамивте сиромавиот! Не се ли богатите тие што ве мачат и ве влечат по судови?"
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Не го хулат ли тие вашето добро име, со кое сте се нарекле?",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 2,38",
+                            "meta_link": "Kniga55_Dela.xhtml#g2s38"
+                        },
+                        {
+                            "referenca": "Дела 10,48",
+                            "meta_link": "Kniga55_Dela.xhtml#g10s48"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Ако, пак, го извршувате царскиот закон според Писмото: „Возљуби го ближниот како самиот себе“ – добро правите.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 1,25",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s25"
+                        },
+                        {
+                            "referenca": "3 Мојс 19,18",
+                            "meta_link": "Kniga3_3Mojs.xhtml#g19s18"
+                        },
+                        {
+                            "referenca": "Мт 19,19",
+                            "meta_link": "Kniga51_Mt.xhtml#g19s19"
+                        },
+                        {
+                            "referenca": "Мт 22,39",
+                            "meta_link": "Kniga51_Mt.xhtml#g22s39"
+                        },
+                        {
+                            "referenca": "Мк 12,31",
+                            "meta_link": "Kniga52_Mk.xhtml#g12s31"
+                        },
+                        {
+                            "referenca": "Лк 10,27",
+                            "meta_link": "Kniga53_Lk.xhtml#g10s27"
+                        },
+                        {
+                            "referenca": "Јн 13,34-35",
+                            "meta_link": "Kniga54_Jn.xhtml#g13s34"
+                        },
+                        {
+                            "referenca": "Рим 13,9",
+                            "meta_link": "Kniga56_Rim.xhtml#g13s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Но, ако сте пристрасни, грев правите; и Законот ве осудува како престапници.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 1,17",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g1s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Зашто, кој го пази целиот Закон, а згреши само во едно, виновен ќе биде за сѐ.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 27,26",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g27s26"
+                        },
+                        {
+                            "referenca": "Мт 5,19",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s19"
+                        },
+                        {
+                            "referenca": "Гал 3,10",
+                            "meta_link": "Kniga59_Gal.xhtml#g3s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Зашто Оној, Кој рекол: „Не прави прељуба!“, рекол и: „Не убивај!“ Па затоа, ако не вршиш прељуба, а убиеш, ти ќе станеш престапник на Законот.",
+                    "referenci": [
+                        {
+                            "referenca": "2 Мојс 20,13-14",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g20s13"
+                        },
+                        {
+                            "referenca": "5 Мојс 5,17-18",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g5s17"
+                        },
+                        {
+                            "referenca": "Мт 5,21.27",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s21"
+                        },
+                        {
+                            "referenca": "Мт 19,18",
+                            "meta_link": "Kniga51_Mt.xhtml#g19s18"
+                        },
+                        {
+                            "referenca": "Мк 10,19",
+                            "meta_link": "Kniga52_Mk.xhtml#g10s19"
+                        },
+                        {
+                            "referenca": "Лк 18,20",
+                            "meta_link": "Kniga53_Lk.xhtml#g18s20"
+                        },
+                        {
+                            "referenca": "Рим 13,9",
+                            "meta_link": "Kniga56_Rim.xhtml#g13s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Зборувајте и постапувајте како оние што ќе бидат судени според законот на слободата.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 1,25",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s25"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "Зашто судот ќе биде безмилосен спрема оној кој не покажува милост; милоста надвива над судот.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 5,7",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s7"
+                        },
+                        {
+                            "referenca": "Мт 18,32-35",
+                            "meta_link": "Kniga51_Mt.xhtml#g18s32"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Без дела верата е мртва",
+                    "r_br": "14",
+                    "tekst": "Каква е ползата, браќа мои, ако некој рече дека има вера, а дела нема? Може ли верата да го спаси?",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 1,25",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s25"
+                        },
+                        {
+                            "referenca": "Јк 3,13",
+                            "meta_link": "Kniga70_Jk.xhtml#g3s13"
+                        },
+                        {
+                            "referenca": "Мт 5,16.20",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s16"
+                        },
+                        {
+                            "referenca": "Мт 7,21.26",
+                            "meta_link": "Kniga51_Mt.xhtml#g7s21"
+                        },
+                        {
+                            "referenca": "Рим 2,6.15-16",
+                            "meta_link": "Kniga56_Rim.xhtml#g2s6"
+                        },
+                        {
+                            "referenca": "Рим 3,28",
+                            "meta_link": "Kniga56_Rim.xhtml#g3s28"
+                        },
+                        {
+                            "referenca": "Гал 2,16",
+                            "meta_link": "Kniga59_Gal.xhtml#g2s16"
+                        },
+                        {
+                            "referenca": "Гал 5,6",
+                            "meta_link": "Kniga59_Gal.xhtml#g5s6"
+                        },
+                        {
+                            "referenca": "Ефес 2,8-10",
+                            "meta_link": "Kniga60_Efes.xhtml#g2s8"
+                        },
+                        {
+                            "referenca": "Кол 1,10",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s10"
+                        },
+                        {
+                            "referenca": "1 Сол 1,3",
+                            "meta_link": "Kniga63_1Sol.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "2 Сол 1,11",
+                            "meta_link": "Kniga64_2Sol.xhtml#g1s11"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Ако некој брат или сестра се голи и немаат што да јадат,"
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "па некој од вас им рече: „Одете си со мир, грејте се и наситете се!“, а не им даде што им е потребно за телото – каква полза?"
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "И така, верата, ако нема дела, сама по себе е мртва.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 2,20.26",
+                            "meta_link": "Kniga70_Jk.xhtml#g2s20"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "18",
+                    "tekst": "Но може некој да рече: ти имаш вера, а јас имам дела. Покажи ми ја својата вера без дела, а јас преку моите дела ќе ти ја покажам мојата вера."
+                },
+                {
+                    "r_br": "19",
+                    "tekst": "Ти веруваш дека Бог е еден: добро правиш; но и злите духови веруваат, а треперат.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 8,29",
+                            "meta_link": "Kniga51_Mt.xhtml#g8s29"
+                        },
+                        {
+                            "referenca": "Мк 1,24",
+                            "meta_link": "Kniga52_Mk.xhtml#g1s24"
+                        },
+                        {
+                            "referenca": "Мк 5,7",
+                            "meta_link": "Kniga52_Mk.xhtml#g5s7"
+                        },
+                        {
+                            "referenca": "Лк 4,34",
+                            "meta_link": "Kniga53_Lk.xhtml#g4s34"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "20",
+                    "tekst": "Не сакаш ли да разбереш, о суетен човеку, дека верата без дела е мртва?"
+                },
+                {
+                    "r_br": "21",
+                    "tekst": "Нели со дела беше оправдан Авраам, нашиот татко, откако врз жртвеникот го положи својот син Исак?",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 22,9.12",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g22s9"
+                        },
+                        {
+                            "referenca": "Ис 51,2",
+                            "meta_link": "Kniga32_Is.xhtml#g51s2"
+                        },
+                        {
+                            "referenca": "Мт 3,9",
+                            "meta_link": "Kniga51_Mt.xhtml#g3s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "22",
+                    "tekst": "Гледаш ли дека верата дејствуваше заедно со делата негови, и дека преку делата, верата стана совршена?",
+                    "referenci": [
+                        {
+                            "referenca": "Јн 8,39.53",
+                            "meta_link": "Kniga54_Jn.xhtml#g8s39"
+                        },
+                        {
+                            "referenca": "Гал 3,6-9",
+                            "meta_link": "Kniga59_Gal.xhtml#g3s6"
+                        },
+                        {
+                            "referenca": "Евр 11,17",
+                            "meta_link": "Kniga69_Evr.xhtml#g11s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "23",
+                    "tekst": "И се изврши Писмото, кое вели:„Му поверува Авраам на Бога, и тоа му се сметаше за праведност“, и тој се нарече – пријател Божји.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 15,6",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g15s6"
+                        },
+                        {
+                            "referenca": "Ис 41,8",
+                            "meta_link": "Kniga32_Is.xhtml#g41s8"
+                        },
+                        {
+                            "referenca": "2 Лет 20,7",
+                            "meta_link": "Kniga14_2Let.xhtml#g20s7"
+                        },
+                        {
+                            "referenca": "Рим 4,3.9.22",
+                            "meta_link": "Kniga56_Rim.xhtml#g4s3"
+                        },
+                        {
+                            "referenca": "Гал 3,6",
+                            "meta_link": "Kniga59_Gal.xhtml#g3s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "24",
+                    "tekst": "Гледате ли дека човекот се оправдува со дела, а не само со вера?"
+                },
+                {
+                    "r_br": "25",
+                    "tekst": "А така не се оправда ли со дела и блудницата Раав, откако ги прими извидувачите и ги изведе по друг пат?",
+                    "referenci": [
+                        {
+                            "referenca": "Ис.Н. 2,4.15",
+                            "meta_link": "Kniga6_IsN.xhtml#g2s4"
+                        },
+                        {
+                            "referenca": "Ис.Н. 6,17",
+                            "meta_link": "Kniga6_IsN.xhtml#g6s17"
+                        },
+                        {
+                            "referenca": "Евр 11,31",
+                            "meta_link": "Kniga69_Evr.xhtml#g11s31"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "26",
+                    "tekst": "Зашто, како што е телото без дух мртво, така и верата без дела е мртва.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 2,17.20",
+                            "meta_link": "Kniga70_Jk.xhtml#g2s17"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "2"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Внимавај на јазикот",
+                    "r_br": 1,
+                    "tekst": "Не барајте, браќа мои, мнозина да станете учители, зашто знаете дека поголемо осудување ќе добиеме.",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 12,7",
+                            "meta_link": "Kniga56_Rim.xhtml#g12s7"
+                        },
+                        {
+                            "referenca": "1 Кор 12,28-29",
+                            "meta_link": "Kniga57_1Kor.xhtml#g12s28"
+                        },
+                        {
+                            "referenca": "Ефес 4,11",
+                            "meta_link": "Kniga60_Efes.xhtml#g4s11"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Сите ние многу грешиме. Но оној, кој во зборови не греши, тој е совршен човек, силен да го заузда и целото тело.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 1,4",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s4"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Ете, ако и ние на коњите им ставиме узда на устите, за да ни се покоруваат, тогаш управуваме со целото нивно тело.",
+                    "referenci": [
+                        {
+                            "referenca": "Пс 32,9",
+                            "meta_link": "Kniga25_Ps.xhtml#g32s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Па, ете, и корабите: иако се толку многу големи и силно гонети од бурни ветрови, со мало кормило се управуваат онаму каде што кормиларот сака;"
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "а така и јазикот е мал орган, но големи работи зборува. Ете, мал оган, а колку голема гора запалува;"
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "и јазикот е оган, свет полн со неправда; јазикот се наоѓа во таква положба меѓу нашите органи, што го осквернува целото тело и го пали времето на нашиот живот, воспалувајќи се сам од пеколот.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 5,22",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s22"
+                        },
+                        {
+                            "referenca": "Мт 12,36-37",
+                            "meta_link": "Kniga51_Mt.xhtml#g12s36"
+                        },
+                        {
+                            "referenca": "Мт 15,11.18-19",
+                            "meta_link": "Kniga51_Mt.xhtml#g15s11"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Секаков вид ѕверови и птици, лазачи и риби, се скротува и се припитомува од човечкиот род,"
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "а јазикот никој не може да го скроти: тој е немирно зло и полн со смртоносен отров.",
+                    "referenci": [
+                        {
+                            "referenca": "Пс 140,3",
+                            "meta_link": "Kniga25_Ps.xhtml#g140s3"
+                        },
+                        {
+                            "referenca": "Рим 3,13",
+                            "meta_link": "Kniga56_Rim.xhtml#g3s13"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Со него Го благословуваме Бога и Отецот, со него ги колнеме луѓето создадени според подобието Божјо.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 1,26-27",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g1s26"
+                        },
+                        {
+                            "referenca": "1 Мојс 5,1",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g5s1"
+                        },
+                        {
+                            "referenca": "1 Кор 11,7",
+                            "meta_link": "Kniga57_1Kor.xhtml#g11s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Од истата уста излегува и благослов и клетва. Не треба, браќа мои, тоа така да биде."
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "А тече ли од еден ист извор слатка и горчлива вода?"
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Може ли, браќа мои, смоквата да раѓа маслинки, или лозата смокви? Така, од еден ист извор не може да тече солена и слатка вода."
+                },
+                {
+                    "podnaslov": "Мудроста озгора и земната мудрост",
+                    "r_br": "13",
+                    "tekst": "Кој е меѓу вас мудар и умен, нека ги покаже преку своето добро однесување делата свои во кротост и мудрост."
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Но, ако во срцата свои имате горчлива завист и карање, не фалете се и не лажете против вистината:"
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "тоа не е мудрост која доаѓа озгора, туку земна, душевна, бесовска;",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 1,5.17",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s5"
+                        },
+                        {
+                            "referenca": "1 Кор 2,14",
+                            "meta_link": "Kniga57_1Kor.xhtml#g2s14"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "зашто, каде што има завист и карање, таму има неслога и сѐ е лошо."
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "А мудроста, што иде озгора, е најнапред чиста, а потоа мирна, кротка, покорна, полна со милост и добри плодови, непристрасна и нелицемерна.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 2,13",
+                            "meta_link": "Kniga70_Jk.xhtml#g2s13"
+                        },
+                        {
+                            "referenca": "Мт 5,7.9",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s7"
+                        },
+                        {
+                            "referenca": "Гал 5,22-25",
+                            "meta_link": "Kniga59_Gal.xhtml#g5s22"
+                        },
+                        {
+                            "referenca": "Евр 12,11",
+                            "meta_link": "Kniga69_Evr.xhtml#g12s11"
+                        },
+                        {
+                            "referenca": "1 Птр 3,4",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g3s4"
+                        },
+                        {
+                            "referenca": "1 Птр 3,10-11.16",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g3s10"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "18",
+                    "tekst": "Плодот, пак, на правдата во мир се сее од миротворците.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 32,17",
+                            "meta_link": "Kniga32_Is.xhtml#g32s17"
+                        },
+                        {
+                            "referenca": "Мт 5,9",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s9"
+                        },
+                        {
+                            "referenca": "Евр 12,11",
+                            "meta_link": "Kniga69_Evr.xhtml#g12s11"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "3"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Против неслогата",
+                    "r_br": 1,
+                    "tekst": "Од каде се војните и расправиите меѓу вас? Не оттаму ли – од вашите похоти, кои се борат во органите ваши?",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 7,23",
+                            "meta_link": "Kniga56_Rim.xhtml#g7s23"
+                        },
+                        {
+                            "referenca": "1 Птр 2,11",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g2s11"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Пожелувате и немате; убивате и завидувате, и не можете да добиете; се препирате и војувате, а немате, бидејќи не се молите."
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Просите, а не добивате, зашто зло барате, за да го трошите во вашите похоти.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 1,5",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Прељубодејци и прељубодејки, не знаете ли дека пријателството со овој свет е непријателство на Бога? Зашто, кој сака да му е пријател на светот, му станува непријател на Бога.",
+                    "referenci": [
+                        {
+                            "referenca": "Ос 3,1",
+                            "meta_link": "Kniga39_Os.xhtml#g3s1"
+                        },
+                        {
+                            "referenca": "Мт 12,39",
+                            "meta_link": "Kniga51_Mt.xhtml#g12s39"
+                        },
+                        {
+                            "referenca": "Мт 16,4",
+                            "meta_link": "Kniga51_Mt.xhtml#g16s4"
+                        },
+                        {
+                            "referenca": "Рим 8,7",
+                            "meta_link": "Kniga56_Rim.xhtml#g8s7"
+                        },
+                        {
+                            "referenca": "1 Јн 2,15",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s15"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Или, пак, мислите дека Писмото напразно зборува: „Со ревност го љуби духот што го вселил во нас.“",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 6,3",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g6s3"
+                        },
+                        {
+                            "referenca": "2 Мојс 20,5",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g20s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Но Тој дава поголема благодат; затоа е речено: „Бог се противи на горделивите, а на понизните им дава благодат.“",
+                    "referenci": [
+                        {
+                            "referenca": "Изреки 3,34",
+                            "meta_link": "Kniga27_Izreki.xhtml#g3s34"
+                        },
+                        {
+                            "referenca": "Мт 23,12",
+                            "meta_link": "Kniga51_Mt.xhtml#g23s12"
+                        },
+                        {
+                            "referenca": "1 Птр 5,5",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s5"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "7",
+                    "tekst": "Па затоа, покорете Му се на Бога; а противете се на ѓаволот, и тој ќе побегне од вас.",
+                    "referenci": [
+                        {
+                            "referenca": "Ефес 6,12-13",
+                            "meta_link": "Kniga60_Efes.xhtml#g6s12"
+                        },
+                        {
+                            "referenca": "1 Птр 5,8-9",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s8"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Приближете се кон Бога, и Тој ќе се приближи кон вас; исчистете ги рацете, грешници, поправете ги срцата свои, непостојани!",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 1,16",
+                            "meta_link": "Kniga32_Is.xhtml#g1s16"
+                        },
+                        {
+                            "referenca": "Зах 1,3",
+                            "meta_link": "Kniga49_Zah.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "Мал 3,7",
+                            "meta_link": "Kniga50_Mal.xhtml#g3s7"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Бидете нажалени и плачете и липајте: смевот ваш нека се претвори во плач, а радоста во тага!"
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Понизете се пред Господ и ќе ве подигне!",
+                    "referenci": [
+                        {
+                            "referenca": "Јов 5,11",
+                            "meta_link": "Kniga26_Jov.xhtml#g5s11"
+                        },
+                        {
+                            "referenca": "1 Птр 5,6",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g5s6"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Кој си ти да го судиш ближниот?",
+                    "r_br": "11",
+                    "tekst": "Не озборувајте се еден со друг, браќа: зашто, кој го озборува братот свој или го суди, тој го напаѓа Законот и го суди Законот. А ако, пак, го судиш Законот, тогаш ти не си извршител на Законот, туку судија."
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "Еден е Законодавецот и Судијата, Кој може да спаси и погуби: а ти, кој си што осудуваш друг?",
+                    "referenci": [
+                        {
+                            "referenca": "Рим 2,1",
+                            "meta_link": "Kniga56_Rim.xhtml#g2s1"
+                        },
+                        {
+                            "referenca": "Рим 14,4",
+                            "meta_link": "Kniga56_Rim.xhtml#g14s4"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Лоша самодоверба",
+                    "r_br": "13",
+                    "tekst": "Слушајте сега вие, кои велите: „Денес или утре ќе тргнеме во оној град и таму ќе останеме една година, ќе тргуваме и ќе спечалиме“,",
+                    "referenci": [
+                        {
+                            "referenca": "Изреки 27,1",
+                            "meta_link": "Kniga27_Izreki.xhtml#g27s1"
+                        },
+                        {
+                            "referenca": "Лк 12,18-20",
+                            "meta_link": "Kniga53_Lk.xhtml#g12s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "вие, кои не знаете што ќе стане утре. Што е вашиот живот? Тој е пареа, која се појавува за кратко време, па исчезнува."
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "Место да велите: „Ако сака Господ да бидеме живи, ќе направиме тоа и тоа.“",
+                    "referenci": [
+                        {
+                            "referenca": "Дела 18,21",
+                            "meta_link": "Kniga55_Dela.xhtml#g18s21"
+                        },
+                        {
+                            "referenca": "Рим 1,10",
+                            "meta_link": "Kniga56_Rim.xhtml#g1s10"
+                        },
+                        {
+                            "referenca": "1 Кор 4,19",
+                            "meta_link": "Kniga57_1Kor.xhtml#g4s19"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "А сега се фалите со својата гордост. Секоја таква фалба е зла."
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "И така, грев е за оној кој знае да прави добро, а не го прави.",
+                    "referenci": [
+                        {
+                            "referenca": "Лк 12,47",
+                            "meta_link": "Kniga53_Lk.xhtml#g12s47"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "4"
+        },
+        {
+            "stihovi": [
+                {
+                    "podnaslov": "Предупредување до богатите",
+                    "r_br": 1,
+                    "tekst": "Ајде сега вие, богати, плачете и липајте за страшните маки што идат на вас.",
+                    "referenci": [
+                        {
+                            "referenca": "Ис 5,8-10",
+                            "meta_link": "Kniga32_Is.xhtml#g5s8"
+                        },
+                        {
+                            "referenca": "Ер 5,26-30",
+                            "meta_link": "Kniga33_Er.xhtml#g5s26"
+                        },
+                        {
+                            "referenca": "Амос 8,4-8",
+                            "meta_link": "Kniga41_Amos.xhtml#g8s4"
+                        },
+                        {
+                            "referenca": "Лк 6,24",
+                            "meta_link": "Kniga53_Lk.xhtml#g6s24"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "2",
+                    "tekst": "Богатството ваше изгни, а алиштата ваши молци ги изгризаа.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 6,19-20",
+                            "meta_link": "Kniga51_Mt.xhtml#g6s19"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "3",
+                    "tekst": "Златото ваше и среброто ви за‘рѓаа, и ‘рѓата нивна ќе биде сведоштво против вас и ќе го изеде телото ваше како оган! Сте насобрале богатство за последните дни.",
+                    "referenci": [
+                        {
+                            "referenca": "Пс 21,9",
+                            "meta_link": "Kniga25_Ps.xhtml#g21s9"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "4",
+                    "tekst": "Ете, платата што сте ја задржале од работниците, кои работеле на вашите ниви, и извиците на жетварите дојдоа до ушите на Господ Саваот.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Мојс 4,10",
+                            "meta_link": "Kniga1_1Mojs.xhtml#g4s10"
+                        },
+                        {
+                            "referenca": "2 Мојс 2,23",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g2s23"
+                        },
+                        {
+                            "referenca": "3 Мојс 19,13",
+                            "meta_link": "Kniga3_3Mojs.xhtml#g19s13"
+                        },
+                        {
+                            "referenca": "5 Мојс 24,14-15",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g24s14"
+                        },
+                        {
+                            "referenca": "Мал 3,5",
+                            "meta_link": "Kniga50_Mal.xhtml#g3s5"
+                        },
+                        {
+                            "referenca": "Пс 18,6",
+                            "meta_link": "Kniga25_Ps.xhtml#g18s6"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "5",
+                    "tekst": "Се веселевте на земјата и се насладувавте, ги згоивте срцата ваши како за ден на клање.",
+                    "referenci": [
+                        {
+                            "referenca": "Ер 12,3",
+                            "meta_link": "Kniga33_Er.xhtml#g12s3"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "6",
+                    "tekst": "Го осудивте, Го убивте праведникот; и тој не се спротивставуваше.",
+                    "referenci": [
+                        {
+                            "referenca": "Пс 37",
+                            "meta_link": "Kniga25_Ps.xhtml#g37"
+                        },
+                        {
+                            "referenca": "Мт 5,39",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s39"
+                        }
+                    ]
+                },
+                {
+                    "podnaslov": "Трпение и молитва",
+                    "r_br": "7",
+                    "tekst": "Бидете трпеливи, браќа мои, до доаѓањето на Господ! Ете, земјоделецот чека драгоцен плод од земјата и долго трпи за него, додека не добие дожд, ран или доцен.",
+                    "referenci": [
+                        {
+                            "referenca": "5 Мојс 11,14",
+                            "meta_link": "Kniga5_5Mojs.xhtml#g11s14"
+                        },
+                        {
+                            "referenca": "Ер 5,24",
+                            "meta_link": "Kniga33_Er.xhtml#g5s24"
+                        },
+                        {
+                            "referenca": "Јоил 2,23",
+                            "meta_link": "Kniga40_Joil.xhtml#g2s23"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "8",
+                    "tekst": "Па трпете и вие, укрепете ги срцата свои, зашто доаѓањето на Господ се приближи.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 24,3.27.37",
+                            "meta_link": "Kniga51_Mt.xhtml#g24s3"
+                        },
+                        {
+                            "referenca": "Рим 13,11-12",
+                            "meta_link": "Kniga56_Rim.xhtml#g13s11"
+                        },
+                        {
+                            "referenca": "1 Кор 15,23",
+                            "meta_link": "Kniga57_1Kor.xhtml#g15s23"
+                        },
+                        {
+                            "referenca": "1 Сол 2,19",
+                            "meta_link": "Kniga63_1Sol.xhtml#g2s19"
+                        },
+                        {
+                            "referenca": "1 Сол 3,13",
+                            "meta_link": "Kniga63_1Sol.xhtml#g3s13"
+                        },
+                        {
+                            "referenca": "1 Сол 4,15",
+                            "meta_link": "Kniga63_1Sol.xhtml#g4s15"
+                        },
+                        {
+                            "referenca": "1 Сол 5,1-11.23",
+                            "meta_link": "Kniga63_1Sol.xhtml#g5s1"
+                        },
+                        {
+                            "referenca": "Евр 10,25",
+                            "meta_link": "Kniga69_Evr.xhtml#g10s25"
+                        },
+                        {
+                            "referenca": "1 Птр 4,7",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g4s7"
+                        },
+                        {
+                            "referenca": "3 Птр 1,16",
+                            "meta_link": "Kniga0_3Ptr.xhtml#g1s16"
+                        },
+                        {
+                            "referenca": "1 Јн 2,28",
+                            "meta_link": "Kniga73_1Jn.xhtml#g2s28"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "9",
+                    "tekst": "Не оплакувајте се, браќа, еден на друг, та да не бидете осудени: ете, Судијата стои пред вратата.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 24,33",
+                            "meta_link": "Kniga51_Mt.xhtml#g24s33"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "10",
+                    "tekst": "Браќа, како пример на страдања и долготрпенија земете ги пророците што зборуваа во името Господово.",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 5,12",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s12"
+                        },
+                        {
+                            "referenca": "Мт 23,29-31",
+                            "meta_link": "Kniga51_Mt.xhtml#g23s29"
+                        },
+                        {
+                            "referenca": "Дела 7,52",
+                            "meta_link": "Kniga55_Dela.xhtml#g7s52"
+                        },
+                        {
+                            "referenca": "Рим 11,3",
+                            "meta_link": "Kniga56_Rim.xhtml#g11s3"
+                        },
+                        {
+                            "referenca": "1 Сол 2,15",
+                            "meta_link": "Kniga63_1Sol.xhtml#g2s15"
+                        },
+                        {
+                            "referenca": "Евр 11,36-38",
+                            "meta_link": "Kniga69_Evr.xhtml#g11s36"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "11",
+                    "tekst": "Ете, блажени се оние што истрајаа. Сте чуле за трпението на Јов и узнавте каков крај му даде Господ, затоа што Господ е многумилостив и се смилува на него.",
+                    "referenci": [
+                        {
+                            "referenca": "Јк 1,3-4",
+                            "meta_link": "Kniga70_Jk.xhtml#g1s3"
+                        },
+                        {
+                            "referenca": "2 Мојс 34,6",
+                            "meta_link": "Kniga2_2Mojs.xhtml#g34s6"
+                        },
+                        {
+                            "referenca": "Пс 103,8",
+                            "meta_link": "Kniga25_Ps.xhtml#g103s8"
+                        },
+                        {
+                            "referenca": "Пс 111,4",
+                            "meta_link": "Kniga25_Ps.xhtml#g111s4"
+                        },
+                        {
+                            "referenca": "Јов 1,20-22",
+                            "meta_link": "Kniga26_Jov.xhtml#g1s20"
+                        },
+                        {
+                            "referenca": "Јов 2,10",
+                            "meta_link": "Kniga26_Jov.xhtml#g2s10"
+                        },
+                        {
+                            "referenca": "Јов 42,10-17",
+                            "meta_link": "Kniga26_Jov.xhtml#g42s10"
+                        },
+                        {
+                            "referenca": "Дан 12,12",
+                            "meta_link": "Kniga38_Dan.xhtml#g12s12"
+                        },
+                        {
+                            "referenca": "Кол 1,11",
+                            "meta_link": "Kniga62_Kol.xhtml#g1s11"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "12",
+                    "tekst": "А пред сѐ, браќа мои, не колнете се ни во небото, ни во земјата, ниту пак со некоја друга заклетва. И зборот нека ви биде да – да и не – не, за да не паднете под суд!",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 5,34-37",
+                            "meta_link": "Kniga51_Mt.xhtml#g5s34"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "13",
+                    "tekst": "А ако некој од вас страда, нека Му се моли на Бога; весел ли е, нека Го фали Господа!",
+                    "referenci": [
+                        {
+                            "referenca": "Пс 50,15",
+                            "meta_link": "Kniga25_Ps.xhtml#g50s15"
+                        },
+                        {
+                            "referenca": "Рим 15,9",
+                            "meta_link": "Kniga56_Rim.xhtml#g15s9"
+                        },
+                        {
+                            "referenca": "1 Кор 14,15",
+                            "meta_link": "Kniga57_1Kor.xhtml#g14s15"
+                        },
+                        {
+                            "referenca": "Ефес 5,19-20",
+                            "meta_link": "Kniga60_Efes.xhtml#g5s19"
+                        },
+                        {
+                            "referenca": "Кол 3,16-17",
+                            "meta_link": "Kniga62_Kol.xhtml#g3s16"
+                        },
+                        {
+                            "referenca": "1 Сол 5,17-18",
+                            "meta_link": "Kniga63_1Sol.xhtml#g5s17"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "14",
+                    "tekst": "Болен ли е некој меѓу вас, нека ги повика свештениците црковни, та да се помолат и да извршат помазание над него со елеј во името Господово.",
+                    "referenci": [
+                        {
+                            "referenca": "Мк 6,13",
+                            "meta_link": "Kniga52_Mk.xhtml#g6s13"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "15",
+                    "tekst": "И молитвата со вера ќе го исцели болниот, и Господ ќе го крене; и гревови, ако направил, ќе му се простат.",
+                    "referenci": [
+                        {
+                            "referenca": "Мк 5,34.41",
+                            "meta_link": "Kniga52_Mk.xhtml#g5s34"
+                        },
+                        {
+                            "referenca": "Мк 16,18",
+                            "meta_link": "Kniga52_Mk.xhtml#g16s18"
+                        },
+                        {
+                            "referenca": "Лк 17,19",
+                            "meta_link": "Kniga53_Lk.xhtml#g17s19"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "16",
+                    "tekst": "Исповедајте си ги гревовите еден на друг и молете се еден за друг за да се исцелите. Голема сила има усрдната молитва на праведникот.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Сам 12,19",
+                            "meta_link": "Kniga0_1Sam.xhtml#g12s19"
+                        },
+                        {
+                            "referenca": "Дан 9,4-20",
+                            "meta_link": "Kniga38_Dan.xhtml#g9s4"
+                        },
+                        {
+                            "referenca": "Мт 3,6",
+                            "meta_link": "Kniga51_Mt.xhtml#g3s6"
+                        },
+                        {
+                            "referenca": "Дела 19,18",
+                            "meta_link": "Kniga55_Dela.xhtml#g19s18"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "17",
+                    "tekst": "Илија беше човек смртен, како и ние, и со молитва Му се помоли на Бога да нема дожд, и не падна дожд на земјата три години и шест месеци.",
+                    "referenci": [
+                        {
+                            "referenca": "1 Цар 17,1",
+                            "meta_link": "Kniga9_1Car.xhtml#g17s1"
+                        },
+                        {
+                            "referenca": "Мт 11,14",
+                            "meta_link": "Kniga51_Mt.xhtml#g11s14"
+                        },
+                        {
+                            "referenca": "Лк 4,25",
+                            "meta_link": "Kniga53_Lk.xhtml#g4s25"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "18",
+                    "tekst": "И пак се помоли, па небото даде дожд и земјата го даде својот плод."
+                },
+                {
+                    "podnaslov": "Поврати ги отклонетите",
+                    "r_br": "19",
+                    "tekst": "Ако, браќа, некој од вас се отклони од вистината, и ако некој друг го поврати,",
+                    "referenci": [
+                        {
+                            "referenca": "Мт 18,12-13.15",
+                            "meta_link": "Kniga51_Mt.xhtml#g18s12"
+                        }
+                    ]
+                },
+                {
+                    "r_br": "20",
+                    "tekst": "тој нека знае дека оној што обрати грешник од лажлив пат, спасува една душа од смрт и ќе покрие многу гревови.",
+                    "referenci": [
+                        {
+                            "referenca": "Ез 3,20-21",
+                            "meta_link": "Kniga37_Ez.xhtml#g3s20"
+                        },
+                        {
+                            "referenca": "Изреки 10,12",
+                            "meta_link": "Kniga27_Izreki.xhtml#g10s12"
+                        },
+                        {
+                            "referenca": "1 Тим 4,16",
+                            "meta_link": "Kniga65_1Tim.xhtml#g4s16"
+                        },
+                        {
+                            "referenca": "1 Птр 4,8",
+                            "meta_link": "Kniga71_1Ptr.xhtml#g4s8"
+                        },
+                        {
+                            "referenca": "1 Јн 5,16",
+                            "meta_link": "Kniga73_1Jn.xhtml#g5s16"
+                        }
+                    ]
+                }
+            ],
+            "r_br": "5"
+        }
+    ],
+    "kratko_ime": "Јаков",
+    "celo_ime": "Послание на апостол Јаков",
+    "kratenka": "Јк",
+    "naslov": "ПОСЛАНИЕ НА АПОСТОЛ ЈАКОВ",
+    "meta_fajl": "Kniga70_Jk"
+}
