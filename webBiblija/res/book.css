@@ -1,3 +1,7 @@
+.nav {
+    margin-left: 35vh;
+}
+
 body {
     width: 100%;
     text-align: justify;
@@ -16,7 +20,7 @@ body {
     font-size: 1em;
     line-height: 1.2;
     padding-left: 0;
-    padding-right: 0;
+    padding-right: 20px;
     margin: 0 15pt;
     overflow-y: scroll;
     height: 95vh;
