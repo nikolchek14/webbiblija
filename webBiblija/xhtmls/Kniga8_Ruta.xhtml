@@ -4,8 +4,27 @@
 <head>
     <title>Sveto Pismo - Biblija</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link href="../Styles/stylesheet.css" rel="stylesheet" type="text/css" />
-    <link href="../res/book.css" rel="stylesheet" type="text/css" />
+        <link href="../res/book.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+    //<![CDATA[
+        function handleReferenca(el, event) {
+            event.preventDefault();
+            const myref = el.href.split("#")[0]+"?isFrame=True#"+el.href.split("#")[1]
+            document.getElementById('refFrame').setAttribute("src", myref);
+            
+            return false;
+        }
+        const urlParams = new URLSearchParams(window.location.search);
+        const isFrame = urlParams.get('isFrame');
+        if(isFrame) {
+            var cssLink = document.createElement("link");
+            cssLink.href = "../res/frame.css"; 
+            cssLink.rel = "stylesheet"; 
+            cssLink.type = "text/css"; 
+            document.head.appendChild(cssLink);
+        }
+        //]]>
+    </script>
 </head>
 
 <body>
@@ -732,6 +751,8 @@
             <span class="stih_tekst">Овид го роди Јесеј; Јесеј го роди Давид.</span>
         </span>
     </p>
-</div></body>
+</div><iframe name="refFrame" id="refFrame" src="Kniga1_1Mojs.xhtml?isFrame=True#g11s22" title="Referenci" 
+    frameborder="0" border="0" cellspacing="0"></iframe>
+</body>
 
 </html>

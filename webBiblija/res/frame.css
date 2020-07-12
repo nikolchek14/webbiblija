@@ -1,0 +1,21 @@
+body {
+    overflow-x: hidden;
+}
+
+.body {
+    width: 95% !important;
+    text-align: justify !important;
+    display: inline-block !important;
+    font-size: 1em !important;
+    line-height: 1.2 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: 0 5pt;
+    overflow-y: scroll;
+}
+iframe {
+    display: none !important;
+}
+.nav {
+    display: none !important;
+}

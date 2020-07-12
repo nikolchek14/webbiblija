@@ -2,10 +2,34 @@
     margin-left: 35vh;
 }
 
+iframe {
+    width: calc(100% - 120vh);
+    float: right;
+    height: 90vh;
+    margin-right: 5vh;
+}
+
+iframe .body {
+    width: 100%;
+    text-align: justify;
+    display: inline-block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt;
+}
+iframe > iframe {
+    display: none;
+}
+iframe > .nav {
+    display: none;
+}
+
 body {
     width: 100%;
     text-align: justify;
-    display: block;
+    display: inline-block;
     font-size: 1em;
     line-height: 1.2;
     padding-left: 0;
@@ -16,7 +40,7 @@ body {
 .body {
     width: 100vh;
     text-align: justify;
-    display: block;
+    display: inline-block;
     font-size: 1em;
     line-height: 1.2;
     padding-left: 0;

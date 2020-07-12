@@ -4,8 +4,27 @@
 <head>
     <title>Sveto Pismo - Biblija</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link href="../Styles/stylesheet.css" rel="stylesheet" type="text/css" />
-    <link href="../res/book.css" rel="stylesheet" type="text/css" />
+        <link href="../res/book.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+    //<![CDATA[
+        function handleReferenca(el, event) {
+            event.preventDefault();
+            const myref = el.href.split("#")[0]+"?isFrame=True#"+el.href.split("#")[1]
+            document.getElementById('refFrame').setAttribute("src", myref);
+            
+            return false;
+        }
+        const urlParams = new URLSearchParams(window.location.search);
+        const isFrame = urlParams.get('isFrame');
+        if(isFrame) {
+            var cssLink = document.createElement("link");
+            cssLink.href = "../res/frame.css"; 
+            cssLink.rel = "stylesheet"; 
+            cssLink.type = "text/css"; 
+            document.head.appendChild(cssLink);
+        }
+        //]]>
+    </script>
 </head>
 
 <body>
@@ -32,20 +51,20 @@
         <span class="stih">
             <span class="glava_broj" id="g1">1</span>
         <span class="stih_tekst">Павле, Силван и Тимотеј до црквата на Солуњаните во Бог Отецот наш и Господ Исус Христос:</span>
-        <a epub:type="noteref" href="Kniga55_Dela.xhtml#g15s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga55_Dela.xhtml#g15s22">
             <sub class="referenci">Дела 15,22 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga55_Dela.xhtml#g16s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga55_Dela.xhtml#g16s1">
             <sub class="referenci">Дела 16,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g1s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g1s1">
             <sub class="referenci">1 Сол 1,1 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s2">2</sup>
             <span class="stih_tekst">благодат вам и мир од Бог Отецот наш и Господ Исус Христос!</span>
-        <a epub:type="noteref" href="Kniga56_Rim.xhtml#g1s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga56_Rim.xhtml#g1s7">
             <sub class="referenci">Рим 1,7 </sub>
         </a>
         </span>
@@ -53,154 +72,154 @@
         <span class="stih">
             <sup class="stih_broj" id="g1s3">3</sup>
             <span class="stih_tekst">Должни сме секогаш да Му благодариме на Бога за вас, браќа, онака како што прилега, затоа што верата ваша необично многу расте, и заемната љубов кај сите вас изобилува,</span>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g1s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g1s2">
             <sub class="referenci">1 Сол 1,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g3s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g3s6">
             <sub class="referenci">1 Сол 3,6.12 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s4">4</sup>
             <span class="stih_tekst">така што ние самите се фалиме со вас во Божјите цркви за вашето трпение и вера и покрај сите прогони и маки, што ги поднесувате:</span>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g1s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g1s2">
             <sub class="referenci">1 Кор 1,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga58_2Kor.xhtml#g7s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga58_2Kor.xhtml#g7s4">
             <sub class="referenci">2 Кор 7,4 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g2s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g2s19">
             <sub class="referenci">1 Сол 2,19-20 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga65_1Tim.xhtml#g6s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga65_1Tim.xhtml#g6s11">
             <sub class="referenci">1 Тим 6,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga77_Otkr.xhtml#g1s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga77_Otkr.xhtml#g1s9">
             <sub class="referenci">Откр 1,9 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s5">5</sup>
             <span class="stih_tekst">тоа е доказ за праведниот Божји суд дека вие ќе се удостоите со царството Божјо за кое страдате.</span>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g4s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g4s17">
             <sub class="referenci">Мт 4,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g5s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g5s10">
             <sub class="referenci">Мт 5,10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga53_Lk.xhtml#g20s35">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga53_Lk.xhtml#g20s35">
             <sub class="referenci">Лк 20,35 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g2s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g2s12">
             <sub class="referenci">1 Сол 2,12.14 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s6">6</sup>
             <span class="stih_tekst">Бидејќи справедливо е пред Бога да им ги врати маките ваши на оние што ве мачеа,</span>
-        <a epub:type="noteref" href="Kniga61_Fil.xhtml#g1s28">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga61_Fil.xhtml#g1s28">
             <sub class="referenci">Фил 1,28 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga77_Otkr.xhtml#g18s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga77_Otkr.xhtml#g18s6">
             <sub class="referenci">Откр 18,6-7 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s7">7</sup>
             <span class="stih_tekst">а вам, на мачените, да ви возврати спокојство заедно со нас, кога Господ Исус ќе се јави од небото со ангелите на Својата сила,</span>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g1s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g1s7">
             <sub class="referenci">1 Кор 1,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g3s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g3s13">
             <sub class="referenci">1 Сол 3,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g4s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g4s16">
             <sub class="referenci">1 Сол 4,16 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s8">8</sup>
             <span class="stih_tekst">во распламнат оган да им се одмаздува на оние кои не Го познаваат Бога, кои не го послушаа Евангелието на нашиот Господ Исус Христос.</span>
-        <a epub:type="noteref" href="Kniga2_2Mojs.xhtml#g3s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga2_2Mojs.xhtml#g3s2">
             <sub class="referenci">2 Мојс 3,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g66s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g66s4">
             <sub class="referenci">Ис 66,4.15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga33_Er.xhtml#g10s25">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga33_Er.xhtml#g10s25">
             <sub class="referenci">Ер 10,25 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g79s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g79s6">
             <sub class="referenci">Пс 79,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g7s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g7s9">
             <sub class="referenci">Дан 7,9-11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga56_Rim.xhtml#g1s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga56_Rim.xhtml#g1s5">
             <sub class="referenci">Рим 1,5 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga56_Rim.xhtml#g10s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga56_Rim.xhtml#g10s16">
             <sub class="referenci">Рим 10,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga71_1Ptr.xhtml#g4s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga71_1Ptr.xhtml#g4s17">
             <sub class="referenci">1 Птр 4,17 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s9">9</sup>
             <span class="stih_tekst">Тие со вечна погибел ќе бидат казнети далеку од лицето на Господ и од славата на Неговата моќ,</span>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g2s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g2s10">
             <sub class="referenci">Ис 2,10.19.21 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s10">10</sup>
             <span class="stih_tekst">кога ќе дојде Тој за да биде прославен во оној ден сред Своите светии, и да Му се восхитуваат сите оние што поверуваа, а исто така и вие, бидејќи со вера го примивте нашето сведоштво.</span>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g2s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g2s11">
             <sub class="referenci">Ис 2,11-17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g67s34">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g67s34">
             <sub class="referenci">Пс 67,34 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g89s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g89s8">
             <sub class="referenci">Пс 89,8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga62_Kol.xhtml#g3s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga62_Kol.xhtml#g3s4">
             <sub class="referenci">Кол 3,4 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g2s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g2s12">
             <sub class="referenci">1 Сол 2,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g3s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g3s13">
             <sub class="referenci">1 Сол 3,13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s11">11</sup>
             <span class="stih_tekst">Затоа и се молиме секогаш за вас да ве удостои нашиот Бог за звањето и да ја исполни со сила секоја желба за добрина и секое дело на верата,</span>
-        <a epub:type="noteref" href="Kniga61_Fil.xhtml#g2s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga61_Fil.xhtml#g2s13">
             <sub class="referenci">Фил 2,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga62_Kol.xhtml#g1s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga62_Kol.xhtml#g1s9">
             <sub class="referenci">Кол 1,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g1s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g1s3">
             <sub class="referenci">1 Сол 1,3 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s12">12</sup>
             <span class="stih_tekst">та да се прослави во вас името на нашиот Господ Исус Христос, и вие во Него по благодатта на нашиот Бог и на Господ Исус Христос.</span>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g24s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g24s15">
             <sub class="referenci">Ис 24,15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g66s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g66s5">
             <sub class="referenci">Ис 66,5 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga50_Mal.xhtml#g1s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga50_Mal.xhtml#g1s11">
             <sub class="referenci">Мал 1,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga54_Jn.xhtml#g17s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga54_Jn.xhtml#g17s22">
             <sub class="referenci">Јн 17,22.24 </sub>
         </a>
         </span>
@@ -210,165 +229,165 @@
         <span class="stih">
             <span class="glava_broj" id="g2">2</span>
         <span class="stih_tekst">А што се однесува до доаѓањето на нашиот Господ Исус Христос и нашето собирање кај Него, ве молам, браќа,</span>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g24s31">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g24s31">
             <sub class="referenci">Мт 24,31 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g15s23">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g15s23">
             <sub class="referenci">1 Кор 15,23 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s2">2</sup>
             <span class="stih_tekst">да не се поколебате лесно во мислите свои и да ве обзема ужас, било поради некој дух, било поради некој збор, или преку послание, небаре како од нас испратено, дека божем веќе настапил Христовиот ден.</span>
-        <a epub:type="noteref" href="Kniga64_2Sol.xhtml#g3s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga64_2Sol.xhtml#g3s17">
             <sub class="referenci">2 Сол 3,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga52_Mk.xhtml#g13s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga52_Mk.xhtml#g13s7">
             <sub class="referenci">Мк 13,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g1s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g1s8">
             <sub class="referenci">1 Кор 1,8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g2s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g2s19">
             <sub class="referenci">1 Сол 2,19 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g3s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g3s13">
             <sub class="referenci">1 Сол 3,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g4s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g4s15">
             <sub class="referenci">1 Сол 4,15-17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g5s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g5s2">
             <sub class="referenci">1 Сол 5,2.4 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s3">3</sup>
             <span class="stih_tekst">Никој да не ве измами на ниеден начин; зашто оној ден нема да настапи додека најнапред не дојде отпаѓање и не се открие Човекот на гревот, Синот на погибелта,</span>
-        <a epub:type="noteref" href="Kniga54_Jn.xhtml#g17s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga54_Jn.xhtml#g17s12">
             <sub class="referenci">Јн 17,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga60_Efes.xhtml#g5s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga60_Efes.xhtml#g5s6">
             <sub class="referenci">Ефес 5,6-8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga65_1Tim.xhtml#g4s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga65_1Tim.xhtml#g4s1">
             <sub class="referenci">1 Тим 4,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga77_Otkr.xhtml#g13s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga77_Otkr.xhtml#g13s5">
             <sub class="referenci">Откр 13,5 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s4">4</sup>
             <span class="stih_tekst">кој се противи и се превознесува над сѐ што се нарекува Бог или светост, за да седне како бог во Божјиот храм, претставувајќи се себе самиот како Бог.</span>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g14s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g14s13">
             <sub class="referenci">Ис 14,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga37_Ez.xhtml#g28s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga37_Ez.xhtml#g28s2">
             <sub class="referenci">Ез 28,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g7s25">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g7s25">
             <sub class="referenci">Дан 7,25 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g8s25">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g8s25">
             <sub class="referenci">Дан 8,25 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g11s36">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g11s36">
             <sub class="referenci">Дан 11,36 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga77_Otkr.xhtml#g13s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga77_Otkr.xhtml#g13s5">
             <sub class="referenci">Откр 13,5 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s5">5</sup>
             <span class="stih_tekst">Не помните ли дека уште кога бев кај вас ви зборував за тоа?</span>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g3s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g3s4">
             <sub class="referenci">1 Сол 3,4 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s6">6</sup>
             <span class="stih_tekst">Сега знаете што го задржа него да се открие во свое време.</span>
-        <a epub:type="noteref" href="Kniga77_Otkr.xhtml#g20s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga77_Otkr.xhtml#g20s7">
             <sub class="referenci">Откр 20,7-10 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s7">7</sup>
             <span class="stih_tekst">Тајната на беззаконието веќе дејствува, само тоа нема да биде извршено додека не се отргне оној што ја задржува сега;</span>
-        <a epub:type="noteref" href="Kniga52_Mk.xhtml#g13s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga52_Mk.xhtml#g13s10">
             <sub class="referenci">Мк 13,10 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s8">8</sup>
             <span class="stih_tekst">тогаш ќе се открие и беззаконикот, кого што Господ (Исус) ќе го убие со здивот на устата Своја и преку појавата на Своето доаѓање ќе го истреби.</span>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g11s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g11s4">
             <sub class="referenci">Ис 11,4 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g32s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g32s6">
             <sub class="referenci">Пс 32,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g4s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g4s9">
             <sub class="referenci">Јов 4,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga77_Otkr.xhtml#g19s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga77_Otkr.xhtml#g19s11">
             <sub class="referenci">Откр 19,11-21 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s9">9</sup>
             <span class="stih_tekst">Доаѓањето на тој беззаконик ќе биде по дејство на сатаната, со секаква сила и знаци и лажни чудеса,</span>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g24s24">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g24s24">
             <sub class="referenci">Мт 24,24 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga54_Jn.xhtml#g4s48">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga54_Jn.xhtml#g4s48">
             <sub class="referenci">Јн 4,48 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga77_Otkr.xhtml#g13s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga77_Otkr.xhtml#g13s13">
             <sub class="referenci">Откр 13,13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s10">10</sup>
             <span class="stih_tekst">и со секакво неправедно измамување меѓу оние кои загинуваат, затоа што не ја примиле љубовта на вистината та да би се спасиле.</span>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g24s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g24s12">
             <sub class="referenci">Мт 24,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga54_Jn.xhtml#g8s34">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga54_Jn.xhtml#g8s34">
             <sub class="referenci">Јн 8,34-44 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g1s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g1s18">
             <sub class="referenci">1 Кор 1,18 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga60_Efes.xhtml#g2s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga60_Efes.xhtml#g2s2">
             <sub class="referenci">Ефес 2,2 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s11">11</sup>
             <span class="stih_tekst">И затоа Бог ќе им испрати сила на заблуда за да поверуваат на лагата,</span>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g22s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g22s22">
             <sub class="referenci">3 Цар 22,22 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g6s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g6s10">
             <sub class="referenci">Ис 6,10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga54_Jn.xhtml#g3s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga54_Jn.xhtml#g3s19">
             <sub class="referenci">Јн 3,19 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga56_Rim.xhtml#g1s28">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga56_Rim.xhtml#g1s28">
             <sub class="referenci">Рим 1,28 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga66_2Tim.xhtml#g4s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga66_2Tim.xhtml#g4s4">
             <sub class="referenci">2 Тим 4,4 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s12">12</sup>
             <span class="stih_tekst">та да бидат осудени сите кои не поверуваа во вистината, а ја засакаа неправдата.</span>
-        <a epub:type="noteref" href="Kniga54_Jn.xhtml#g9s39">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga54_Jn.xhtml#g9s39">
             <sub class="referenci">Јн 9,39 </sub>
         </a>
         </span>
@@ -376,65 +395,65 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s13">13</sup>
             <span class="stih_tekst">Ние, пак, сме должни да Му благодариме на Бога за вас секогаш, возљубени од Господ браќа, затоа што од почетокот, преку осветувањето од Светиот Дух и преку верата во вистината, Бог ве избра за спасение,</span>
-        <a epub:type="noteref" href="Kniga64_2Sol.xhtml#g1s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga64_2Sol.xhtml#g1s3">
             <sub class="referenci">2 Сол 1,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga54_Jn.xhtml#g15s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga54_Jn.xhtml#g15s16">
             <sub class="referenci">Јн 15,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga60_Efes.xhtml#g1s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga60_Efes.xhtml#g1s4">
             <sub class="referenci">Ефес 1,4 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g1s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g1s2">
             <sub class="referenci">1 Сол 1,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g2s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g2s13">
             <sub class="referenci">1 Сол 2,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga71_1Ptr.xhtml#g1s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga71_1Ptr.xhtml#g1s2">
             <sub class="referenci">1 Птр 1,2 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s14">14</sup>
             <span class="stih_tekst">кон кое ве повика преку нашето Евангелие за да ја придобиете славата на нашиот Господ Исус Христос.</span>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g2s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g2s12">
             <sub class="referenci">1 Сол 2,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g4s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g4s7">
             <sub class="referenci">1 Сол 4,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g5s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g5s9">
             <sub class="referenci">1 Сол 5,9 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s15">15</sup>
             <span class="stih_tekst">И така, браќа, стојте и држете ги преданијата што ги научивте било преку нашето слово, било преку нашето послание.</span>
-        <a epub:type="noteref" href="Kniga64_2Sol.xhtml#g3s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga64_2Sol.xhtml#g3s6">
             <sub class="referenci">2 Сол 3,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g11s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g11s2">
             <sub class="referenci">1 Кор 11,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g16s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g16s13">
             <sub class="referenci">1 Кор 16,13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s16">16</sup>
             <span class="stih_tekst">А сам Господ наш, Исус Христос, и Бог и Отец наш, Кој нѐ возљуби и преку благодатта Своја ни даде вечна утеха и добра надеж,</span>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g3s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g3s11">
             <sub class="referenci">1 Сол 3,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga71_1Ptr.xhtml#g1s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga71_1Ptr.xhtml#g1s3">
             <sub class="referenci">1 Птр 1,3 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s17">17</sup>
             <span class="stih_tekst">нека ги утеши срцата ваши и да ве утврди во секое слово и добро дело!</span>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g3s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g3s12">
             <sub class="referenci">1 Сол 3,12-13 </sub>
         </a>
         </span>
@@ -444,16 +463,16 @@
         <span class="stih">
             <span class="glava_broj" id="g3">3</span>
         <span class="stih_tekst">Потоа, браќа, молете Му се на Бога за нас, та словото Господово да се распространува и да се слави на секое место, како и меѓу вас,</span>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g147s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g147s4">
             <sub class="referenci">Пс 147,4 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga60_Efes.xhtml#g6s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga60_Efes.xhtml#g6s19">
             <sub class="referenci">Ефес 6,19 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga62_Kol.xhtml#g4s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga62_Kol.xhtml#g4s3">
             <sub class="referenci">Кол 4,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g5s25">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g5s25">
             <sub class="referenci">1 Сол 5,25 </sub>
         </a>
         </span>
@@ -464,29 +483,29 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s3">3</sup>
             <span class="stih_tekst">Но верен е Господ Кој ќе ве утврди и запази од лукавиот.</span>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g6s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g6s13">
             <sub class="referenci">Мт 6,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g1s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g1s9">
             <sub class="referenci">1 Кор 1,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g5s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g5s22">
             <sub class="referenci">1 Сол 5,22.24 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga69_Evr.xhtml#g10s23">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga69_Evr.xhtml#g10s23">
             <sub class="referenci">Евр 10,23 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga73_1Jn.xhtml#g2s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga73_1Jn.xhtml#g2s14">
             <sub class="referenci">1 Јн 2,14 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s4">4</sup>
             <span class="stih_tekst">Ние сме уверени за вас во Господ дека го вршите и дека ќе го вршите она што ви го заповедаме.</span>
-        <a epub:type="noteref" href="Kniga58_2Kor.xhtml#g7s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga58_2Kor.xhtml#g7s15">
             <sub class="referenci">2 Кор 7,15-16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga59_Gal.xhtml#g5s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga59_Gal.xhtml#g5s10">
             <sub class="referenci">Гал 5,10 </sub>
         </a>
         </span>
@@ -497,49 +516,49 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s6">6</sup>
             <span class="stih_tekst">Ви заповедам, браќа, исто така во името на нашиот Господ Исус Христос, да се двоите од секој брат кој живее неуредно, а не според преданието што го добивте од нас!</span>
-        <a epub:type="noteref" href="Kniga64_2Sol.xhtml#g2s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga64_2Sol.xhtml#g2s15">
             <sub class="referenci">2 Сол 2,15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga64_2Sol.xhtml#g3s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga64_2Sol.xhtml#g3s14">
             <sub class="referenci">2 Сол 3,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g18s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g18s17">
             <sub class="referenci">Мт 18,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga56_Rim.xhtml#g16s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga56_Rim.xhtml#g16s17">
             <sub class="referenci">Рим 16,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g5s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g5s9">
             <sub class="referenci">1 Кор 5,9.11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g5s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g5s14">
             <sub class="referenci">1 Сол 5,14 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s7">7</sup>
             <span class="stih_tekst">Сами знаете како треба да се угледате на нас, бидејќи ние не живеевме неуредно кај вас,</span>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g1s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g1s6">
             <sub class="referenci">1 Сол 1,6 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s8">8</sup>
             <span class="stih_tekst">ниту, пак, кај некого јадевме леб дарум, туку работевме со труд и мака дење и ноќе за да не му додеваме на никого од вас.</span>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g6s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g6s11">
             <sub class="referenci">Мт 6,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga55_Dela.xhtml#g18s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga55_Dela.xhtml#g18s3">
             <sub class="referenci">Дела 18,3 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s9">9</sup>
             <span class="stih_tekst">И не поради тоа што немавме власт, туку за да бидеме пример, та да се угледате на нас.</span>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g10s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g10s10">
             <sub class="referenci">Мт 10,10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g4s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g4s16">
             <sub class="referenci">1 Кор 4,16 </sub>
         </a>
         </span>
@@ -550,24 +569,24 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s11">11</sup>
             <span class="stih_tekst">Но слушаме дека некои од вас живеат неуредно, ништо не работат, туку се занимаваат со празни работи;</span>
-        <a epub:type="noteref" href="Kniga64_2Sol.xhtml#g3s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga64_2Sol.xhtml#g3s6">
             <sub class="referenci">2 Сол 3,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga65_1Tim.xhtml#g5s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga65_1Tim.xhtml#g5s13">
             <sub class="referenci">1 Тим 5,13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s12">12</sup>
             <span class="stih_tekst">на таквите им заповедаме и ги молиме во нашиот Господ Исус Христос да работат тивко и да си го јадат својот леб.</span>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g3s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g3s19">
             <sub class="referenci">1 Мојс 3,19 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s13">13</sup>
             <span class="stih_tekst">А вам, браќа, да не ви здодејува да правите добро.</span>
-        <a epub:type="noteref" href="Kniga59_Gal.xhtml#g6s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga59_Gal.xhtml#g6s9">
             <sub class="referenci">Гал 6,9 </sub>
         </a>
         </span>
@@ -579,56 +598,58 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s15">15</sup>
             <span class="stih_tekst">но не сметајте го за непријател, туку поучувајте го како брат.</span>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g18s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g18s15">
             <sub class="referenci">Мт 18,15-18 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga58_2Kor.xhtml#g2s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga58_2Kor.xhtml#g2s7">
             <sub class="referenci">2 Кор 2,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga59_Gal.xhtml#g6s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga59_Gal.xhtml#g6s1">
             <sub class="referenci">Гал 6,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g5s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g5s14">
             <sub class="referenci">1 Сол 5,14 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s16">16</sup>
             <span class="stih_tekst">А Сам Господ на мирот нека ви даде мир секогаш и во секое дело! Господ нека е со сите вас!</span>
-        <a epub:type="noteref" href="Kniga8_Ruta.xhtml#g2s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga8_Ruta.xhtml#g2s4">
             <sub class="referenci">Рута 2,4 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga56_Rim.xhtml#g15s33">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga56_Rim.xhtml#g15s33">
             <sub class="referenci">Рим 15,33 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g5s23">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g5s23">
             <sub class="referenci">1 Сол 5,23 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s17">17</sup>
             <span class="stih_tekst">Своерачен поздрав од мене, Павле; тоа е белег во секое послание; јас пишувам така.</span>
-        <a epub:type="noteref" href="Kniga64_2Sol.xhtml#g2s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga64_2Sol.xhtml#g2s2">
             <sub class="referenci">2 Сол 2,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga57_1Kor.xhtml#g16s21">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga57_1Kor.xhtml#g16s21">
             <sub class="referenci">1 Кор 16,21 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga59_Gal.xhtml#g6s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga59_Gal.xhtml#g6s11">
             <sub class="referenci">Гал 6,11 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s18">18</sup>
             <span class="stih_tekst">Благодатта на нашиот Господ Исус Христос нека биде со сите вас. Амин.</span>
-        <a epub:type="noteref" href="Kniga56_Rim.xhtml#g16s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga56_Rim.xhtml#g16s20">
             <sub class="referenci">Рим 16,20 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga63_1Sol.xhtml#g5s28">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga63_1Sol.xhtml#g5s28">
             <sub class="referenci">1 Сол 5,28 </sub>
         </a>
         </span>
     </p>
-</div></body>
+</div><iframe name="refFrame" id="refFrame" src="Kniga1_1Mojs.xhtml?isFrame=True#g11s22" title="Referenci" 
+    frameborder="0" border="0" cellspacing="0"></iframe>
+</body>
 
 </html>

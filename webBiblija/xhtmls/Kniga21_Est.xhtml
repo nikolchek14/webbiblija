@@ -4,8 +4,27 @@
 <head>
     <title>Sveto Pismo - Biblija</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link href="../Styles/stylesheet.css" rel="stylesheet" type="text/css" />
-    <link href="../res/book.css" rel="stylesheet" type="text/css" />
+        <link href="../res/book.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+    //<![CDATA[
+        function handleReferenca(el, event) {
+            event.preventDefault();
+            const myref = el.href.split("#")[0]+"?isFrame=True#"+el.href.split("#")[1]
+            document.getElementById('refFrame').setAttribute("src", myref);
+            
+            return false;
+        }
+        const urlParams = new URLSearchParams(window.location.search);
+        const isFrame = urlParams.get('isFrame');
+        if(isFrame) {
+            var cssLink = document.createElement("link");
+            cssLink.href = "../res/frame.css"; 
+            cssLink.rel = "stylesheet"; 
+            cssLink.type = "text/css"; 
+            document.head.appendChild(cssLink);
+        }
+        //]]>
+    </script>
 </head>
 
 <body>
@@ -30,48 +49,48 @@
         <span class="stih">
             <span class="glava_broj" id="g1">1</span>
         <span class="stih_tekst">а) Во втората година од царувањето на Артаксеркс Велики, а во првиот ден од месецот нисан, сон виде Мардохеј, синот Јаиров, Семеев, Кисеев, од Венијаминовото колено. б) Овој Јудеец, кој живееше во градот Суза, беше голем човек, а служеше во царскиот дворец. в) Тој беше еден од плениците, кои Навуходоносор, вавилонскиот цар, ги беше запленил во Ерусалим со јудејскиот цар Јехонија. г) А сонот му беше ваков: страшен шум, грмотевица, земјотрес и немир по земјата. д) А, ете, излегоа две големи змии подготвени да се борат една со друга. ѓ) Нивната борба беше голема, а по нивната борба сите народи се подготвија за војна, за да завојуваат против народот на праведните. е) Потоа настана ден на темнина и мрак, скрб и притисок, страдање и голем немир по земјата. ж) Се вознемири сиот народ на праведните и, плашејќи се од зло за себеси, се подготвија за загинат и повикаа кон Господ. з) Од нивниот повик надојде како од мал извор, голема река со многу вода. ѕ) Се појави светлина и огреа сонце, се изгдигнаа понизните и ги истребија силните и горделивите. и) Мардохеј, откако се разбуди од тој сон, кој го покажуваше она што Бог сакаше да го изврши, го задржа сонот во срцето и посака да го разбере во сите негови делови до другата ноќ. ј) Мардохеј живееше во дворецот заедно со двајца царски евнуси, Гават и Тара, кои го чуваа дворецот, к) и кога ги слушна нивните разговори и се распраша за нивните намери, дозна дека тие се готват да стават рака врз царот Артаксеркс, па му јави за нив на царот. л) А царот ги распраша двајцата евнуси и откако сѐ признаа, беа погубени. љ) Царот го запиша тој настан за спомен. Тој настан го запиша и Мардохеј. м) И царот му нареди на Модехај да служи во дворецот, и му даде и подароци за тоа. н) Пред царот тогаш беше славен Аман, синот на Амадат Вугеецот. Тој настојуваше да му нанесе зло на Мардохеј и на неговиот народ заради двајцата царски евнуси. Потоа, за време на владеењето на Ксеркс, – оној Ксеркс кој царуваше над сто дваесет и седум области од Индија до Етиопија, – </span>
-        <a epub:type="noteref" href="Kniga15_1Ezd.xhtml#g4s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga15_1Ezd.xhtml#g4s6">
             <sub class="referenci">1 Езд 4,6-24 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s2">2</sup>
             <span class="stih_tekst">во тоа време, кога царот Ксеркс седеше на својот царски престол што е во престолнината Суза,</span>
-        <a epub:type="noteref" href="Kniga5_5Mojs.xhtml#g17s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga5_5Mojs.xhtml#g17s18">
             <sub class="referenci">5 Мојс 17,18 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga12_4Car.xhtml#g11s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga12_4Car.xhtml#g11s19">
             <sub class="referenci">4 Цар 11,19 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g8s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g8s2">
             <sub class="referenci">Дан 8,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga18_Neem.xhtml#g1s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga18_Neem.xhtml#g1s1">
             <sub class="referenci">Неем 1,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga14_2Let.xhtml#g7s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga14_2Let.xhtml#g7s18">
             <sub class="referenci">2 Лет 7,18 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s3">3</sup>
             <span class="stih_tekst">во третата година на своето царување, тој приреди гозба за сите свои кнезови и слуги, за главните војводи на персиската и на мидиската војска и на своите обласни управници,</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g5s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g5s4">
             <sub class="referenci">Ест 5,4.5.6.8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g5s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g5s12">
             <sub class="referenci">Ест 5,12.14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g7s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g7s1">
             <sub class="referenci">Ест 7,1.2.7.8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g8s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g8s9">
             <sub class="referenci">Ест 8,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g9s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g9s3">
             <sub class="referenci">Ест 9,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g11s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g11s9">
             <sub class="referenci">Ест 11,9 </sub>
         </a>
         </span>
@@ -103,65 +122,65 @@
         <span class="stih">
             <sup class="stih_broj" id="g1s10">10</sup>
             <span class="stih_tekst">На седмиот ден, кога срцето на царот се развесели од виното, тој им рече на Мехуман, Бизета, Харвона, Бигетај, Авагета, Зетар и Каркас – седум евнуси, што служеа пред царот Ксеркс,</span>
-        <a epub:type="noteref" href="Kniga7_Sud.xhtml#g16s25">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga7_Sud.xhtml#g16s25">
             <sub class="referenci">Суд 16,25 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga9_1Car.xhtml#g25s36">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga9_1Car.xhtml#g25s36">
             <sub class="referenci">1 Цар 25,36 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga10_2Car.xhtml#g13s28">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga10_2Car.xhtml#g13s28">
             <sub class="referenci">2 Цар 13,28 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g21s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g21s7">
             <sub class="referenci">3 Цар 21,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g15s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g15s15">
             <sub class="referenci">Изреки 15,15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g9s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g9s7">
             <sub class="referenci">Проп 9,7 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s11">11</sup>
             <span class="stih_tekst">да ја доведат царицата Астина пред царевото лице со царски венец за да им ја покаже нејзината убавина на народите и на кнезовите, зашто таа беше многу убава.</span>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g24s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g24s16">
             <sub class="referenci">1 Мојс 24,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g26s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g26s7">
             <sub class="referenci">1 Мојс 26,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga10_2Car.xhtml#g11s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga10_2Car.xhtml#g11s2">
             <sub class="referenci">2 Цар 11,2 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s12">12</sup>
             <span class="stih_tekst">Но царицата Астина не сакаше да дојде според царевата наредба, соопштена преку евнусите.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g3s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g3s5">
             <sub class="referenci">Ест 3,5 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g5s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g5s9">
             <sub class="referenci">Ест 5,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g7s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g7s7">
             <sub class="referenci">Ест 7,7 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s13">13</sup>
             <span class="stih_tekst">Царот многу се разгневи, и јароста пламна во него. И им рече царот на мудреците, кои ги познаваа поранешните времиња, зашто царските дела се разгледуваа пред сите што знаеја закон и правда,</span>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g2s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g2s2">
             <sub class="referenci">Дан 2,2.27 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g5s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g5s7">
             <sub class="referenci">Дан 5,7 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s14">14</sup>
             <span class="stih_tekst">а негови најблиски тогаш беа: Каршена, Ситар, Адмата, Тарсис, Мерес, Марсена, Мемухан – седум персиски и мидиски кнезови, кои седеа до царот на прво место:</span>
-        <a epub:type="noteref" href="Kniga10_2Car.xhtml#g25s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga10_2Car.xhtml#g25s19">
             <sub class="referenci">2 Цар 25,19 </sub>
         </a>
         </span>
@@ -184,13 +203,13 @@
         <span class="stih">
             <sup class="stih_broj" id="g1s19">19</sup>
             <span class="stih_tekst">Ако му е на царот угодно, нека издаде царска заповед што ќе се запише во персиските и мидиските закони и да не се менува: дека Астина нема да излегува веќе пред лицето на царот Ксеркс, а нејзиното царско достоинство царот да го предаде на друга, подобра од неа.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g8s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g8s8">
             <sub class="referenci">Ест 8,8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga9_1Car.xhtml#g15s28">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga9_1Car.xhtml#g15s28">
             <sub class="referenci">1 Цар 15,28 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g6s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g6s8">
             <sub class="referenci">Дан 6,8.12 </sub>
         </a>
         </span>
@@ -201,7 +220,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g1s21">21</sup>
             <span class="stih_tekst">Тие зборови му се допаднаа на царот и на кнезовите: и царот постапи според зборовите на Мемухан;</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g2s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g2s4">
             <sub class="referenci">Ест 2,4 </sub>
         </a>
         </span>
@@ -215,14 +234,14 @@
         <span class="stih">
             <span class="glava_broj" id="g2">2</span>
         <span class="stih_tekst">Откако стивна гневот на царот Ксеркс, тој се сети на Астина и на она што го направи таа и за решението за неа.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g7s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g7s10">
             <sub class="referenci">Ест 7,10 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s2">2</sup>
             <span class="stih_tekst">И рекоа царските слуги, што му служеа: „Да се побараат за царот млади и убави девојки,</span>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g1s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g1s2">
             <sub class="referenci">3 Цар 1,2-4 </sub>
         </a>
         </span>
@@ -237,48 +256,48 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s5">5</sup>
             <span class="stih_tekst">Имаше во престолнината Суза еден Јудеец, по име Мардохеј, син на Јаир, син на Семеј, син на Кис, од Венијаминовото племе.</span>
-        <a epub:type="noteref" href="Kniga9_1Car.xhtml#g9s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga9_1Car.xhtml#g9s1">
             <sub class="referenci">1 Цар 9,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga10_2Car.xhtml#g16s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga10_2Car.xhtml#g16s5">
             <sub class="referenci">2 Цар 16,5-7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga10_2Car.xhtml#g16s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga10_2Car.xhtml#g16s13">
             <sub class="referenci">2 Цар 16,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g2s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g2s8">
             <sub class="referenci">3 Цар 2,8-9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g2s36">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g2s36">
             <sub class="referenci">3 Цар 2,36-46 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga15_1Ezd.xhtml#g2s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga15_1Ezd.xhtml#g2s2">
             <sub class="referenci">1 Езд 2,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga18_Neem.xhtml#g7s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga18_Neem.xhtml#g7s7">
             <sub class="referenci">Неем 7,7 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s6">6</sup>
             <span class="stih_tekst">Тој беше преселен од Ерусалим со плениците, протерани заедно со јудејскиот цар Јехонија, што го беше преселил вавилонскиот цар Навуходоносор.</span>
-        <a epub:type="noteref" href="Kniga12_4Car.xhtml#g24s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga12_4Car.xhtml#g24s10">
             <sub class="referenci">4 Цар 24,10-16 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s7">7</sup>
             <span class="stih_tekst">Тој ја воспитуваше Хадаса – односно Естира – ќерка на чичко му, бидејќи таа немаше ни татко, ни мајка. Таа девојка имаше тенка става и убаво лице, а по смртта на татко ѝ, Мардохеј ја прибра кај себе како своја ќерка.</span>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g29s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g29s17">
             <sub class="referenci">1 Мојс 29,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g39s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g39s6">
             <sub class="referenci">1 Мојс 39,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga5_5Mojs.xhtml#g21s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga5_5Mojs.xhtml#g21s11">
             <sub class="referenci">5 Мојс 21,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga9_1Car.xhtml#g25s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga9_1Car.xhtml#g25s3">
             <sub class="referenci">1 Цар 25,3 </sub>
         </a>
         </span>
@@ -289,10 +308,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s9">9</sup>
             <span class="stih_tekst">Таа девојка му се допадна и ја придоби неговата наклоност, и тој побрза да ѝ даде масла и сѐ што ѝ припаѓа, и да ѝ определи седум достојни девојки да бидат покрај неа, во царскиот дом, па ја премести неа и девојките нејзини во најубавото одделение на женскиот дом.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g2s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g2s15">
             <sub class="referenci">Ест 2,15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g1s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g1s3">
             <sub class="referenci">Дан 1,3-5.9 </sub>
         </a>
         </span>
@@ -315,7 +334,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s14">14</sup>
             <span class="stih_tekst">Вечерта таа влегуваше и утредента се враќаше во друг женски дом под надзор на царскиот чувар на наложниците; и веќе не влегуваше кај царот, – освен ако царот ја побараше, и ќе ја повикаа по име.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g4s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g4s11">
             <sub class="referenci">Ест 4,11 </sub>
         </a>
         </span>
@@ -334,10 +353,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s18">18</sup>
             <span class="stih_tekst">И царот им приреди голема гозба на сите свои кнезови и слуги кај него, – гоштевање поради Естира, и им даде олеснувања на областите и раздаде подароци со царска штедрост.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g1s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g1s7">
             <sub class="referenci">Ест 1,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g10s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g10s13">
             <sub class="referenci">3 Цар 10,13 </sub>
         </a>
         </span>
@@ -353,13 +372,13 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s21">21</sup>
             <span class="stih_tekst">Во тоа време, кога Мардохеј седеше пред царската порта, двајцата царски дворјани Бигетан и Тереш, кои го чуваа прагот, се озлобија поради тоа што беше претпочитан Мардохеј, па размислуваа како да стават рака врз царот Ксеркс.</span>
-        <a epub:type="noteref" href="Kniga12_4Car.xhtml#g12s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga12_4Car.xhtml#g12s9">
             <sub class="referenci">4 Цар 12,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga12_4Car.xhtml#g22s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga12_4Car.xhtml#g22s4">
             <sub class="referenci">4 Цар 22,4 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga12_4Car.xhtml#g23s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga12_4Car.xhtml#g23s4">
             <sub class="referenci">4 Цар 23,4 </sub>
         </a>
         </span>
@@ -377,7 +396,7 @@
         <span class="stih">
             <span class="glava_broj" id="g3">3</span>
         <span class="stih_tekst">Потоа царот Ксеркс го возвеличи Вугеецот Аман, син Амадатов, го воздигна и го постави престолот негов погоре од престолите на сите свои кнезови;</span>
-        <a epub:type="noteref" href="Kniga12_4Car.xhtml#g25s28">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga12_4Car.xhtml#g25s28">
             <sub class="referenci">4 Цар 25,28 </sub>
         </a>
         </span>
@@ -404,22 +423,22 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s7">7</sup>
             <span class="stih_tekst">Па свика совет во првиот месец, односно месецот нисан, во дванаесеттата година од владеењето на царот Ксеркс, и фрлаа ждрепка пред Аман од ден на ден и од месец на месец, и падна ждрепката на тринаесеттиот ден од дванаесеттиот месец, односно месецот адар кога требаше да го погубат Мардохеевиот народ.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g9s24">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g9s24">
             <sub class="referenci">Ест 9,24 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g34s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g34s17">
             <sub class="referenci">Ис 34,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga43_Jona.xhtml#g1s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga43_Jona.xhtml#g1s7">
             <sub class="referenci">Јона 1,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g1s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g1s14">
             <sub class="referenci">Изреки 1,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga18_Neem.xhtml#g11s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga18_Neem.xhtml#g11s1">
             <sub class="referenci">Неем 11,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga13_1Let.xhtml#g24s31">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga13_1Let.xhtml#g24s31">
             <sub class="referenci">1 Лет 24,31 </sub>
         </a>
         </span>
@@ -427,16 +446,16 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s8">8</sup>
             <span class="stih_tekst">И Аман му рече на царот Ксеркс:„Има еден народ, распрснат меѓу народите по сите краишта на твоето царство; законите нивни се разликуваат од законите на сите народи, и царските закони тие не ги исполнуваат; па не треба царот така и да ги остави.</span>
-        <a epub:type="noteref" href="Kniga4_4Mojs.xhtml#g23s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga4_4Mojs.xhtml#g23s9">
             <sub class="referenci">4 Мојс 23,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g3s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g3s12">
             <sub class="referenci">Дан 3,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga15_1Ezd.xhtml#g4s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga15_1Ezd.xhtml#g4s12">
             <sub class="referenci">1 Езд 4,12-15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga30_Mudr.xhtml#g2s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga30_Mudr.xhtml#g2s14">
             <sub class="referenci">Мудр 2,14-16 </sub>
         </a>
         </span>
@@ -447,60 +466,60 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s10">10</sup>
             <span class="stih_tekst">Тогаш царот го извади од раката прстенот свој и му го даде на Вугеецот Аман, синот Амадатов за да стави печат на повелбата против Јудејците.</span>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g41s42">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g41s42">
             <sub class="referenci">1 Мојс 41,42 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s11">11</sup>
             <span class="stih_tekst">И му рече царот на Аман: „Ти го предавам тебе тоа сребро и народот; прави со нив што сакаш.”</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g8s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g8s8">
             <sub class="referenci">Ест 8,8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g16s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g16s6">
             <sub class="referenci">1 Мојс 16,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g19s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g19s8">
             <sub class="referenci">1 Мојс 19,8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga7_Sud.xhtml#g10s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga7_Sud.xhtml#g10s15">
             <sub class="referenci">Суд 10,15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga7_Sud.xhtml#g19s24">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga7_Sud.xhtml#g19s24">
             <sub class="referenci">Суд 19,24 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s12">12</sup>
             <span class="stih_tekst">И беа свикани царските писари во првиот месец, во тринаесеттиот негов ден, и беше напишано, како што заповеда Аман, до царските намесници на секоја област, до кнезовите на секој народ, – на секоја област со нејзиното писмо, и до секој народ на јазикот негов: сѐ беше напишано од името на царот Ксеркс и потврдено со печатот од царскиот прстен.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g1s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g1s22">
             <sub class="referenci">Ест 1,22 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s13">13</sup>
             <span class="stih_tekst">И беа испратени писма преку брзоодци до сите царски области за да бидат убиени, погубени и истребени сите Јудејци, од најголем до најмал, деца и жени, во еден ден, во тринаесеттиот ден на дванаесеттиот месец, односно, месец адар, и имотот нивен да биде разграбен. а) Еве препис од тоа писмо: „Големиот цар Ксеркс – до намесниците од Индија до Етиопија, над сто дваесет и седум области и до нивните началници. б) Царувајќи над многу народи и владеејќи над целата вселена, јас сакав, – да не се гордеам со власта, да управувам секогаш кротко и мирно, да го направам животот на поданиците постојано спокоен и, заживувајќи го царството свое мирно и слободно во пределите негови да го востановам саканиот за сите луѓе мир. в) Но, кога ги запрашав советниците, на кој начин да го направам тоа, тогаш Аман, кој кај нас се одликува со мудрост и ужива неизмерлива благонаклоност и кој докажа цврста верност и доби втора по царот чест, г) ни објасни дека меѓу останатите племиња на вселената се вовлекол еден непријателски народ, кој поради законите свои е намразен од сите народи и кој никогаш не ги почитува царските заповеди за да не може да се воспостави успешно беспрекорното управување на царството што го раководиме ние. д) И така, кога дознав дека само тој народ секогаш му се противставува на секој човек, и дека води живот, туѓ на законите, и, противејќи се на нашите намери, извршува најголеми злосторства, така што нашето царство да не може да ја достигне благосостојбата, ѓ) ние заповедавме, оние што ќе бидат посочени во писмата на Аман, кој е поставен како надзорник над робовите, и наш втор татко, целосно да бидат истребени со непријателски меч – сите, заедно со жените и децата, без никакво сожалување или поштедување, во тринаесеттиот ден на дванаесеттиот месец адар оваа година, е) и тие и порано и сега непријателски луѓе, бидејќи во еден ден беа насилно соборени во адот, да не ни пречат отсега натаму да живееме мирно и спокојно докрај.”</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g8s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g8s11">
             <sub class="referenci">Ест 8,11 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s14">14</sup>
             <span class="stih_tekst">Препис од писмото да се испрати до секоја област, како закон, што им се објавува на сите народи за да бидат спремни за оној ден.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g8s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g8s13">
             <sub class="referenci">Ест 8,13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s15">15</sup>
             <span class="stih_tekst">Брзоодците тргнаа брзо со царската заповед. Повелбата беше објавена и во престолнината Суза: а царот и Аман седеа и пиеја, а градот Суза беше вознемирен.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g8s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g8s14">
             <sub class="referenci">Ест 8,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga2_2Mojs.xhtml#g14s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga2_2Mojs.xhtml#g14s3">
             <sub class="referenci">2 Мојс 14,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga40_Joil.xhtml#g1s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga40_Joil.xhtml#g1s18">
             <sub class="referenci">Јоил 1,18 </sub>
         </a>
         </span>
@@ -510,28 +529,28 @@
         <span class="stih">
             <span class="glava_broj" id="g4">4</span>
         <span class="stih_tekst">Кога Мардохеј дозна за сѐ што се правеше, ја раскина облеката, стави врз себе вреќиште и пепел, излезе среде градот и викаше силно и со огорченост:„Се истребува народ во ништо необвинет.”</span>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g37s29">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g37s29">
             <sub class="referenci">1 Мојс 37,29.34 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g44s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g44s13">
             <sub class="referenci">1 Мојс 44,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga7_Sud.xhtml#g11s35">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga7_Sud.xhtml#g11s35">
             <sub class="referenci">Суд 11,35 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga12_4Car.xhtml#g18s37">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga12_4Car.xhtml#g18s37">
             <sub class="referenci">4 Цар 18,37 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g37s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g37s1">
             <sub class="referenci">Ис 37,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga43_Jona.xhtml#g3s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga43_Jona.xhtml#g3s6">
             <sub class="referenci">Јона 3,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g2s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g2s12">
             <sub class="referenci">Јов 2,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga38_Dan.xhtml#g9s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga38_Dan.xhtml#g9s3">
             <sub class="referenci">Дан 9,3 </sub>
         </a>
         </span>
@@ -542,28 +561,28 @@
         <span class="stih">
             <sup class="stih_broj" id="g4s3">3</sup>
             <span class="stih_tekst">Исто така и во секоја област и место, каде и да пристигнеше заповедта на царот и повелбата негова, настануваше голема тага кај Јудејците и пост и плачење и викање; вреќиштата и пепелта им служеа како постела на мнозина.</span>
-        <a epub:type="noteref" href="Kniga10_2Car.xhtml#g12s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga10_2Car.xhtml#g12s16">
             <sub class="referenci">2 Цар 12,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga10_2Car.xhtml#g13s36">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga10_2Car.xhtml#g13s36">
             <sub class="referenci">2 Цар 13,36 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g22s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g22s12">
             <sub class="referenci">Ис 22,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga33_Er.xhtml#g48s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga33_Er.xhtml#g48s5">
             <sub class="referenci">Ер 48,5.38 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga40_Joil.xhtml#g1s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga40_Joil.xhtml#g1s14">
             <sub class="referenci">Јоил 1,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga43_Jona.xhtml#g3s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga43_Jona.xhtml#g3s5">
             <sub class="referenci">Јона 3,5 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga44_Mih.xhtml#g1s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga44_Mih.xhtml#g1s8">
             <sub class="referenci">Мих 1,8.11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga14_2Let.xhtml#g20s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga14_2Let.xhtml#g20s3">
             <sub class="referenci">2 Лет 20,3 </sub>
         </a>
         </span>
@@ -582,14 +601,14 @@
         <span class="stih">
             <sup class="stih_broj" id="g4s7">7</sup>
             <span class="stih_tekst">Мардохеј му раскажа за сѐ што се беше случило со него, и за определеното количество сребро, што Аман го беше ветил да го одмери во царската ризница за да бидат истребени Јудејците;</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g3s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g3s9">
             <sub class="referenci">Ест 3,9 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g4s8">8</sup>
             <span class="stih_tekst">и му врачи препис од повелбата, објавена во Суза, за истребувањето нивно за да ѝ ја покаже на Естира, та таа да дознае за сѐ; притоа ѝ порача да оди кај царот и да му се моли за својот народ, а) да си спомне за дните на својата сиромаштија, кога таа се воспитуваше под неговаа рака – зашто Аман, вториот човек по царот, ги осудил на смрт – б) и да Го повика Господ и да му каже за нив на царот да ги избави од смртта.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g2s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g2s10">
             <sub class="referenci">Ест 2,10 </sub>
         </a>
         </span>
@@ -616,10 +635,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g4s14">14</sup>
             <span class="stih_tekst">Ако ти премолчиш во ова време, тогаш слободата и спасението на Јудејците ќе дојде од друго место, а ти и домот на таткото твој ќе загинете. И кој знае, дали токму за вакво време не си достигнала царско достоинство?”</span>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g45s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g45s7">
             <sub class="referenci">1 Мојс 45,7-8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g50s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g50s20">
             <sub class="referenci">1 Мојс 50,20 </sub>
         </a>
         </span>
@@ -630,16 +649,16 @@
         <span class="stih">
             <sup class="stih_broj" id="g4s16">16</sup>
             <span class="stih_tekst">„Оди, собери ги сите Јудејци што се наоѓаат во Суза, и постете за мене, и не јадете, и не пијте три дена, ни дење ни ноќе, и јас со слугите свои исто така ќе постам и потоа ќе одам кај царот, иако е тоа и против законот, па ако загинам – нека загинам.”</span>
-        <a epub:type="noteref" href="Kniga40_Joil.xhtml#g1s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga40_Joil.xhtml#g1s14">
             <sub class="referenci">Јоил 1,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga40_Joil.xhtml#g2s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga40_Joil.xhtml#g2s12">
             <sub class="referenci">Јоил 2,12.15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga20_Judita.xhtml#g4s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga20_Judita.xhtml#g4s12">
             <sub class="referenci">Јудита 4,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga14_2Let.xhtml#g20s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga14_2Let.xhtml#g20s3">
             <sub class="referenci">2 Лет 20,3 </sub>
         </a>
         </span>
@@ -653,58 +672,58 @@
         <span class="stih">
             <span class="glava_broj" id="g5">5</span>
         <span class="stih_tekst">На третиот ден Естира, откако престана да се моли, ја соблече облеката на жалоста, се облече по царски, а) па откако се накити, Го повика Севидецот Бог и Спасителот, зеде две слугинки, и на едната се потпираше, како да се галеше, а другата одеше по неа и ѝ ја придржуваше облеката нејзина. б) Таа беше прекрасна во цутот на убавината своја, а лицето ѝ беше радосно, како да беше исполнето со љубов, но срцето ѝ беше свиткано од страв. в) Таа застана пред внатрешниот двор на царскиот дом, пред домот на царот. А царот тогаш седеше на својот царски престол во царскиот дом, токму спроти влезот на домот, облечен во полната облека на своето величие, целиот во злато и скапоцени камења, и беше многу страшен. Кога царот виде дека царицата Естира стои во дворот, таа најде милост во очите негови. г) Кога го сврте лицето свое, светнато од слава, тој погледна силно разгневен; и царицата премале, ја промени бојата на лицето од слабост и се потпре врз главата на слугинката што ја придржуваше. д) И Бог го измени духот на царот во кроткост, тој брзо стана од престолот свој и ја зеде во прегратките свои, додека таа да се соземе. Потоа тој ја утеши со умилни зборови и ѝ рече: ѓ) „Што ти е, Естира? Јас сум твој брат! Закрепи се, нема да умреш, зашто нашата одредба е за обичните луѓе; дојди!”</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g4s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g4s11">
             <sub class="referenci">Ест 4,11 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g5s2">2</sup>
             <span class="stih_tekst">И царот го подаде кон Естира златниот жезол што беше во раката негова. Естира се приближи и го допре крајот на жезолот, а царот го стави жезолот на нејзиниот врат, ја бакна и рече: „Зборувај.” а) Таа му рече: „Јас видов во тебе, господаре, како ангел Божји, па срцето мое се вознемири од страв пред твојата слава, зашто ти си прекрасен, господаре, и лицето твое е исполнето со убавина.” – б) Но додека говореше, таа падна од премаленост; царот се вознемири, и сите слуги негови ја храбреа.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g2s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g2s17">
             <sub class="referenci">Ест 2,17 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g5s3">3</sup>
             <span class="stih_tekst">Тогаш царот ѝ рече: „Што ти е, царице Естира? Која е твојата молба? Дури и половината од царството ќе ти биде дадено.”</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g5s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g5s6">
             <sub class="referenci">Ест 5,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g7s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g7s2">
             <sub class="referenci">Ест 7,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g9s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g9s12">
             <sub class="referenci">Ест 9,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga52_Mk.xhtml#g6s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga52_Mk.xhtml#g6s22">
             <sub class="referenci">Мк 6,22-23 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g5s4">4</sup>
             <span class="stih_tekst">Тогаш Естира рече: „Денес имам празник. Ако му е на царот угодно, нека дојде царот со Аман на гозба што сум му ја приготвила.”</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g1s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g1s19">
             <sub class="referenci">Ест 1,19 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g3s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g3s9">
             <sub class="referenci">Ест 3,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g5s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g5s4">
             <sub class="referenci">Ест 5,4.8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g7s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g7s3">
             <sub class="referenci">Ест 7,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g8s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g8s5">
             <sub class="referenci">Ест 8,5 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g9s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g9s13">
             <sub class="referenci">Ест 9,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga15_1Ezd.xhtml#g5s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga15_1Ezd.xhtml#g5s17">
             <sub class="referenci">1 Езд 5,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga18_Neem.xhtml#g2s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga18_Neem.xhtml#g2s5">
             <sub class="referenci">Неем 2,5 </sub>
         </a>
         </span>
@@ -755,23 +774,23 @@
         <span class="stih">
             <span class="glava_broj" id="g6">6</span>
         <span class="stih_tekst">Преку ноќта Господ не му даде сон на царот. Затоа му заповеда на слугата да ја донесе книгата за дневните белешки; и ги читаа пред царот;</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g2s23">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g2s23">
             <sub class="referenci">Ест 2,23 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g10s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g10s2">
             <sub class="referenci">Ест 10,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga2_2Mojs.xhtml#g17s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga2_2Mojs.xhtml#g17s14">
             <sub class="referenci">2 Мојс 17,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga50_Mal.xhtml#g3s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga50_Mal.xhtml#g3s16">
             <sub class="referenci">Мал 3,16 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g6s2">2</sup>
             <span class="stih_tekst">и се најде запишано таму, дека Мардохеј беше соопштил за двајцата царски слуги Бигетан и Тереш, кои го чуваа прагот и правеа план да стават рака врз царот Ксеркс.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g2s21">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g2s21">
             <sub class="referenci">Ест 2,21 </sub>
         </a>
         </span>
@@ -814,25 +833,25 @@
         <span class="stih">
             <sup class="stih_broj" id="g6s12">12</sup>
             <span class="stih_tekst">Мардохеј се врати кај царската порта. Аман, пак, тргна во домот свој, натажен и со наведната глава.</span>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g37s35">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g37s35">
             <sub class="referenci">1 Мојс 37,35 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga10_2Car.xhtml#g15s30">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga10_2Car.xhtml#g15s30">
             <sub class="referenci">2 Цар 15,30 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g57s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g57s18">
             <sub class="referenci">Ис 57,18 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g61s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g61s2">
             <sub class="referenci">Ис 61,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga33_Er.xhtml#g14s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga33_Er.xhtml#g14s3">
             <sub class="referenci">Ер 14,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g34s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g34s14">
             <sub class="referenci">Пс 34,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga34_Plach.xhtml#g1s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga34_Plach.xhtml#g1s4">
             <sub class="referenci">Плач 1,4 </sub>
         </a>
         </span>
@@ -882,14 +901,14 @@
         <span class="stih">
             <sup class="stih_broj" id="g7s9">9</sup>
             <span class="stih_tekst">И рече Харвона, еден од царските слуги: „Еве ја бесилката што ја беше приготвил Аман за Мардохеј, кој говореше добро за царот, стои во домот на Аман, висока е педесет лакти.” И царот рече: „Обесете го на неа!”</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g5s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g5s14">
             <sub class="referenci">Ест 5,14 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g7s10">10</sup>
             <span class="stih_tekst">И го обесија Аман на бесилката што тој ја беше направил за Мардохеј. Тогаш гневот на царот стивна.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g2s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g2s1">
             <sub class="referenci">Ест 2,1 </sub>
         </a>
         </span>
@@ -902,10 +921,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g8s2">2</sup>
             <span class="stih_tekst">И царот го извади прстенот свој што го беше одзел од Аман, и му го даде на Мардохеј; а Естира го постави Мардохеј за надзорник на Амановиот дом.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g3s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g3s10">
             <sub class="referenci">Ест 3,10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g41s42">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g41s42">
             <sub class="referenci">1 Мојс 41,42 </sub>
         </a>
         </span>
@@ -913,21 +932,21 @@
         <span class="stih">
             <sup class="stih_broj" id="g8s3">3</sup>
             <span class="stih_tekst">И Естира говореше уште пред царот, падна пред нозете негови, плачеше и го молеше да ја измени злобата на Вугеецот Аман и плановите негови што беше ги скроил против Јудејците.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g3s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g3s6">
             <sub class="referenci">Ест 3,6.9.11.13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s4">4</sup>
             <span class="stih_tekst">Царот го подаде кон Естира златниот жезол; Естира стана и застана пред лицето на царот,</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g5s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g5s2">
             <sub class="referenci">Ест 5,2 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s5">5</sup>
             <span class="stih_tekst">па му рече: „Ако му е на царот угодно, ако сум нашла милост пред неговото лице, а тоа дело биде справедливо пред лицето на царот, нека се напише да се вратат писмата според замислата на Вугеецот Аман, син Амадатов, кој беше напишал за погубувањето на Јудејците во сите царски области;</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g3s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g3s12">
             <sub class="referenci">Ест 3,12-13 </sub>
         </a>
         </span>
@@ -938,7 +957,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g8s7">7</sup>
             <span class="stih_tekst">Тогаш царот Ксеркс им рече на царицата Естира и на Јудеецот Мардохеј:„Еве, јас ѝ го дадов на Естира домот на Аман, и самиот него го обесив на бесилка, поради тоа што беше кренал рака на Јудејците;</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g2s21">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g2s21">
             <sub class="referenci">Ест 2,21 </sub>
         </a>
         </span>
@@ -949,7 +968,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g8s9">9</sup>
             <span class="stih_tekst">Веднаш беа повикани царските писари во третиот месец, односно, во месецот сиван, на дваесет и третиот ден, и беше напишано сѐ онака, како што заповеда Мардохеј, до Јудејците и до сатрапите, до обласните намесници, до управниците на областите од Индија до Етиопија – сто дваесет и седум области на секоја област со нејзиното писмо и до секој народ на неговиот јазик и до Јудејците со нивните писма и на нивни јазик.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g3s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g3s12">
             <sub class="referenci">Ест 3,12-15 </sub>
         </a>
         </span>
@@ -976,37 +995,37 @@
         <span class="stih">
             <sup class="stih_broj" id="g8s15">15</sup>
             <span class="stih_tekst">Тогаш Мардохеј излезе откај царот во царски сини и бели алишта, со голем златен венец и во ленена и пурпурна облека. Градот Суза се развесели и се зарадува.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g1s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g1s6">
             <sub class="referenci">Ест 1,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g12s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g12s6">
             <sub class="referenci">Ис 12,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g22s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g22s13">
             <sub class="referenci">Ис 22,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g24s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g24s14">
             <sub class="referenci">Ис 24,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g35s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g35s10">
             <sub class="referenci">Ис 35,10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g51s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g51s3">
             <sub class="referenci">Ис 51,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g54s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g54s1">
             <sub class="referenci">Ис 54,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga33_Er.xhtml#g15s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga33_Er.xhtml#g15s16">
             <sub class="referenci">Ер 15,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga33_Er.xhtml#g31s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga33_Er.xhtml#g31s7">
             <sub class="referenci">Ер 31,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga49_Zah.xhtml#g8s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga49_Zah.xhtml#g8s19">
             <sub class="referenci">Зах 8,19 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g50s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g50s9">
             <sub class="referenci">Пс 50,9 </sub>
         </a>
         </span>
@@ -1017,25 +1036,25 @@
         <span class="stih">
             <sup class="stih_broj" id="g8s17">17</sup>
             <span class="stih_tekst">И во секоја област, во секој град и секое место, каде што ќе стигнеше заповедта на царот и неговата повелба, настануваше радост, веселба, гозба и празник за Јудејците. И мнозина луѓе од народите во земјата станаа Јудејци, зашто ги беше обзел страв од Јудејците.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g9s27">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g9s27">
             <sub class="referenci">Ест 9,27 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g14s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g14s1">
             <sub class="referenci">Ис 14,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g56s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g56s3">
             <sub class="referenci">Ис 56,3.6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga33_Er.xhtml#g50s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga33_Er.xhtml#g50s5">
             <sub class="referenci">Ер 50,5 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga49_Zah.xhtml#g2s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga49_Zah.xhtml#g2s14">
             <sub class="referenci">Зах 2,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g82s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g82s8">
             <sub class="referenci">Пс 82,8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga20_Judita.xhtml#g14s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga20_Judita.xhtml#g14s17">
             <sub class="referenci">Јудита 14,17 </sub>
         </a>
         </span>
@@ -1045,38 +1064,38 @@
         <span class="stih">
             <span class="glava_broj" id="g9">9</span>
         <span class="stih_tekst">Во дванаесеттиот месец, во месецот адар, на тринаесеттиот ден, кога дојде време да се исполни заповедта на царот и на неговата повелба, во тој ден, кога непријателите на Јудејците, се надеваа дека ќе ја земат власта над нив, Јудејците ја зедоа власта над своите непријатели;</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g9s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g9s22">
             <sub class="referenci">Ест 9,22 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g9s2">2</sup>
             <span class="stih_tekst">се собраа Јудејците во градовите свои по сите области на царот Ксеркс, да ставаат рака врз своите непријатели, и никој не можеше да истрае пред лицето нивно, затоа што стравот од нив ги беше опфатил сите народи.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g8s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g8s17">
             <sub class="referenci">Ест 8,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga2_2Mojs.xhtml#g15s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga2_2Mojs.xhtml#g15s16">
             <sub class="referenci">2 Мојс 15,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga9_1Car.xhtml#g11s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga9_1Car.xhtml#g11s7">
             <sub class="referenci">1 Цар 11,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g104s38">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g104s38">
             <sub class="referenci">Пс 104,38 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g13s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g13s11">
             <sub class="referenci">Јов 13,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g2s21">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g2s21">
             <sub class="referenci">Ест 2,21 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g8s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g8s7">
             <sub class="referenci">Ест 8,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga9_1Car.xhtml#g14s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga9_1Car.xhtml#g14s10">
             <sub class="referenci">1 Цар 14,10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga9_1Car.xhtml#g25s26">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga9_1Car.xhtml#g25s26">
             <sub class="referenci">1 Цар 25,26 </sub>
         </a>
         </span>
@@ -1087,13 +1106,13 @@
         <span class="stih">
             <sup class="stih_broj" id="g9s4">4</sup>
             <span class="stih_tekst">Зашто Мардохеј беше силен во царскиот дом, и славата негова се пренесуваше по сите области, бидејќи тој човек, Мардохеј, се издигаше сѐ повеќе и повеќе.</span>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g41s37">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g41s37">
             <sub class="referenci">1 Мојс 41,37-45 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga6_IsN.xhtml#g6s26">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga6_IsN.xhtml#g6s26">
             <sub class="referenci">Ис.Н. 6,26 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga6_IsN.xhtml#g9s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga6_IsN.xhtml#g9s9">
             <sub class="referenci">Ис.Н. 9,9 </sub>
         </a>
         </span>
@@ -1156,19 +1175,19 @@
         <span class="stih">
             <sup class="stih_broj" id="g9s19">19</sup>
             <span class="stih_tekst">Затоа Јудејците селани што живееја во неутврдени села, го поминуваат четиринаесеттиот ден на месец адар во веселби и гоштевки, како празник, и заемно си испраќаат подароци; а оние што живеат во утврдените градови, го поминуваат и петнаесеттиот ден на адар во добра веселба и им испраќаат подароци на блиските.</span>
-        <a epub:type="noteref" href="Kniga5_5Mojs.xhtml#g3s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga5_5Mojs.xhtml#g3s5">
             <sub class="referenci">5 Мојс 3,5 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga9_1Car.xhtml#g6s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga9_1Car.xhtml#g6s18">
             <sub class="referenci">1 Цар 6,18 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga37_Ez.xhtml#g38s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga37_Ez.xhtml#g38s11">
             <sub class="referenci">Ез 38,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga49_Zah.xhtml#g2s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga49_Zah.xhtml#g2s7">
             <sub class="referenci">Зах 2,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga18_Neem.xhtml#g8s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga18_Neem.xhtml#g8s10">
             <sub class="referenci">Неем 8,10-12 </sub>
         </a>
         </span>
@@ -1192,7 +1211,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g9s24">24</sup>
             <span class="stih_tekst">дека Вугеецот Аман, Амадатов син, непријател на сите Јудејци, мислеше да ги погуби Јудејците и фрлаше ждрепка, за да ги истреби и погуби,</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g3s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g3s7">
             <sub class="referenci">Ест 3,7 </sub>
         </a>
         </span>
@@ -1223,19 +1242,19 @@
         <span class="stih">
             <sup class="stih_broj" id="g9s31">31</sup>
             <span class="stih_tekst">за да ги пазат постојано тие дни Пурим за времето нивно, како што ги установија за нив Јудеецот Мардохеј и царицата Естира и како што сами ги определија за себе и за децата свои, во дните на пост и плачење.</span>
-        <a epub:type="noteref" href="Kniga21_Est.xhtml#g4s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga21_Est.xhtml#g4s15">
             <sub class="referenci">Ест 4,15-17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g15s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g15s5">
             <sub class="referenci">Ис 15,5.8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga33_Er.xhtml#g18s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga33_Er.xhtml#g18s22">
             <sub class="referenci">Ер 18,22 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga33_Er.xhtml#g20s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga33_Er.xhtml#g20s16">
             <sub class="referenci">Ер 20,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga33_Er.xhtml#g50s46">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga33_Er.xhtml#g50s46">
             <sub class="referenci">Ер 50,46 </sub>
         </a>
         </span>
@@ -1253,19 +1272,19 @@
         <span class="stih">
             <sup class="stih_broj" id="g10s2">2</sup>
             <span class="stih_tekst">Сите дела на силата негова и моќта негова и подробниот приказ за големината на Мардохеј, со која царот ги возвеличи, се запишани во книгата за дневни белешки на мидиските и персиските цареви,</span>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g15s23">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g15s23">
             <sub class="referenci">3 Цар 15,23 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g16s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g16s5">
             <sub class="referenci">3 Цар 16,5.27 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g22s46">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g22s46">
             <sub class="referenci">3 Цар 22,46 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga12_4Car.xhtml#g10s34">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga12_4Car.xhtml#g10s34">
             <sub class="referenci">4 Цар 10,34 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga12_4Car.xhtml#g14s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga12_4Car.xhtml#g14s15">
             <sub class="referenci">4 Цар 14,15 </sub>
         </a>
         </span>
@@ -1279,6 +1298,8 @@
             <span class="stih_tekst">И рече Мардохеј: „Од Бога стана тоа, б) зашто се сетив на сонот што го видов за тие настани; од него не остана ништо неисполнето. в) Малиот извор стана река, и стана светлина и сонце и голема вода; таа река е Естира, која царот ја зеде за своја жена и ја направи царица. г) А двата змеја – тоа сме јас и Аман; д) народите – тоа се тие што се беа заканиле да го истребат името на Јудејците, ѓ) а мојот народ – тоа се Израилците, кои повикаа кон Бога и беа спасени. И го спаси Господ Својот народ, и нѐ избави Господ од сите тие лошотии; направи Бог чуда и чудеса големи, какви што не станувале меѓу незнабошците. е) Така Бог устрои две ждрепки – едната за Божјиот народ, а другата – за сите незнабошци; ж) и излегоа тие две ждрепки во час и време и во ден суден пред Бога и пред сите незнабошци. з) И се сети Господ за Својот народ и ги оправда Своите наследници. ѕ) Затоа ќе се празнуваат тие дни во месецот адар, во четиринаесеттиот и петнаесеттиот ден на тој месец, со свеченост, со радост и веселба пред Бога во вечни родови на народот Негов Израил.” и) Во четвртата година од царувањето на Птоломеј и Клеопатра, Доситеј, кој, велат, бил свештеник и левит, и Птоломеј, син му, го донесоа во Александрија ова послание за Пурим, кое, велат, го превел Лизимах, Птоломеев син, кој беше од Ерусалим.</span>
         </span>
     </p>
-</div></body>
+</div><iframe name="refFrame" id="refFrame" src="Kniga1_1Mojs.xhtml?isFrame=True#g11s22" title="Referenci" 
+    frameborder="0" border="0" cellspacing="0"></iframe>
+</body>
 
 </html>

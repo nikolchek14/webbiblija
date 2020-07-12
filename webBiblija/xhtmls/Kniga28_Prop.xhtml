@@ -4,8 +4,27 @@
 <head>
     <title>Sveto Pismo - Biblija</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link href="../Styles/stylesheet.css" rel="stylesheet" type="text/css" />
-    <link href="../res/book.css" rel="stylesheet" type="text/css" />
+        <link href="../res/book.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+    //<![CDATA[
+        function handleReferenca(el, event) {
+            event.preventDefault();
+            const myref = el.href.split("#")[0]+"?isFrame=True#"+el.href.split("#")[1]
+            document.getElementById('refFrame').setAttribute("src", myref);
+            
+            return false;
+        }
+        const urlParams = new URLSearchParams(window.location.search);
+        const isFrame = urlParams.get('isFrame');
+        if(isFrame) {
+            var cssLink = document.createElement("link");
+            cssLink.href = "../res/frame.css"; 
+            cssLink.rel = "stylesheet"; 
+            cssLink.type = "text/css"; 
+            document.head.appendChild(cssLink);
+        }
+        //]]>
+    </script>
 </head>
 
 <body>
@@ -35,36 +54,36 @@
         <span class="stih">
             <sup class="stih_broj" id="g1s2">2</sup>
             <span class="stih_tekst">Суета над суетите, вели проповедникот, суета над суетите – сѐ е суета!</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s11">
             <sub class="referenci">Проп 2,11.17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g11s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g11s8">
             <sub class="referenci">Проп 11,8 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g61s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g61s9">
             <sub class="referenci">Пс 61,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga56_Rim.xhtml#g8s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga56_Rim.xhtml#g8s20">
             <sub class="referenci">Рим 8,20 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s3">3</sup>
             <span class="stih_tekst">Каква е ползата за човекот од сите негови трудови, со кои се труди под сонцето?</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s20">
             <sub class="referenci">Проп 2,20.22 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g5s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g5s17">
             <sub class="referenci">Проп 5,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g9s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g9s9">
             <sub class="referenci">Проп 9,9 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s4">4</sup>
             <span class="stih_tekst">Род еден си заминува, и род друг доаѓа, а земјата останува засекогаш.</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g14s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g14s18">
             <sub class="referenci">Сир 14,18 </sub>
         </a>
         </span>
@@ -79,7 +98,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g1s7">7</sup>
             <span class="stih_tekst">Сите реки течат во морето, но морето не се преполнува: тие одново се враќаат кон она место, од каде што потекуваат, за да течат одново.</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g40s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g40s11">
             <sub class="referenci">Сир 40,11 </sub>
         </a>
         </span>
@@ -90,10 +109,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g1s9">9</sup>
             <span class="stih_tekst">Она што било, пак ќе биде, и она што се правело, пак ќе се прави – нема ништо ново под сонцето.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s12">
             <sub class="referenci">Проп 2,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s15">
             <sub class="referenci">Проп 3,15 </sub>
         </a>
         </span>
@@ -104,7 +123,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g1s11">11</sup>
             <span class="stih_tekst">Нема спомен за минатото; па и за тоа, што ќе биде подоцна нема да остане спомен кај оние што ќе дојдат.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s16">
             <sub class="referenci">Проп 2,16 </sub>
         </a>
         </span>
@@ -112,59 +131,59 @@
         <span class="stih">
             <sup class="stih_broj" id="g1s12">12</sup>
             <span class="stih_tekst">Јас, проповедник, бев цар над Израил во Ерусалим;</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s9">
             <sub class="referenci">Проп 2,9 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s13">13</sup>
             <span class="stih_tekst">и го управив срцето свое да истражува и да испитува преку мудроста сѐ, што станува под небото; таа тешка задача им ја даде Бог на синовите човечки, за да се занимаваат со неа.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s10">
             <sub class="referenci">Проп 3,10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g7s25">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g7s25">
             <sub class="referenci">Проп 7,25 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g8s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g8s16">
             <sub class="referenci">Проп 8,16 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s14">14</sup>
             <span class="stih_tekst">Ги видов сите работи, што се вршат на земјата, и ете – сѐ е суета и мака за духот.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s11">
             <sub class="referenci">Проп 2,11.17.26 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s15">15</sup>
             <span class="stih_tekst">Кривото не може да се исправи, и она, што го нема не може да се брои.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g4s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g4s4">
             <sub class="referenci">Проп 4,4.6.16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g6s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g6s9">
             <sub class="referenci">Проп 6,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g7s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g7s13">
             <sub class="referenci">Проп 7,13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g1s16">16</sup>
             <span class="stih_tekst">Си велев во срцето свое: „Еве, јас се воздигнав и се здобив со мудрост повеќе од сите, што беа пред мене над Ерусалим, и срцето мое виде многу мудрост и знаење.”</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g12s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g12s9">
             <sub class="referenci">Проп 12,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g3s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g3s12">
             <sub class="referenci">3 Цар 3,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g5s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g5s9">
             <sub class="referenci">3 Цар 5,9-10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g10s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g10s1">
             <sub class="referenci">3 Цар 10,1-13.23-24 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g47s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g47s14">
             <sub class="referenci">Сир 47,14-17 </sub>
         </a>
         </span>
@@ -185,30 +204,30 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s2">2</sup>
             <span class="stih_tekst">За смеата реков – глупост е, а за веселбата: каква полза од неа?</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g14s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g14s13">
             <sub class="referenci">Изреки 14,13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s3">3</sup>
             <span class="stih_tekst">Си помислив во срцето свое да го насладам телото свое со вино и, додека срцето мое се води по мудроста, да се придржувам и за глупоста сѐ додека да видам, што е подобро за синовите човечки, што би требало да прават тие под небото во текот на малкуте денови од својот живот.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g5s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g5s17">
             <sub class="referenci">Проп 5,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g6s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g6s12">
             <sub class="referenci">Проп 6,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g14s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g14s5">
             <sub class="referenci">Јов 14,5 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s4">4</sup>
             <span class="stih_tekst">Презедов големи работи: си изградив куќи, си насадив лозја,</span>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g7s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g7s1">
             <sub class="referenci">3 Цар 7,1-12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga13_1Let.xhtml#g27s27">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga13_1Let.xhtml#g27s27">
             <sub class="referenci">1 Лет 27,27 </sub>
         </a>
         </span>
@@ -227,16 +246,16 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s8">8</sup>
             <span class="stih_tekst">насобрав сребро и злато и скапоцености од цареви и области; си доведов пејачи и пејачки и тоа, што ги насладува синовите човечки – многу жени.</span>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g9s28">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g9s28">
             <sub class="referenci">3 Цар 9,28 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g10">
             <sub class="referenci">3 Цар 10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g7s28">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g7s28">
             <sub class="referenci">3 Цар 7,28 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g9s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g9s9">
             <sub class="referenci">3 Цар 9,9 </sub>
         </a>
         </span>
@@ -255,7 +274,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s12">12</sup>
             <span class="stih_tekst">Потоа се свртев да ги погледам мудроста, безумството и глупоста: што може да направи човекот што ќе ме наследи, посебно од она, што е веќе направено?</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g1s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g1s9">
             <sub class="referenci">Проп 1,9 </sub>
         </a>
         </span>
@@ -266,30 +285,30 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s14">14</sup>
             <span class="stih_tekst">на мудриот очите му се во главата негова, а глупавиот оди во темнина; но дознав дека крајот на сите им е еднаков.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g10s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g10s2">
             <sub class="referenci">Проп 10,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga54_Jn.xhtml#g8s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga54_Jn.xhtml#g8s12">
             <sub class="referenci">Јн 8,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga73_1Jn.xhtml#g2s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga73_1Jn.xhtml#g2s10">
             <sub class="referenci">1 Јн 2,10-11 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s15">15</sup>
             <span class="stih_tekst">Тогаш си реков во срцето свое: „И мене ќе ме стигне истото, како и глупавиот; зошто толку многу сакав да станам мудар?” Па си реков во срцето свое дека и тоа е суета.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g6s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g6s8">
             <sub class="referenci">Проп 6,8 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s16">16</sup>
             <span class="stih_tekst">Зашто нема да го помнат мудриот вечно, како и глупавиот; по време сѐ ќе се заборави, и, мудриот умира, како и безумниот.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g1s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g1s11">
             <sub class="referenci">Проп 1,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g44s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g44s9">
             <sub class="referenci">Сир 44,9 </sub>
         </a>
         </span>
@@ -300,10 +319,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s18">18</sup>
             <span class="stih_tekst">И го намразив сето она, за кое се бев трудел под сонцето, затоа што треба да го оставам на човек, што ќе дојде по мене.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g6s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g6s2">
             <sub class="referenci">Проп 6,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g11s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g11s19">
             <sub class="referenci">Сир 11,19 </sub>
         </a>
         </span>
@@ -326,23 +345,23 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s23">23</sup>
             <span class="stih_tekst">Бидејќи сите денови му се мачни, а трудовите негови – неспокојство; дури и ноќе срцето негово не знае за мир. Ете, и тоа е суета!</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g8s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g8s16">
             <sub class="referenci">Проп 8,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g40s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g40s5">
             <sub class="referenci">Сир 40,5 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g2s24">24</sup>
             <span class="stih_tekst">И не е ли добро за човекот да јаде, да пие и да ја насладува душата своја од својот труд. Но јас видов дека и тоа е од Божјата рака;</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s12">
             <sub class="referenci">Проп 3,12-13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g11s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g11s9">
             <sub class="referenci">Проп 11,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g14s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g14s14">
             <sub class="referenci">Сир 14,14 </sub>
         </a>
         </span>
@@ -353,13 +372,13 @@
         <span class="stih">
             <sup class="stih_broj" id="g2s26">26</sup>
             <span class="stih_tekst">Тој му дава мудрост, и разум и радост на човекот, кој е добар пред лицето Негово; а на грешникот му дава грижи, – да собира и трупа, за да го предаде потоа на оној, кој е добар пред лицето Божјо! Па, ете, и тоа е суета и мака за духот!</span>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g48s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g48s10">
             <sub class="referenci">Пс 48,10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g27s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g27s16">
             <sub class="referenci">Јов 27,16-17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g13s23">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g13s23">
             <sub class="referenci">Изреки 13,23 </sub>
         </a>
         </span>
@@ -369,10 +388,10 @@
         <span class="stih">
             <span class="glava_broj" id="g3">3</span>
         <span class="stih_tekst">Сѐ има свое време, и секоја работа под небото има свое време;</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s17">
             <sub class="referenci">Проп 3,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g8s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g8s6">
             <sub class="referenci">Проп 8,6 </sub>
         </a>
         </span>
@@ -411,38 +430,38 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s10">10</sup>
             <span class="stih_tekst">Ги видов (со мака) работите, што Бог им ги даде на синовите човечки, за да се мачат околу нив.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g1s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g1s13">
             <sub class="referenci">Проп 1,13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s11">11</sup>
             <span class="stih_tekst">Сето тоа Тој го направил да биде прекрасно во свое време. Ни дал и чувство за времето и просторот, но пак не може човекот да ги разбере докрај делата Божји што Тој ги врши од почетокот до крајот.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g6s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g6s12">
             <sub class="referenci">Проп 6,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g7s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g7s14">
             <sub class="referenci">Проп 7,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g8s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g8s17">
             <sub class="referenci">Проп 8,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g11s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g11s5">
             <sub class="referenci">Проп 11,5 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g138s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g138s17">
             <sub class="referenci">Пс 138,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g11s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g11s4">
             <sub class="referenci">Сир 11,4 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g18s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g18s6">
             <sub class="referenci">Сир 18,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g39s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g39s16">
             <sub class="referenci">Сир 39,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga56_Rim.xhtml#g11s33">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga56_Rim.xhtml#g11s33">
             <sub class="referenci">Рим 11,33 </sub>
         </a>
         </span>
@@ -453,27 +472,27 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s13">13</sup>
             <span class="stih_tekst">Кога секој човек јаде и пие, и го гледа доброто во секој свој труд, тоа е дар Божји.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s24">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s24">
             <sub class="referenci">Проп 2,24 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g5s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g5s18">
             <sub class="referenci">Проп 5,18 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g4s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g4s20">
             <sub class="referenci">3 Цар 4,20 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s14">14</sup>
             <span class="stih_tekst">Разбрав дека сѐ, што прави Господ, останува засекогаш; кон тоа нема што да се додава, од тоа нема што да се одзема; а Бог прави така, за да се има страв пред лицето Негово.</span>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g32s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g32s11">
             <sub class="referenci">Пс 32,11 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s15">15</sup>
             <span class="stih_tekst">Она што било, тоа е и сега, и она што ќе биде, тоа веќе било, – зашто Бог го враќа она што изминало.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g1s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g1s9">
             <sub class="referenci">Проп 1,9 </sub>
         </a>
         </span>
@@ -481,20 +500,20 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s16">16</sup>
             <span class="stih_tekst">И уште видов под сонцето: наместо закон – беззаконие; наместо правда – неправда.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g4s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g4s1">
             <sub class="referenci">Проп 4,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g5s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g5s7">
             <sub class="referenci">Проп 5,7 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s17">17</sup>
             <span class="stih_tekst">И си реков во срцето свое: „Праведниот и безбожниот Бог ќе ги суди, бидејќи таму има време за секоја работа и суд за секое дело.”</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g11s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g11s9">
             <sub class="referenci">Проп 11,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g12s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g12s14">
             <sub class="referenci">Проп 12,14 </sub>
         </a>
         </span>
@@ -505,58 +524,58 @@
         <span class="stih">
             <sup class="stih_broj" id="g3s19">19</sup>
             <span class="stih_tekst">зашто сѐ што се случува со синовите човечки, се случува и со животните; крајот им е ист: како умираат едните, така умираат и другите, и едно е дишењето кај сите, и човекот нема предимство пред добитокот, зашто – сѐ е суета!</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g7s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g7s15">
             <sub class="referenci">Проп 7,15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g8s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g8s14">
             <sub class="referenci">Проп 8,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g9s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g9s2">
             <sub class="referenci">Проп 9,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g48s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g48s12">
             <sub class="referenci">Пс 48,12.20 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s20">20</sup>
             <span class="stih_tekst">Сѐ оди на едно место: сѐ произлегува од земјата, и сѐ ќе се врати во земјата.</span>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g2s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g2s7">
             <sub class="referenci">1 Мојс 2,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga1_1Mojs.xhtml#g3s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga1_1Mojs.xhtml#g3s19">
             <sub class="referenci">1 Мојс 3,19 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s21">21</sup>
             <span class="stih_tekst">Кој знае: дали духот на синовите човечки се качува горе, а духот на животните слегува долу, во земјата?</span>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g103s29">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g103s29">
             <sub class="referenci">Пс 103,29 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g34s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g34s15">
             <sub class="referenci">Јов 34,15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g16s29">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g16s29">
             <sub class="referenci">Сир 16,29 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g17s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g17s1">
             <sub class="referenci">Сир 17,1 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g3s22">22</sup>
             <span class="stih_tekst">И така, јас видов дека нема ништо подобро за човекот, освен да се насладува со делата свои, бидејќи тоа е негов дел; зашто, кој ќе го доведе после да го погледа она, што ќе биде по него?</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s24">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s24">
             <sub class="referenci">Проп 2,24 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g6s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g6s12">
             <sub class="referenci">Проп 6,12 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g8s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g8s7">
             <sub class="referenci">Проп 8,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g10s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g10s14">
             <sub class="referenci">Проп 10,14 </sub>
         </a>
         </span>
@@ -566,7 +585,7 @@
         <span class="stih">
             <span class="glava_broj" id="g4">4</span>
         <span class="stih_tekst">Се свртев и ги видов сите неправди, што стануваат под сонцето; и ете, солзите на онеправданите, и утешител немаат; силата е во рацете на угнетувачите, а закрилник нема.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s16">
             <sub class="referenci">Проп 3,16 </sub>
         </a>
         </span>
@@ -577,30 +596,30 @@
         <span class="stih">
             <sup class="stih_broj" id="g4s3">3</sup>
             <span class="stih_tekst">а поблажен е и од едните и од другите оној, што уште не постои, кој не ги видел лошите работи, што се вршат на земјата.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g6s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g6s3">
             <sub class="referenci">Проп 6,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga33_Er.xhtml#g20s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga33_Er.xhtml#g20s18">
             <sub class="referenci">Ер 20,18 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g3s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g3s16">
             <sub class="referenci">Јов 3,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g10s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g10s18">
             <sub class="referenci">Јов 10,18 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g4s4">4</sup>
             <span class="stih_tekst">А видов исто дека секој труд и секој успех во работите предизвикува меѓу луѓето заемна завист. Но и тоа е суета и мака за духот.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s11">
             <sub class="referenci">Проп 2,11 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g4s5">5</sup>
             <span class="stih_tekst">Глупавиот седи со скрстени раце и го гризе своето сопствено тело.</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g6s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g6s10">
             <sub class="referenci">Изреки 6,10-11 </sub>
         </a>
         </span>
@@ -615,20 +634,20 @@
         <span class="stih">
             <sup class="stih_broj" id="g4s8">8</sup>
             <span class="stih_tekst">човек осамен, нема близок: нема ни син, ни брат, а пак на сите работи негови крај нема, и очите негови не можат да се наситат со богатство. „За кого, пак, – вели тој – се трудам и ја лишувам од добра душата своја?” – Ете, и тоа е суета и лоша работа.</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g14s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g14s4">
             <sub class="referenci">Сир 14,4 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g4s9">9</sup>
             <span class="stih_tekst">Подобро им е на двајца, отколку на еден, бидејќи имаат добра награда за трудот свој.</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g18s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g18s20">
             <sub class="referenci">Изреки 18,20 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g6s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g6s14">
             <sub class="referenci">Сир 6,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga53_Lk.xhtml#g10s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga53_Lk.xhtml#g10s1">
             <sub class="referenci">Лк 10,1 </sub>
         </a>
         </span>
@@ -639,7 +658,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g4s11">11</sup>
             <span class="stih_tekst">Исто, кога лежат двајца, топло им е; а еден – како ќе се згрее?</span>
-        <a epub:type="noteref" href="Kniga11_3Car.xhtml#g1s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga11_3Car.xhtml#g1s1">
             <sub class="referenci">3 Цар 1,1-2 </sub>
         </a>
         </span>
@@ -650,14 +669,14 @@
         <span class="stih">
             <sup class="stih_broj" id="g4s13">13</sup>
             <span class="stih_tekst">Подобар е младинец сиромав и умен, отколку цар – неразумен и стар, кој веќе не умее да прима совети;</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g9s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g9s15">
             <sub class="referenci">Проп 9,15 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g4s14">14</sup>
             <span class="stih_tekst">зашто младиот може да излезе од темница и да стане цар, иако се родил сиромав во царството.</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g11s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g11s5">
             <sub class="referenci">Сир 11,5 </sub>
         </a>
         </span>
@@ -673,7 +692,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g4s17">17</sup>
             <span class="stih_tekst">Чувај ја ногата своја, кога одиш во Божјиот дом, и биди готов повеќе да слушаш, отколку да гледаш како безумните принесуваат жртви, зашто тие не знаат дека вршат зло.</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g19s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g19s2">
             <sub class="referenci">Изреки 19,2 </sub>
         </a>
         </span>
@@ -682,35 +701,35 @@
         <span class="stih">
             <span class="glava_broj" id="g5">5</span>
         <span class="stih_tekst">Не брзај со јазикот свој, и срцето твое да не брза да изговара зборови пред Господ; зашто Бог е на небото, а ти на земјата; затоа зборовите твои да не бидат многу.</span>
-        <a epub:type="noteref" href="Kniga5_5Mojs.xhtml#g4s39">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga5_5Mojs.xhtml#g4s39">
             <sub class="referenci">5 Мојс 4,39 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga6_IsN.xhtml#g2s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga6_IsN.xhtml#g2s11">
             <sub class="referenci">Ис.Н. 2,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g20s25">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g20s25">
             <sub class="referenci">Изреки 20,25 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g7s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g7s14">
             <sub class="referenci">Сир 7,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga51_Mt.xhtml#g6s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga51_Mt.xhtml#g6s7">
             <sub class="referenci">Мт 6,7 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g5s2">2</sup>
             <span class="stih_tekst">Зашто, како што соништата доаѓаат при многу грижи, така и гласот на глупавиот се познава од многуте зборови.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g5s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g5s11">
             <sub class="referenci">Проп 5,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g10s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g10s19">
             <sub class="referenci">Изреки 10,19 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g13s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g13s3">
             <sub class="referenci">Изреки 13,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga70_Jk.xhtml#g3s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga70_Jk.xhtml#g3s8">
             <sub class="referenci">Јк 3,8 </sub>
         </a>
         </span>
@@ -721,13 +740,13 @@
         <span class="stih">
             <sup class="stih_broj" id="g5s4">4</sup>
             <span class="stih_tekst">Подобро е да не ветуваш, отколку да ветиш и да не го извршиш.</span>
-        <a epub:type="noteref" href="Kniga3_3Mojs.xhtml#g27s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga3_3Mojs.xhtml#g27s2">
             <sub class="referenci">3 Мојс 27,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga4_4Mojs.xhtml#g30s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga4_4Mojs.xhtml#g30s3">
             <sub class="referenci">4 Мојс 30,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga5_5Mojs.xhtml#g23s21">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga5_5Mojs.xhtml#g23s21">
             <sub class="referenci">5 Мојс 23,21-23 </sub>
         </a>
         </span>
@@ -738,10 +757,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g5s6">6</sup>
             <span class="stih_tekst">Зашто, како во многуте соништа, така и во многуте зборови има суета; но ти имај страв од Бога.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s14">
             <sub class="referenci">Проп 3,14 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g34s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g34s1">
             <sub class="referenci">Сир 34,1-7 </sub>
         </a>
         </span>
@@ -749,10 +768,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g5s7">7</sup>
             <span class="stih_tekst">Ако видиш некаде на сиромав да се врши неправда и да му се одзема судот и правдата, не чуди се на тоа: зашто над високиот гледа повисок, а над нив – уште повисок;</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s16">
             <sub class="referenci">Проп 3,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g9s24">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g9s24">
             <sub class="referenci">Јов 9,24 </sub>
         </a>
         </span>
@@ -764,21 +783,21 @@
         <span class="stih">
             <sup class="stih_broj" id="g5s9">9</sup>
             <span class="stih_tekst">Кој го љуби среброто, со сребро нема да се насити, и кој сака богатство, тој нема да има полза од тоа. И тоа е суета!</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g14s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g14s3">
             <sub class="referenci">Сир 14,3 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g5s10">10</sup>
             <span class="stih_tekst">Се зголемува ли имотот – се зголемуваат и корисниците негови; и каква корист за сопственикот негов: зар само да гледа со очите свои?</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g19s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g19s6">
             <sub class="referenci">Изреки 19,6 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g5s11">11</sup>
             <span class="stih_tekst">Сладок е сонот за оној, кој се труди, – па јадел тој малку или многу; но прејадувањето не му дава на богатиот да заспие.</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g13s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g13s8">
             <sub class="referenci">Изреки 13,8 </sub>
         </a>
         </span>
@@ -793,10 +812,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g5s14">14</sup>
             <span class="stih_tekst">Како што излегол гол од мајчината утроба, така и си заминува, каков што дошол; ништо нема да земе од трудот свој, што би можел в рака да понесе.</span>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g48s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g48s17">
             <sub class="referenci">Пс 48,17 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g1s21">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g1s21">
             <sub class="referenci">Јов 1,21 </sub>
         </a>
         </span>
@@ -807,24 +826,24 @@
         <span class="stih">
             <sup class="stih_broj" id="g5s16">16</sup>
             <span class="stih_tekst">А целиот живот бил мрачен од многу грижи, маки и страдања.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g7s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g7s9">
             <sub class="referenci">Проп 7,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g14s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g14s1">
             <sub class="referenci">Јов 14,1 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g5s17">17</sup>
             <span class="stih_tekst">Еве уште што најдов за добро и пријатно: да се јаде и да се пие и да се насладува од доброто на сите свои трудови, со кои некој се труди на земјата преку сите дни од животот свој, што му ги дал Бог; зашто тоа е негов дел.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s24">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s24">
             <sub class="referenci">Проп 2,24 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g5s18">18</sup>
             <span class="stih_tekst">И, ако на некој човек Бог му дал богатство и имот, и му дал да се ползува од нив, да го зема својот дел и да се насладува од трудовите свои – тоа е Божји дар.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s13">
             <sub class="referenci">Проп 3,13 </sub>
         </a>
         </span>
@@ -841,20 +860,20 @@
         <span class="stih">
             <sup class="stih_broj" id="g6s2">2</sup>
             <span class="stih_tekst">Бог му дава на човекот богатство, имот и слава, и за душата негова нема скудности во ништо, што и да посака; но Бог не му дава нему да се ползува од тоа, туку се ползува од него друг човек: тоа е суета и тешко зло!</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s18">
             <sub class="referenci">Проп 2,18 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g14s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g14s3">
             <sub class="referenci">Сир 14,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga53_Lk.xhtml#g12s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga53_Lk.xhtml#g12s20">
             <sub class="referenci">Лк 12,20 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g6s3">3</sup>
             <span class="stih_tekst">Ако некој изнароди сто синови, проживее многу години и уште му се умножат дните на животот негов, а душата негова не се насладила на добро, та за него ќе нема дури ни погреб, подобро му е, велам, на недоносче отколку нему,</span>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g3s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g3s11">
             <sub class="referenci">Јов 3,11 </sub>
         </a>
         </span>
@@ -869,10 +888,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g6s6">6</sup>
             <span class="stih_tekst">А оној, макар да проживеал и две илјади години, без наслада од добрата, нема ли да појде сѐ на исто место?</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s20">
             <sub class="referenci">Проп 3,20 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g41s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g41s4">
             <sub class="referenci">Сир 41,4 </sub>
         </a>
         </span>
@@ -883,14 +902,14 @@
         <span class="stih">
             <sup class="stih_broj" id="g6s8">8</sup>
             <span class="stih_tekst">А каква предност има умниот пред безумниот, каква – сиромавиот, кој умее да се однесува пред луѓето?</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s15">
             <sub class="referenci">Проп 2,15 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g6s9">9</sup>
             <span class="stih_tekst">Подобро е да гледаш со очи, отколку да посакуваш со душата. И тоа е суета и мака за духот.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g1s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g1s14">
             <sub class="referenci">Проп 1,14 </sub>
         </a>
         </span>
@@ -902,26 +921,26 @@
         <span class="stih">
             <sup class="stih_broj" id="g6s11">11</sup>
             <span class="stih_tekst">Има многу такви работи, што ја зголемуваат суетата: тогаш што е подобро за човекот?</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g5s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g5s2">
             <sub class="referenci">Проп 5,2 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g6s12">12</sup>
             <span class="stih_tekst">Зашто, кој знае што е добро за човекот во животот, во текот на сите дни на неговиот суетен живот, што тој ги поминува како сенка? И кој ќе му каже на човекот, што ќе стане по него на земјата?</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s22">
             <sub class="referenci">Проп 3,22 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g9s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g9s9">
             <sub class="referenci">Проп 9,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g101s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g101s11">
             <sub class="referenci">Пс 101,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g109s23">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g109s23">
             <sub class="referenci">Пс 109,23 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g14s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g14s2">
             <sub class="referenci">Јов 14,2 </sub>
         </a>
         </span>
@@ -958,27 +977,27 @@
         <span class="stih">
             <sup class="stih_broj" id="g7s8">8</sup>
             <span class="stih_tekst">Крајот на една работа е подобар од нејзиниот почеток; трпеливиот е подобар од горделивиот.</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g16s32">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g16s32">
             <sub class="referenci">Изреки 16,32 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g7s9">9</sup>
             <span class="stih_tekst">Не станувај со духот свој брз на гнев, зашто гневот се крие во срцето на безумните.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g5s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g5s16">
             <sub class="referenci">Проп 5,16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g22s24">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g22s24">
             <sub class="referenci">Изреки 22,24 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga70_Jk.xhtml#g1s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga70_Jk.xhtml#g1s19">
             <sub class="referenci">Јк 1,19-20 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g7s10">10</sup>
             <span class="stih_tekst">Не вели: „Зошто поранешните дни биле подобри од сегашните?”, бидејќи не е мудро да прашуваш за тоа.</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g39s34">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g39s34">
             <sub class="referenci">Сир 39,34 </sub>
         </a>
         </span>
@@ -989,14 +1008,14 @@
         <span class="stih">
             <sup class="stih_broj" id="g7s12">12</sup>
             <span class="stih_tekst">зашто под нејзината сенка е исто, како под сенката на сребро; но предимството на знаењето е во тоа, што мудроста му дава живот на оној, што ја има.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g8s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g8s13">
             <sub class="referenci">Проп 8,13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g7s13">13</sup>
             <span class="stih_tekst">Погледај ги Божјите дела: кој може да го исправи она, што Бог го направил криво?</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g1s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g1s15">
             <sub class="referenci">Проп 1,15 </sub>
         </a>
         </span>
@@ -1007,7 +1026,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g7s15">15</sup>
             <span class="stih_tekst">Се нагледав на сѐ во моите суетни дни: праведниот загинува со својата праведност; безбожниот и натаму живее и покрај безбожноста своја.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s19">
             <sub class="referenci">Проп 3,19 </sub>
         </a>
         </span>
@@ -1026,27 +1045,27 @@
         <span class="stih">
             <sup class="stih_broj" id="g7s19">19</sup>
             <span class="stih_tekst">Мудроста го прави мудриот посилен од десет кнезови што се во градот.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g9s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g9s16">
             <sub class="referenci">Проп 9,16 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g7s20">20</sup>
             <span class="stih_tekst">Нема праведник на земјата, кој прави добро и никако да не греши;</span>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g14s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g14s4">
             <sub class="referenci">Јов 14,4 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g8s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g8s5">
             <sub class="referenci">Сир 8,5 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga73_1Jn.xhtml#g1s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga73_1Jn.xhtml#g1s8">
             <sub class="referenci">1 Јн 1,8-9 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g7s21">21</sup>
             <span class="stih_tekst">затоа не обрнувај внимание на секој збор, што се кажува, за да не го чуеш и слугата свој, кога те навредува;</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g10s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g10s20">
             <sub class="referenci">Проп 10,20 </sub>
         </a>
         </span>
@@ -1065,20 +1084,20 @@
         <span class="stih">
             <sup class="stih_broj" id="g7s25">25</sup>
             <span class="stih_tekst">Се свртев со срцето свое, за да ги дознаам, изучам и истражам мудроста и разумот, и да го познаам безумието на безбожниот, и незнаењето, и лукавството,</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g1s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g1s13">
             <sub class="referenci">Проп 1,13 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g7s26">26</sup>
             <span class="stih_tekst">и разбрав дека погорчливо од смртта е жената, зашто таа е мрежа, срцето нејзино – стапица, рацете најзини – окови; добриот пред Бога ќе се спаси од неа, а грешникот ќе биде уловен од неа.</span>
-        <a epub:type="noteref" href="Kniga7_Sud.xhtml#g16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga7_Sud.xhtml#g16">
             <sub class="referenci">Суд 16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga9_1Car.xhtml#g15s32">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga9_1Car.xhtml#g15s32">
             <sub class="referenci">1 Цар 15,32 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g22s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g22s14">
             <sub class="referenci">Изреки 22,14 </sub>
         </a>
         </span>
@@ -1089,7 +1108,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g7s28">28</sup>
             <span class="stih_tekst">Што уште бараше душата моја, и не го најде? – Маж најдов еден на илјада, но жена меѓу сите нив не најдов.</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g20s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g20s6">
             <sub class="referenci">Изреки 20,6 </sub>
         </a>
         </span>
@@ -1102,7 +1121,7 @@
         <span class="stih">
             <span class="glava_broj" id="g8">8</span>
         <span class="stih_tekst">Кој е како мудриот, и кој го разбира значењето на работите? Мудроста на човек му го просветлува лицето негово, и строгоста на лицето негово се изменува.</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g13s25">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g13s25">
             <sub class="referenci">Сир 13,25 </sub>
         </a>
         </span>
@@ -1110,58 +1129,58 @@
         <span class="stih">
             <sup class="stih_broj" id="g8s2">2</sup>
             <span class="stih_tekst">Јас (велам): пази го царскиот збор, и тоа – поради клетвата пред Бога.</span>
-        <a epub:type="noteref" href="Kniga2_2Mojs.xhtml#g22s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga2_2Mojs.xhtml#g22s11">
             <sub class="referenci">2 Мојс 22,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga56_Rim.xhtml#g13s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga56_Rim.xhtml#g13s1">
             <sub class="referenci">Рим 13,1 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s3">3</sup>
             <span class="stih_tekst">Не брзај да бегаш од лицето негово и не биди тврдоглав во лошите работи; зашто, тој што ќе посака, сѐ може да направи.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g10s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g10s4">
             <sub class="referenci">Проп 10,4 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s4">4</sup>
             <span class="stih_tekst">Каде што е зборот на царот, таму е и власта; и кој ќе му каже: „Што правиш?”</span>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g45s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g45s9">
             <sub class="referenci">Ис 45,9 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g9s12">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g9s12">
             <sub class="referenci">Јов 9,12 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s5">5</sup>
             <span class="stih_tekst">Кој пази заповед, тој не доживува никакво зло: срцето на мудриот знае и време и наредба;</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g12s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g12s13">
             <sub class="referenci">Проп 12,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g19s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g19s16">
             <sub class="referenci">Изреки 19,16 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s6">6</sup>
             <span class="stih_tekst">зашто за секоја работа има свое време и свој суд; а за човекот е голема несреќа,</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s1">
             <sub class="referenci">Проп 3,1 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s7">7</sup>
             <span class="stih_tekst">што не знае, што ќе биде и како ќе биде тоа; а кој ќе му каже?</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g10s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g10s14">
             <sub class="referenci">Проп 10,14 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s8">8</sup>
             <span class="stih_tekst">Ниеден човек нема власт над духот, за да го задржи духот, и нема власт над смртниот ден – нема избавување од таа работа; ниту безбожникот ќе го спасат неговите лоши дела.</span>
-        <a epub:type="noteref" href="Kniga30_Mudr.xhtml#g2s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga30_Mudr.xhtml#g2s1">
             <sub class="referenci">Мудр 2,1 </sub>
         </a>
         </span>
@@ -1173,24 +1192,24 @@
         <span class="stih">
             <sup class="stih_broj" id="g8s10">10</sup>
             <span class="stih_tekst">Видов тогаш како погребуваат безбожни; од нив беше преполн храмот. Во Ерусалим го беа заборавиле нивното безбожно однесување. И тоа е суета!</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g9s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g9s5">
             <sub class="referenci">Проп 9,5 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga26_Jov.xhtml#g21s32">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga26_Jov.xhtml#g21s32">
             <sub class="referenci">Јов 21,32-33 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s11">11</sup>
             <span class="stih_tekst">Бидејќи не се врши суд над лошите работи, затоа не се плаши срцето на синовите човечки да прави зло.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g9s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g9s3">
             <sub class="referenci">Проп 9,3 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s12">12</sup>
             <span class="stih_tekst">Иако некој грешник врши стопати зло, судот му се одолжува; но јас знам дека ќе им биде добро само на оние, што имаат страв од Бога, кои со почит стојат пред лицето Негово;</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s14">
             <sub class="referenci">Проп 3,14 </sub>
         </a>
         </span>
@@ -1201,37 +1220,37 @@
         <span class="stih">
             <sup class="stih_broj" id="g8s14">14</sup>
             <span class="stih_tekst">Има и таква суета на земјата: праведните ги постигнува она, што би ги заслужиле делата на безбожниците, а со безбожните станува она, што би го заслужиле делата на праведните. А јас си реков: и тоа е суета!</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s19">
             <sub class="referenci">Проп 3,19 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s15">15</sup>
             <span class="stih_tekst">И ја пофалив јас веселбата; зашто нема подобро за човекот на земјата од тоа да јаде, да пие и да се весели; тоа го придружува човекот во трудовите негови преку дните на животот негов, што му го дал Бог на земјата.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s24">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s24">
             <sub class="referenci">Проп 2,24 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g9s7">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g9s7">
             <sub class="referenci">Проп 9,7 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g11s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g11s9">
             <sub class="referenci">Проп 11,9 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s16">16</sup>
             <span class="stih_tekst">Кога го насочив срцето свое кон тоа, да постигнам мудрост и да ги разгледам работите, што се вршат на земјата, и поради кои на човекот не му доаѓа сон ни дење ни ноќе, – </span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g1s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g1s13">
             <sub class="referenci">Проп 1,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s23">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s23">
             <sub class="referenci">Проп 2,23 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g8s17">17</sup>
             <span class="stih_tekst">тогаш ги видов сите дела Божји и разбрав дека човекот не може да ги сфати работите, што се вршат на земјата. Колку и да се труди човекот да ги проучува, пак нема да го постигне тоа. Дури и мудрец тоа не може да го открие, иако мисли дека знае.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s11">
             <sub class="referenci">Проп 3,11 </sub>
         </a>
         </span>
@@ -1240,27 +1259,27 @@
         <span class="stih">
             <span class="glava_broj" id="g9">9</span>
         <span class="stih_tekst">И сево ова го ставив во срцето свое, за да испитам дека праведните и мудрите нивни дела се во рацете Божји, и дека човекот не знае ни за љубов, ни за омраза во сето тоа, што е пред него.</span>
-        <a epub:type="noteref" href="Kniga5_5Mojs.xhtml#g33s3">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga5_5Mojs.xhtml#g33s3">
             <sub class="referenci">5 Мојс 33,3 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g16s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g16s1">
             <sub class="referenci">Изреки 16,1 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga30_Mudr.xhtml#g7s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga30_Mudr.xhtml#g7s16">
             <sub class="referenci">Мудр 7,16 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g9s2">2</sup>
             <span class="stih_tekst">За секој и за сите е едно: една судбина за праведен и неправеден, за добар и лош, за чист и нечист, како за оној кој принесува жртви, така и за оној кој не принесува; како за добар, така и за грешник; како за оној што се колне, така и за оној што се плаши од клетва.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s19">
             <sub class="referenci">Проп 3,19 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g9s3">3</sup>
             <span class="stih_tekst">Токму тоа е најлошо од сѐ што се случува на земјата, дека еден е крајот за сите, па затоа срцето на синовите човечки е полно со зло, и безумие има во срцето нивно додека се живи; а потоа тие умираат.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g8s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g8s11">
             <sub class="referenci">Проп 8,11 </sub>
         </a>
         </span>
@@ -1271,21 +1290,21 @@
         <span class="stih">
             <sup class="stih_broj" id="g9s5">5</sup>
             <span class="stih_tekst">Живите знаат дека ќе умрат, а мртвите ништо не знаат, и веќе за нив нема награда, зашто и споменот за нив е предаден на заборавот,</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g8s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g8s10">
             <sub class="referenci">Проп 8,10 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g9s6">6</sup>
             <span class="stih_tekst">и љубовта нивна, и омразата нивна и љубомората нивна веќе исчезнале, и ќе немаат дел довека во ништо, што се случува на земјата.</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g14s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g14s19">
             <sub class="referenci">Сир 14,19 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g9s7">7</sup>
             <span class="stih_tekst">И така, оди, јади го радосно лебот свој и пиј го со радосно срце виното свое, кога Бог има наклоност кон твоите дела.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s24">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s24">
             <sub class="referenci">Проп 2,24 </sub>
         </a>
         </span>
@@ -1296,14 +1315,14 @@
         <span class="stih">
             <sup class="stih_broj" id="g9s9">9</sup>
             <span class="stih_tekst">Во сите дни на својот суетен живот насладувај се од животот заедно со жената, што ја сакаш, и која ти ја дал Бог на земјата за сите твои суетни дни; зашто, тоа е твој дел во животот и во твоите трудови, со кои се трудиш на земјата.</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g5s18">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g5s18">
             <sub class="referenci">Изреки 5,18 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g9s10">10</sup>
             <span class="stih_tekst">Сѐ, што може да врши раката твоја, според силите твои, врши; зашто во гробот, каде што ќе појдеш, нема ни работа, ни размислување, ни знаење, ни мудрост.</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g14s16">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g14s16">
             <sub class="referenci">Сир 14,16 </sub>
         </a>
         </span>
@@ -1315,7 +1334,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g9s12">12</sup>
             <span class="stih_tekst">Зашто човек не знае кога ќе го снајде несреќа. Како што рибите налетуваат во погубна мрежа, и како што птиците се заплеткуваат во примки, така и синовите човечки се уловуваат во тешко време, кога тоа неочекувано ќе дојде за нив.</span>
-        <a epub:type="noteref" href="Kniga53_Lk.xhtml#g12s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga53_Lk.xhtml#g12s20">
             <sub class="referenci">Лк 12,20 </sub>
         </a>
         </span>
@@ -1330,20 +1349,20 @@
         <span class="stih">
             <sup class="stih_broj" id="g9s15">15</sup>
             <span class="stih_tekst">но во него се најде човек сиромав, но умен, и тој со својата мудрост го спаси тој град; и при сето тоа никој не се сети за тој сиромав.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g4s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g4s13">
             <sub class="referenci">Проп 4,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g21s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g21s22">
             <sub class="referenci">Изреки 21,22 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g24s5">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g24s5">
             <sub class="referenci">Изреки 24,5 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g9s16">16</sup>
             <span class="stih_tekst">И јас си реков: мудроста е подобра од силата, и при сето тоа што мудроста на сиромавиот се пренебрегнува, и зборовите негови не се слушаат.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g7s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g7s19">
             <sub class="referenci">Проп 7,19 </sub>
         </a>
         </span>
@@ -1360,14 +1379,14 @@
         <span class="stih">
             <span class="glava_broj" id="g10">10</span>
         <span class="stih_tekst">Мртвите муви го расипуваат и го усмрдуваат благопријатното масло на мироварец: истото го прави една мала глупост на уважуван човек за неговата мудрост и чест.</span>
-        <a epub:type="noteref" href="Kniga59_Gal.xhtml#g5s9">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga59_Gal.xhtml#g5s9">
             <sub class="referenci">Гал 5,9 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g10s2">2</sup>
             <span class="stih_tekst">Срцето на мудриот се наклонува кон десно, а срцето на глупавиот – кон лево.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g2s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g2s14">
             <sub class="referenci">Проп 2,14 </sub>
         </a>
         </span>
@@ -1378,10 +1397,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g10s4">4</sup>
             <span class="stih_tekst">Ако гневот на оној што владее избувне врз тебе, не напуштај го местото свое, зашто кроткоста спречува големи грешки.</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g15s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g15s4">
             <sub class="referenci">Изреки 15,4 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g16s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g16s14">
             <sub class="referenci">Изреки 16,14 </sub>
         </a>
         </span>
@@ -1392,10 +1411,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g10s6">6</sup>
             <span class="stih_tekst">неразумниот се поставува на голема височина, а богатите седат ниско.</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g19s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g19s10">
             <sub class="referenci">Изреки 19,10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g30s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g30s22">
             <sub class="referenci">Изреки 30,22 </sub>
         </a>
         </span>
@@ -1406,13 +1425,13 @@
         <span class="stih">
             <sup class="stih_broj" id="g10s8">8</sup>
             <span class="stih_tekst">Кој копа јама, сам ќе падне во неа, и кој соборува ограда, змија ќе го касне.</span>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g7s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g7s15">
             <sub class="referenci">Пс 7,15 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g26s27">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g26s27">
             <sub class="referenci">Изреки 26,27 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g27s26">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g27s26">
             <sub class="referenci">Сир 27,26 </sub>
         </a>
         </span>
@@ -1423,7 +1442,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g10s10">10</sup>
             <span class="stih_tekst">Ако отапи секирата, и ако сечилото нејзино не биде наострено, ќе треба повеќе сила; мудроста знае тоа да го поправи.</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g16s32">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g16s32">
             <sub class="referenci">Изреки 16,32 </sub>
         </a>
         </span>
@@ -1435,27 +1454,27 @@
         <span class="stih">
             <sup class="stih_broj" id="g10s12">12</sup>
             <span class="stih_tekst">Зборовите од уста на мудрец се благодат, а устата на безумниот самиот него го погубува:</span>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g10s32">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g10s32">
             <sub class="referenci">Изреки 10,32 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g15s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g15s2">
             <sub class="referenci">Изреки 15,2 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g10s13">13</sup>
             <span class="stih_tekst">првите зборови од устата му се глупост, а крајот на речта на устата негова – лошо безумие.</span>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g32s6">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g32s6">
             <sub class="referenci">Ис 32,6 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g13s1">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g13s1">
             <sub class="referenci">Пс 13,1 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g10s14">14</sup>
             <span class="stih_tekst">Глупавиот зборува многу, а човекот и не знае што ќе биде; та и кој ќе му каже, што ќе биде по него?</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s22">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s22">
             <sub class="referenci">Проп 3,22 </sub>
         </a>
         </span>
@@ -1470,10 +1489,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g10s17">17</sup>
             <span class="stih_tekst">Блазе тебе, земјо, кога царот ти е од род благороден, и кнезовите твои јадат навреме, за поткрепа, а не за преситување!</span>
-        <a epub:type="noteref" href="Kniga32_Is.xhtml#g3s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga32_Is.xhtml#g3s4">
             <sub class="referenci">Ис 3,4.10 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g31s4">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g31s4">
             <sub class="referenci">Изреки 31,4 </sub>
         </a>
         </span>
@@ -1484,23 +1503,23 @@
         <span class="stih">
             <sup class="stih_broj" id="g10s19">19</sup>
             <span class="stih_tekst">Гоштевања се приредуваат заради наслада и виното го весели животот; а сѐ прави среброто.</span>
-        <a epub:type="noteref" href="Kniga7_Sud.xhtml#g9s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga7_Sud.xhtml#g9s13">
             <sub class="referenci">Суд 9,13 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g103s15">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g103s15">
             <sub class="referenci">Пс 103,15 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g10s20">20</sup>
             <span class="stih_tekst">Дури и во мислите свои не навредувај го царот, и во спалната своја не го навредувај богатиот; зашто небесната птица може да го пренесе твојот збор, и сѐ што има крилја ќе го соопшти твојот збор.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g7s21">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g7s21">
             <sub class="referenci">Проп 7,21 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga2_2Mojs.xhtml#g22s28">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga2_2Mojs.xhtml#g22s28">
             <sub class="referenci">2 Мојс 22,28 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga53_Lk.xhtml#g12s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga53_Lk.xhtml#g12s2">
             <sub class="referenci">Лк 12,2-3 </sub>
         </a>
         </span>
@@ -1526,16 +1545,16 @@
         <span class="stih">
             <sup class="stih_broj" id="g11s5">5</sup>
             <span class="stih_tekst">Како што не ги знаеш патиштата на ветрот, ниту како настануваат коските во утробата на бремена жена, така не можеш да ги знаеш ни делата на Бога, Кој создава сѐ.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s11">
             <sub class="referenci">Проп 3,11 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga25_Ps.xhtml#g138s14">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga25_Ps.xhtml#g138s14">
             <sub class="referenci">Пс 138,14-16 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga27_Izreki.xhtml#g30s19">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga27_Izreki.xhtml#g30s19">
             <sub class="referenci">Изреки 30,19 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga54_Jn.xhtml#g3s8">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga54_Jn.xhtml#g3s8">
             <sub class="referenci">Јн 3,8 </sub>
         </a>
         </span>
@@ -1546,10 +1565,10 @@
         <span class="stih">
             <sup class="stih_broj" id="g11s7">7</sup>
             <span class="stih_tekst">Слатка е светлината дневна за гледање, и пријатно е да се биде жив.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g12s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g12s2">
             <sub class="referenci">Проп 12,2 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga29_Pesna.xhtml#g6s10">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga29_Pesna.xhtml#g6s10">
             <sub class="referenci">Песна 6,10 </sub>
         </a>
         </span>
@@ -1561,7 +1580,7 @@
         <span class="stih">
             <sup class="stih_broj" id="g11s9">9</sup>
             <span class="stih_tekst">Весели се во младоста своја, момче, и срцето твое да вкусува радост во дните на твојата младост; и оди каде што срцето те влече и каде што очите ти гледаат; само знај дека за сето тоа Бог ќе те изведе на суд.</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g14s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g14s11">
             <sub class="referenci">Сир 14,11 </sub>
         </a>
         </span>
@@ -1598,17 +1617,17 @@
         <span class="stih">
             <sup class="stih_broj" id="g12s7">7</sup>
             <span class="stih_tekst">И ќе се врати правот во земјата, како што си бил; а духот ќе се врати кај Бога, Кој го дал.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s20">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s20">
             <sub class="referenci">Проп 3,20 </sub>
         </a>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g40s11">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g40s11">
             <sub class="referenci">Сир 40,11 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g12s8">8</sup>
             <span class="stih_tekst">Суета над суетите, вели проповедникот, сѐ е суета!</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g1s2">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g1s2">
             <sub class="referenci">Проп 1,2 </sub>
         </a>
         </span>
@@ -1632,18 +1651,20 @@
         <span class="stih">
             <sup class="stih_broj" id="g12s13">13</sup>
             <span class="stih_tekst">А суштината на сѐ е: имај страв од Бога и пази ги Неговите заповеди, зашто тоа му е сета должност на човекот;</span>
-        <a epub:type="noteref" href="Kniga31_Sir.xhtml#g1s13">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga31_Sir.xhtml#g1s13">
             <sub class="referenci">Сир 1,13-26 </sub>
         </a>
         </span>
         <span class="stih">
             <sup class="stih_broj" id="g12s14">14</sup>
             <span class="stih_tekst">зашто Бог ќе ја изведе на суд секоја работа, и што е тајно, било да е добро или лошо.</span>
-        <a epub:type="noteref" href="Kniga28_Prop.xhtml#g3s17">
+        <a epub:type="noteref" onclick="handleReferenca(this, event);return false;"  href="Kniga28_Prop.xhtml#g3s17">
             <sub class="referenci">Проп 3,17 </sub>
         </a>
         </span>
     </p>
-</div></body>
+</div><iframe name="refFrame" id="refFrame" src="Kniga1_1Mojs.xhtml?isFrame=True#g11s22" title="Referenci" 
+    frameborder="0" border="0" cellspacing="0"></iframe>
+</body>
 
 </html>
